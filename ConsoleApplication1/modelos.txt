@@ -1,0 +1,7270 @@
+Samsung;Galaxy S7 active
+Samsung;Galaxy Tab A 10.1 (2016)
+Samsung;Galaxy Express 3
+Samsung;Convoy 4
+Samsung;Galaxy Express Prime
+Samsung;Galaxy Amp 2
+Samsung;Galaxy Amp Prime
+Samsung;Galaxy J5 (2016)
+Samsung;Galaxy J7 (2016)
+Samsung;Galaxy Tab A (2016)
+Samsung;Galaxy Tab E Lite 7.0
+Samsung;Galaxy S7 edge
+Samsung;Galaxy S7
+Samsung;Galaxy Tab E 8.0
+Samsung;Galaxy J3 (2016)
+Samsung;Galaxy J1 (2016)
+Samsung;Galaxy TabPro S
+Samsung;Galaxy A3 (2016)
+Samsung;Galaxy A5 (2016)
+Samsung;Galaxy A7 (2016)
+Samsung;Galaxy On7
+Samsung;Galaxy On5
+Samsung;Z3
+Samsung;Galaxy A9 (2016)
+Samsung;Galaxy View
+Samsung;Galaxy Note 5
+Samsung;Galaxy S6 edge+
+Samsung;Galaxy Tab S2 9.7-inch
+Samsung;Galaxy Tab S2 8.0-inch
+Samsung;Galaxy S5 Neo
+Samsung;Galaxy J7
+Samsung;Galaxy A8
+Samsung;Galaxy V Plus
+Samsung;Galaxy Tab E
+Samsung;Galaxy J5
+Samsung;Galaxy S6 Active
+Samsung;Galaxy Grand Neo Plus
+Samsung;Galaxy Tab A 8.0
+Samsung;Galaxy Tab A 9.7
+Samsung;Galaxy Tab 3 V
+Samsung;Galaxy XCover 3
+Samsung;Galaxy S6
+Samsung;Galaxy S6 edge
+Samsung;Galaxy J1
+Samsung;Z1
+Samsung;Galaxy A7
+Samsung;Galaxy Grand Max
+Samsung;Galaxy E7
+Samsung;Galaxy E5
+Samsung;Galaxy A3
+Samsung;Galaxy A5
+Samsung;Galaxy S5 Plus
+Samsung;Galaxy Core Prime
+Samsung;Galaxy Grand Prime
+Samsung;Galaxy V
+Samsung;Galaxy Tab Active
+Samsung;Galaxy Note Edge
+Samsung;Galaxy Note 4
+Samsung;Galaxy S Duos 3
+Samsung;Galaxy Alpha
+Samsung;Galaxy Avant
+Samsung;SGH-S150G
+Samsung;Galaxy Centura
+Samsung;Galaxy Ace NXT
+Samsung;Galaxy Mega 2
+Samsung;Galaxy S5 mini
+Samsung;Galaxy Star 2
+Samsung;Galaxy Young 2
+Samsung;Galaxy Ace 4
+Samsung;Galaxy S5 Sport
+Samsung;Galaxy S5 LTE-A
+Samsung;Galaxy Pocket 2
+Samsung;Galaxy Tab S 10.5
+Samsung;Galaxy Tab S 8.4
+Samsung;Denim
+Samsung;Rugby 4
+Samsung;Galaxy S5 Active
+Samsung;Gusto 3
+Samsung;Galaxy K zoom
+Samsung;Galaxy Core 2
+Samsung;Galaxy Beam 2
+Samsung;SGH-T199
+Samsung;Galaxy S3 Neo
+Samsung;Galaxy Ace Style
+Samsung;ATIV SE
+Samsung;Galaxy Tab 4 7.0
+Samsung;Galaxy Tab 4 8.0
+Samsung;Galaxy Tab 4 10.1
+Samsung;Galaxy S3 Slim
+Samsung;Galaxy S4 Value Edition
+Samsung;Galaxy S5
+Samsung;Galaxy Core LTE
+Samsung;Galaxy S III mini Value Edition
+Samsung;Galaxy Note 3 Neo
+Samsung;Galaxy Grand Neo
+Samsung;Galaxy Tab 3 Lite
+Samsung;Galaxy NotePRO 12.2
+Samsung;Galaxy Tab Pro 8.4
+Samsung;Galaxy Tab Pro 10.1
+Samsung;Galaxy Tab Pro 12.2
+Samsung;Galaxy Express 2
+Samsung;Galaxy Core Advance
+Samsung;Galaxy Trend Plus
+Samsung;Galaxy Grand 2
+Samsung;C3590
+Samsung;Galaxy Light
+Samsung;Galaxy Trend Lite
+Samsung;Galaxy Round
+Samsung;Galaxy Core Plus
+Samsung;Galaxy Star Pro
+Samsung;Galaxy Golden
+Samsung;GT-C3592
+Samsung;GT-C3595
+Samsung;Galaxy Note 3
+Samsung;GALAXY Note 10.1 (2014 Edition)
+Samsung;GALAXY Tab 3 Kids
+Samsung;Galaxy S II TV
+Samsung;Hennessy
+Samsung;Freeform M
+Samsung;Convoy 3
+Samsung;Galaxy Prevail 2
+Samsung;Gravity Q
+Samsung;ATIV S Neo
+Samsung;Galaxy Fame Lite Duos
+Samsung;ATIV Q
+Samsung;ATIV Tab 3
+Samsung;Galaxy Ring
+Samsung;Galaxy S4 Zoom
+Samsung;Galaxy Ace 3
+Samsung;Galaxy S4 Active
+Samsung;Galaxy Tab 3 8-inch
+Samsung;Galaxy Tab 3 10.1-inch
+Samsung;Galaxy S4 mini
+Samsung;Galaxy Core
+Samsung;Galaxy Tab 3 7.0
+Samsung;Galaxy Mega 5.8
+Samsung;Galaxy Mega 6.3
+Samsung;Freeform 5
+Samsung;Galaxy Win
+Samsung;GALAXY Star
+Samsung;Galaxy Pocket Neo
+Samsung;Galaxy S4
+Samsung;Galaxy Note 8.0
+Samsung;E3309
+Samsung;E1265 Duos
+Samsung;S275G
+Samsung;Rex 90
+Samsung;Rex 80
+Samsung;Rex 70
+Samsung;Rex 60
+Samsung;Galaxy Discover S730G
+Samsung;Galaxy Young
+Samsung;Galaxy Fame
+Samsung;Galaxy Exhibit
+Samsung;Galaxy Express
+Samsung;Galaxy Xcover 2
+Samsung;Galaxy Pocket Plus
+Samsung;Galaxy Amp
+Samsung;GALAXY S II Plus
+Samsung;GALAXY Note 10.1 LTE
+Samsung;Galaxy Grand
+Samsung;Rugby III
+Samsung;Galaxy S III Cricket
+Samsung;Galaxy Ace II x
+Samsung;Galaxy Premier
+Samsung;ATIV Odyssey
+Samsung;Galaxy Axiom
+Samsung;M400
+Samsung;Galaxy S III mini
+Samsung;Galaxy Tab 2 10.1
+Samsung;GALAXY Music
+Samsung;Galaxy Tab 2 10.1 (AT&T)
+Samsung;Galaxy Express I437
+Samsung;Galaxy Rugby Pro
+Samsung;GALAXY Note II T-Mobile
+Samsung;GALAXY Note II Sprint
+Samsung;GALAXY Note II US Cellular
+Samsung;GALAXY Note II AT&T
+Samsung;GALAXY Note II Verizon
+Samsung;Galaxy Victory 4G LTE
+Samsung;Galaxy Pocket Duos
+Samsung;ATIV Tab 5
+Samsung;ATIV Tab 7
+Samsung;ATIV S
+Samsung;ATIV Tab
+Samsung;GALAXY Note II
+Samsung;Galaxy Rush
+Samsung;Galaxy Stratosphere II
+Samsung;Galaxy Discover
+Samsung;Galaxy Admire 4G
+Samsung;E1263 Trios
+Samsung;E2262
+Samsung;GALAXY Tab 2 (7.0) LTE
+Samsung;Champ Neo DUOS
+Samsung;Manhattan
+Samsung;Restore M575
+Samsung;Montage
+Samsung;Entro
+Samsung;Galaxy S III MetroPCS
+Samsung;Contour 2
+Samsung;Galaxy Stellar
+Samsung;Galaxy Reverb
+Samsung;S3572
+Samsung;Galaxy S Duos
+Samsung;Galaxy S Relay 4G
+Samsung;Chrono 2
+Samsung;Freeform 4
+Samsung;Galaxy Chat
+Samsung;T159
+Samsung;Intensity III
+Samsung;SGH-S425G
+Samsung;Galaxy Appeal
+Samsung;Galaxy S III Verizon
+Samsung;Omnia M
+Samsung;Galaxy S Lightray 4G
+Samsung;Galaxy S III Sprint
+Samsung;Focus 2
+Samsung;Galaxy S III
+Samsung;Galaxy S III T-Mobile
+Samsung;Galaxy S III AT&T
+Samsung;Evan C3782
+Samsung;Galaxy Player 3.6
+Samsung;GALAXY Note T-Mobile
+Samsung;Gusto 2
+Samsung;Galaxy Pocket
+Samsung;Galaxy Player 4.2
+Samsung;GALAXY Note 10.1
+Samsung;Galaxy Tab 2 (10.1)
+Samsung;Galaxy Beam
+Samsung;GALAXY Ace DUOS
+Samsung;Rugby Smart
+Samsung;A157
+Samsung;GALAXY Ace 2
+Samsung;GALAXY mini 2
+Samsung;Galaxy S II CDMA
+Samsung;GALAXY Tab 2 (7.0)
+Samsung;S390G
+Samsung;R220
+Samsung;GALAXY S Advance
+Samsung;Star 3
+Samsung;Star 3 DUOS
+Samsung;E1232
+Samsung;Galaxy S Blaze 4G
+Samsung;Exhilarate
+Samsung;GALAXY Note LTE
+Samsung;Galaxy S II Skyrocket HD
+Samsung;Galaxy Attain 4G
+Samsung;M370
+Samsung;Galaxy Ace Plus
+Samsung;Galaxy Y Pro DUOS
+Samsung;Galaxy Y DUOS
+Samsung;Galaxy Tab 7.7 LTE
+Samsung;Champ Deluxe DUOS
+Samsung;SGH-S125G
+Samsung;Brightside
+Samsung;Xcover 2
+Samsung;C3332
+Samsung;Repp
+Samsung;Champ 3.5G
+Samsung;I6712
+Samsung;Galaxy S II Skyrocket
+Samsung;GALAXY Nexus
+Samsung;Transfix
+Samsung;DoubleTime
+Samsung;Captivate Glide
+Samsung;GALAXY Nexus CDMA
+Samsung;GALAXY Nexus Sprint
+Samsung;Exhibit II 4G
+Samsung;GALAXY Tab 7.0 Plus
+Samsung;C3011
+Samsung;Omnia W
+Samsung;C3520
+Samsung;Stratosphere
+Samsung;E2600
+Samsung;Transform Ultra
+Samsung;GALAXY Tab 10.1 T-Mobile
+Samsung;Focus S
+Samsung;Focus Flash
+Samsung;GALAXY S WiFi 3.6
+Samsung;GALAXY Note
+Samsung;Galaxy Tab 7.7
+Samsung;Galaxy S II AT&T
+Samsung;Galaxy S II T-Mobile
+Samsung;Epic 4G Touch
+Samsung;Wave M
+Samsung;Wave Y
+Samsung;Wave 3
+Samsung;GALAXY Tab 8.9 LTE
+Samsung;Galaxy S II LTE
+Samsung;Champ 2
+Samsung;SGH-T245G
+Samsung;Galaxy M Pro
+Samsung;Galaxy Y
+Samsung;Galaxy Y Pro
+Samsung;GALAXY W
+Samsung;Ch@t 527
+Samsung;Galaxy Xcover
+Samsung;Gravity TXT
+Samsung;Convoy 2
+Samsung;Illusion
+Samsung;Primo
+Samsung;Admire
+Samsung;E1195
+Samsung;Freeform III
+Samsung;Galaxy R
+Samsung;GALAXY Tab 10.1 Wi-Fi
+Samsung;Indulge
+Samsung;Trender
+Samsung;Gravity SMART
+Samsung;Exhibit 4G
+Samsung;Chrono
+Samsung;C3750
+Samsung;Dart
+Samsung;SCH-R455C
+Samsung;GALAXY Tab 10.1 LTE
+Samsung;Fascinate 4G
+Samsung;Conquer 4G
+Samsung;E2232
+Samsung;C3322
+Samsung;Character
+Samsung;C3752
+Samsung;Replenish
+Samsung;Hero E3213
+Samsung;C3560
+Samsung;Star II DUOS
+Samsung;E1182
+Samsung;Ch@t222
+Samsung;Galaxy Tab Wi-Fi
+Samsung;Galaxy Prevail
+Samsung;Galaxy S Plus
+Samsung;GALAXY Tab 10.1
+Samsung;GALAXY Tab 8.9
+Samsung;E2230
+Samsung;S5511
+Samsung;Galaxy Player 5
+Samsung;GALAXY S WiFi 4.0
+Samsung;Factor
+Samsung;Corby II
+Samsung;GALAXY Pro
+Samsung;E2530
+Samsung;Wave 578
+Samsung;Galaxy S II
+Samsung;GALAXY Tab 10.1v
+Samsung;T528
+Samsung;Galaxy SL
+Samsung;E2652 Champ Duos
+Samsung;E2652W Champ Duos
+Samsung;GALAXY Gio
+Samsung;Ch@t 350
+Samsung;Star II
+Samsung;T330G
+Samsung;E2330
+Samsung;GALAXY mini
+Samsung;GALAXY Fit
+Samsung;Galaxy Ace
+Samsung;Galaxy S 4G
+Samsung;Galaxy Indulge
+Samsung;Ch@t 335
+Samsung;E3210
+Samsung;Galaxy Player 50
+Samsung;Galaxy Tab 4G LTE
+Samsung;Droid Charge
+Samsung;Infuse 4G
+Samsung;T259
+Samsung;C3530
+Samsung;Profile
+Samsung;T340G
+Samsung;Giorgio Armani Galaxy S
+Samsung;Continuum
+Samsung;Contour
+Samsung;Solstice II
+Samsung;Messager III
+Samsung;Evergreen
+Samsung;M360
+Samsung;Zeal
+Samsung;Ch@t 322
+Samsung;E1225T
+Samsung;E1252
+Samsung;Freeform II
+Samsung;Focus
+Samsung;Omnia 7
+Samsung;Wave 575
+Samsung;Transform
+Samsung;SGH-A187
+Samsung;Wave II
+Samsung;Galaxy Apollo
+Samsung;I5510
+Samsung;SGH-A197
+Samsung;Xcover 271
+Samsung;Galaxy Tab AT&T
+Samsung;Galaxy Tab T-Mobile
+Samsung;Galaxy Tab CDMA
+Samsung;Galaxy Tab
+Samsung;Wave 723
+Samsung;Craft
+Samsung;E2152
+Samsung;C5010
+Samsung;Gem
+Samsung;Gusto
+Samsung;Eternity II
+Samsung;Flight II
+Samsung;S5530
+Samsung;SGH-T369
+Samsung;SGH-T404G
+Samsung;T249
+Samsung;Haven
+Samsung;Intensity II
+Samsung;Intercept
+Samsung;Acclaim
+Samsung;Epic 4G
+Samsung;Fascinate
+Samsung;Vibrant
+Samsung;Captivate
+Samsung;Elevate
+Samsung;Galaxy Apollo I5801
+Samsung;OMNIA Pro 4
+Samsung;OMNIA Pro 5
+Samsung;Galaxy 3
+Samsung;Wave 525
+Samsung;Wave 533
+Samsung;B7722
+Samsung;E2121B
+Samsung;Galaxy 5
+Samsung;E1086L
+Samsung;I9000B
+Samsung;Rugby II
+Samsung;Messager Touch
+Samsung;Champ
+Samsung;Gravity T
+Samsung;Gravity 3
+Samsung;Smiley :)
+Samsung;E1081T
+Samsung;E1175T
+Samsung;Corby 3G S3370
+Samsung;Seek
+Samsung;Exec
+Samsung;Restore
+Samsung;Reality
+Samsung;Corby Pro B5310R
+Samsung;Suede
+Samsung;Galaxy S
+Samsung;SPH-A310
+Samsung;SGH-A107
+Samsung;SGH-T105G
+Samsung;Strive
+Samsung;Sunburst
+Samsung;Galaxy Spica
+Samsung;SCH-R355
+Samsung;Corby Plus B3410R
+Samsung;Stride
+Samsung;SCH-R860 Caliber
+Samsung;E1150
+Samsung;Ch@t
+Samsung;Beam I8520
+Samsung;Wave
+Samsung;E2370
+Samsung;Monte Slider
+Samsung;Monte Bar
+Samsung;Star TV
+Samsung;SCH-R312
+Samsung;SGH-C275
+Samsung;Advance
+Samsung;SGH-T139
+Samsung;Monte S5620
+Samsung;S5350L
+Samsung;Corby Beat M3710
+Samsung;Shark 2 S5550
+Samsung;Shark S5350
+Samsung;Shark 3 S3550
+Samsung;Beat Techno
+Samsung;C3510
+Samsung;SGH-T336
+Samsung;M3310
+Samsung;Stunt
+Samsung;S5500
+Samsung;Lindy M5650
+Samsung;Corby S3650W
+Samsung;Impact
+Samsung;Diva folder S5150
+Samsung;Diva S7070
+Samsung;Hype
+Samsung;C5130
+Samsung;Forever
+Samsung;E2130
+Samsung;S5510
+Samsung;SGH-T155G
+Samsung;B5722
+Samsung;C6112
+Samsung;B3410
+Samsung;S5560
+Samsung;SGH-T401G
+Samsung;E1130
+Samsung;Blade S5600v
+Samsung;Giorgio Armani B7620
+Samsung;Mythic
+Samsung;Flight
+Samsung;Behold II
+Samsung;E1390
+Samsung;C3212 Duos
+Samsung;E1160
+Samsung;Caliber
+Samsung;Trill
+Samsung;Vodafone 360 M1
+Samsung;Vodafone 360 H1
+Samsung;CorbyPRO B5310
+Samsung;CorbyTXT B3210
+Samsung;E1085L
+Samsung;E1085T
+Samsung;SPH-M330
+Samsung;Star WiFi
+Samsung;SPH-M240
+Samsung;E2100L
+Samsung;S3110L
+Samsung;Messager II
+Samsung;S3100
+Samsung;E2120
+Samsung;Corby S3650
+Samsung;B3310
+Samsung;Moment
+Samsung;OmniaPRO B7330
+Samsung;Beat Twist
+Samsung;SCH-R350 Freeform
+Samsung;I7500L
+Samsung;Solstice SGH-A887
+Samsung;I8000L
+Samsung;S9110
+Samsung;Convoy
+Samsung;C5510
+Samsung;E1080
+Samsung;E1107L
+Samsung;E1107
+Samsung;E1105
+Samsung;C3060
+Samsung;S6700
+Samsung;M2310
+Samsung;SGH-T659
+Samsung;Intensity
+Samsung;Code SCH-I220
+Samsung;M2510
+Samsung;Highlight
+Samsung;SCH-R540
+Samsung;E1210
+Samsung;SGH-J706
+Samsung;E1360
+Samsung;E1125
+Samsung;OmniaPRO B7320L
+Samsung;Axle
+Samsung;Omnia II CDMA
+Samsung;OmniaLITE B7300
+Samsung;OmniaPRO B7320
+Samsung;OmniaPRO B7610
+Samsung;Omnia II
+Samsung;MyShot II
+Samsung;Mantra
+Samsung;SGH-T239
+Samsung;S5050
+Samsung;Pixon12
+Samsung;S5200
+Samsung;SPH-M230
+Samsung;SGH-A167
+Samsung;Jack
+Samsung;SGH-A177
+Samsung;Comeback
+Samsung;SGH-T349
+Samsung;Gravity 2
+Samsung;Tint
+Samsung;Galaxy
+Samsung;Jet
+Samsung;SGH-A657
+Samsung;SGH-T201G
+Samsung;SGH-T301G
+Samsung;SGH-T101G
+Samsung;E2510
+Samsung;Rogue
+Samsung;Finesse
+Samsung;Magnet
+Samsung;Alias 2
+Samsung;Trance
+Samsung;Reclaim
+Samsung;Exclaim
+Samsung;Intrepid
+Samsung;Instinct HD
+Samsung;Impression
+Samsung;Preston
+Samsung;Star
+Samsung;Instinct s30
+Samsung;SCH-R211
+Samsung;Smooth
+Samsung;SGH-I900L OMNIA
+Samsung;SGH-F406
+Samsung;S3310
+Samsung;Blue Earth
+Samsung;C6625
+Samsung;Ultra B
+Samsung;Ultra S
+Samsung;BEAT DISC
+Samsung;E1120
+Samsung;C3010
+Samsung;C3050
+Samsung;E1310B
+Samsung;E1310
+Samsung;E2210B
+Samsung;E2210
+Samsung;E2100B
+Samsung;B2100
+Samsung;B5702
+Samsung;I7410
+Samsung;SGH-C270
+Samsung;S3110
+Samsung;S3500
+Samsung;C6620
+Samsung;BEAT DJ
+Samsung;M7600B
+Samsung;M7600L
+Samsung;E1100
+Samsung;OMNIA HD
+Samsung;Propel Pro
+Samsung;E1070
+Samsung;C5212
+Samsung;SGH-P250
+Samsung;TwoStep
+Samsung;SGH-T119
+Samsung;SGH-S366
+Samsung;SGH-U800E
+Samsung;SGH-J770
+Samsung;UltraTOUCH
+Samsung;SGH-P270
+Samsung;E1410
+Samsung;C3110
+Samsung;E1110
+Samsung;Byline
+Samsung;SCH-U440 Cleo
+Samsung;SGH-E215
+Samsung;E1117L
+Samsung;E1117
+Samsung;SGH-i740
+Samsung;SGH-F270
+Samsung;Memoir
+Samsung;GT-S3600
+Samsung;SGH-L810
+Samsung;SGH-J165
+Samsung;SGH-B300
+Samsung;SGH-M120
+Samsung;SGH-B320
+Samsung;SGH-M150
+Samsung;SGH-M200
+Samsung;Ego
+Samsung;SGH-B220
+Samsung;SGH-E200 Eco
+Samsung;Tobi
+Samsung;Hue II
+Samsung;Eternity
+Samsung;JetSet
+Samsung;SGH-A777
+Samsung;Gravity
+Samsung;Behold
+Samsung;SGH-D980 DUOS
+Samsung;Delve
+Samsung;Renown
+Samsung;I7110
+Samsung;SGH-A637
+Samsung;SGH-T109
+Samsung;Sway
+Samsung;Pixon
+Samsung;Propel
+Samsung;Emporio Armani Night Effect
+Samsung;BEATs
+Samsung;Rant
+Samsung;Highnote
+Samsung;Rugby
+Samsung;Epix
+Samsung;Omnia CDMA
+Samsung;BEATb
+Samsung;S7330
+Samsung;B2700
+Samsung;SGH-A137
+Samsung;Knack
+Samsung;SGH-A237
+Samsung;SPH-M320
+Samsung;SPH-M220
+Samsung;Messager
+Samsung;SGH-J800
+Samsung;INNOV8
+Samsung;SGH-C450
+Samsung;SGH-B200
+Samsung;SGH-B130
+Samsung;SGH-B110
+Samsung;SGH-B100
+Samsung;SGH-M310
+Samsung;SGH-L700
+Samsung;SGH-M620
+Samsung;SGH-A227
+Samsung;SCH-U430
+Samsung;OMNIA
+Samsung;Saga
+Samsung;Soulb
+Samsung;SGH-L870
+Samsung;Slash
+Samsung;SGH-F265L
+Samsung;SGH-A226
+Samsung;SGH-M320L
+Samsung;SGH-J210
+Samsung;SGH-D780 DUOS
+Samsung;SGH-J400
+Samsung;SGH-P220
+Samsung;SPH-Z400
+Samsung;SPH-Z700
+Samsung;MyShot
+Samsung;Access
+Samsung;Spex
+Samsung;SGH-T339
+Samsung;SGH-T229
+Samsung;miCoach
+Samsung;SGH-E747
+Samsung;SGH-G400
+Samsung;SGH-i550w
+Samsung;SGH-M110
+Samsung;SGH-J700
+Samsung;SGH-G810
+Samsung;SGH-F480
+Samsung;SGH-F400
+Samsung;SGH-P960
+Samsung;SGH-i200
+Samsung;SGH-L770
+Samsung;SGH-E251
+Samsung;SGH-J150
+Samsung;SGH-L170
+Samsung;SGH-L320
+Samsung;SGH-L310
+Samsung;Soul
+Samsung;Instinct
+Samsung;SCH-U550
+Samsung;SGH-A736
+Samsung;SGH-F490
+Samsung;SGH-I780
+Samsung;SCH-R300
+Samsung;SGH-J750
+Samsung;SGH-Z240
+Samsung;SPH-A523
+Samsung;SGH-T819
+Samsung;Katalyst
+Samsung;SGH-F250
+Samsung;Ace
+Samsung;SCH-R410
+Samsung;SGH-T419
+Samsung;SCH-R610
+Samsung;SGH-J610
+Samsung;SGH-T439
+Samsung;SLM
+Samsung;SGH-D880 DUOS
+Samsung;Glyde
+Samsung;SGH-A737
+Samsung;BlackJack II
+Samsung;SGH-G800
+Samsung;SGH-i560
+Samsung;SGH-J200
+Samsung;SGH-i550
+Samsung;SGH-F330
+Samsung;SGH-i450
+Samsung;SGH-A127
+Samsung;SGH-T639
+Samsung;Juke
+Samsung;Serenata
+Samsung;Beat
+Samsung;SGH-J600E
+Samsung;Gleam
+Samsung;FlipShot
+Samsung;SGH-T429
+Samsung;SCH-R200
+Samsung;SCH-U410
+Samsung;SGH-i400
+Samsung;SGH-i620
+Samsung;SGH-A517
+Samsung;SGH-G600
+Samsung;SGH-L760
+Samsung;SCH-R400
+Samsung;SCH-i760
+Samsung;SPH-M305
+Samsung;SPH-A513
+Samsung;SGH-F200
+Samsung;SGH-I640V
+Samsung;SGH-T729
+Samsung;SGH-E950
+Samsung;SGH-A117
+Samsung;SPH-M520
+Samsung;Giorgio Armani
+Samsung;SCH-R500
+Samsung;SGH-E740
+Samsung;SGH-F210
+Samsung;SGH-A437
+Samsung;SGH-C160
+Samsung;SGH-M600
+Samsung;SGH-E210
+Samsung;SGH-C520
+Samsung;SGH-M610
+Samsung;SGH-T409
+Samsung;SGH-L600
+Samsung;SGH-E830
+Samsung;SGH-A727
+Samsung;SGH-A717
+Samsung;SGH-E840
+Samsung;SGH-A706
+Samsung;SPH-M510
+Samsung;SPH-M300
+Samsung;SGH-C170
+Samsung;SGH-E256
+Samsung;SGH-J600
+Samsung;SCH-R510
+Samsung;SGH-Z170
+Samsung;SGH-D900I Ultra 12.9
+Samsung;UpStage
+Samsung;SCH-U540
+Samsung;SGH-E200
+Samsung;SGH-C260
+Samsung;SGH-E590
+Samsung;SGH-i718 / SGH-i710
+Samsung;SGH-T219
+Samsung;SGH-E790
+Samsung;SGH-i600 Ultra Messaging
+Samsung;SPH-A303
+Samsung;SGH-T329
+Samsung;SGH-U600 Ultra 10.9
+Samsung;SGH-U700 Ultra 12.1
+Samsung;SGH-U300 Ultra 9.6
+Samsung;SGH-U100 Ultra 5.9
+Samsung;SGH-F520
+Samsung;SGH-F510 Ultra TV
+Samsung;SGH-i520
+Samsung;SGH-U106 Ultra 5.9
+Samsung;SGH-P940
+Samsung;SGH-F500 Ultra Video
+Samsung;SGH-F700
+Samsung;SGH-E898
+Samsung;SGH-Z650i
+Samsung;SGH-E480
+Samsung;SGH-E490
+Samsung;SGH-X540
+Samsung;SGH-E690
+Samsung;SGH-E890
+Samsung;SGH-C327
+Samsung;SCH-U340
+Samsung;SGH-Z620
+Samsung;SGH-E390
+Samsung;SGH-X530
+Samsung;SCH-U510
+Samsung;SGH-E250
+Samsung;SCH-U520
+Samsung;SGH-X520
+Samsung;SGH-F300 Ultra Music
+Samsung;SGH-P930
+Samsung;SPH-M610
+Samsung;SGH-P900
+Samsung;SCH-U620
+Samsung;SCH-U740
+Samsung;SGH-Z720
+Samsung;SGH-X830
+Samsung;SGH-E420 LaFleur
+Samsung;SGH-E570 LaFleur
+Samsung;SPH-A503
+Samsung;SGH-X510
+Samsung;Sync
+Samsung;SPH-A960
+Samsung;SGH-P310 cardFon
+Samsung;SGH-Z370
+Samsung;SGH-S501i
+Samsung;SGH-i310
+Samsung;SGH-T629
+Samsung;SGH-C400
+Samsung;BlackJack
+Samsung;SGH-P920
+Samsung;SGH-T719
+Samsung;Trace
+Samsung;SCH-U420 Nimbus
+Samsung;SGH-P200
+Samsung;SGH-ZX20
+Samsung;SGH-Z230
+Samsung;SGH-S401i
+Samsung;SCH-A870
+Samsung;SCH-A645
+Samsung;SGH-D606
+Samsung;SGH-E380
+Samsung;SGH-X500
+Samsung;SGH-E500 LaFleur
+Samsung;SGH-T619
+Samsung;SGH-C417
+Samsung;SPH-M500
+Samsung;SGH-D830 Ultra 9.9
+Samsung;SGH-Z560
+Samsung;SGH-D840
+Samsung;SGH-ZV40
+Samsung;SGH-X680
+Samsung;SPH-A420
+Samsung;SGH-X630
+Samsung;SGH-D900 Ultra 12.9
+Samsung;SGH-Z540
+Samsung;SGH-Z400
+Samsung;SGH-X210
+Samsung;SGH-X467
+Samsung;SPH-A640
+Samsung;SGH-X670
+Samsung;SGH-E376
+Samsung;SCH-A990
+Samsung;SGH-C240
+Samsung;SGH-i320
+Samsung;SCH-A930
+Samsung;SGH-D347
+Samsung;SGH-D407
+Samsung;SGH-T209
+Samsung;SGH-C406
+Samsung;SGH-E780
+Samsung;SGH-X820 Ultra 6.9
+Samsung;SGH-E900
+Samsung;SGH-T319
+Samsung;SGH-T609
+Samsung;SGH-T509
+Samsung;SPH-A580
+Samsung;SGH-X507
+Samsung;SGH-Z710
+Samsung;SCH-A915
+Samsung;SGH-P910
+Samsung;SGH-S400i
+Samsung;SGH-Z550
+Samsung;SGH-ZV50
+Samsung;SGH-X160
+Samsung;SGH-E870
+Samsung;SGH-D870
+Samsung;SGH-D520
+Samsung;SGH-Z150
+Samsung;SGH-X300
+Samsung;SGH-Z600
+Samsung;SGH-S410i
+Samsung;SGH-Z510
+Samsung;SGH-Z310
+Samsung;SGH-E910
+Samsung;SGH-ZV10
+Samsung;SGH-X650
+Samsung;SGH-E860v
+Samsung;SGH-E736
+Samsung;SGH-E360
+Samsung;SGH-X486
+Samsung;SGH-X660
+Samsung;SGH-X636
+Samsung;SGH-X490
+Samsung;SGH-D807
+Samsung;SGH-D800
+Samsung;SGH-ZV30
+Samsung;SGH-E770
+Samsung;SGH-S500i
+Samsung;SGH-T809 / SGH-D820
+Samsung;SGH-D357
+Samsung;SPH-A920
+Samsung;SPH-A900
+Samsung;SGH-P300
+Samsung;SGH-X700
+Samsung;SGH-ZX10
+Samsung;SGH-X200
+Samsung;MM-A940
+Samsung;SGH-D307 / D300
+Samsung;SCH-A970
+Samsung;SGH-T309
+Samsung;SCH-A850
+Samsung;SCH-A950
+Samsung;SCH-A630
+Samsung;SPH-A820
+Samsung;SGH-E760
+Samsung;SGH-E330N
+Samsung;SGH-X810
+Samsung;SGH-C230
+Samsung;SGH-E350E
+Samsung;SPH-A840
+Samsung;SGH-X497
+Samsung;SPH-A560
+Samsung;SGH-E635
+Samsung;SGH-X495
+Samsung;SPH-A880
+Samsung;SGH-C210
+Samsung;SGH-E880
+Samsung;SGH-P207
+Samsung;SGH-i270
+Samsung;SCH-i830
+Samsung;SGH-Z110
+Samsung;SGH-X620
+Samsung;SGH-X640
+Samsung;SGH-E640
+Samsung;SGH-P860
+Samsung;SGH-i750
+Samsung;SGH-X800
+Samsung;SGH-X480
+Samsung;SGH-E620
+Samsung;SGH-E350
+Samsung;SGH-E340
+Samsung;SGH-E730
+Samsung;SGH-P850
+Samsung;SGH-D730
+Samsung;SGH-E750
+Samsung;SGH-Z700
+Samsung;SGH-i300
+Samsung;SGH-D600
+Samsung;SGH-Z500
+Samsung;SGH-Z300
+Samsung;SGH-D720
+Samsung;SGH-Z130
+Samsung;SCH-B100
+Samsung;SCH-i730
+Samsung;SGH-E720
+Samsung;SGH-X475
+Samsung;SPH-A800
+Samsung;SGH-P777
+Samsung;SPH-N345
+Samsung;SGH-E335
+Samsung;SGH-E320
+Samsung;SGH-D428
+Samsung;SCH-A815
+Samsung;SCH-I640
+Samsung;SCH-N330
+Samsung;SPH-A740
+Samsung;SGH-D500
+Samsung;SGH-C225
+Samsung;SGH-C207
+Samsung;SCH-A890
+Samsung;SPH-A780
+Samsung;SCH-A725
+Samsung;SGH-E315
+Samsung;SGH-E610
+Samsung;SGH-S341i
+Samsung;SGH-E820
+Samsung;SCH-A770
+Samsung;SPH-A700
+Samsung;SGH-P716
+Samsung;SGH-P735
+Samsung;SGH-E608
+Samsung;SPH-i550
+Samsung;SGH-i250
+Samsung;SGH-E316
+Samsung;SGH-D710
+Samsung;SGH-X900
+Samsung;SGH-X910
+Samsung;SGH-i500
+Samsung;SPH-V4400
+Samsung;SPH-A760
+Samsung;SGH-X450
+Samsung;SGH-i505
+Samsung;SGH-D415
+Samsung;SGH-E600
+Samsung;SGH-P705
+Samsung;SGH-P107
+Samsung;SPH-A680
+Samsung;SCH-A790
+Samsung;SCH-A650
+Samsung;SGH-P500
+Samsung;SGH-E715
+Samsung;SGH-X426
+Samsung;SPH-A660
+Samsung;SPH-N290
+Samsung;SGH-X105
+Samsung;SGH-D100
+Samsung;SCH-A670
+Samsung;SGH-P400
+Samsung;SCH-A690
+Samsung;SGH-P100
+Samsung;SGH-E105
+Samsung;SGH-X400
+Samsung;SPH-A620 (VGA1000)
+Samsung;SGH-E400
+Samsung;SPH-N270 (Matrix Phone)
+Samsung;SGH-S307
+Samsung;SCH-A610
+Samsung;SGH-D700
+Samsung;SGH-i700
+Samsung;SPH-A600
+Samsung;SGH-V205
+Samsung;SCH-N370
+Samsung;SGH-S200
+Samsung;SGH-V100
+Samsung;SGH-S300
+Samsung;SCH-A530
+Samsung;SPH-i700
+Samsung;SGH-S100
+Samsung;SCH-i600
+Samsung;SCH-A220
+Samsung;SPH-A570
+Samsung;SPH-I330
+Samsung;SPH-A540
+Samsung;SPH-A520
+Samsung;SPH-A500
+Samsung;SPH-N240
+Samsung;N400 (CDMA)
+Samsung;SCH-A310
+Samsung;SPH-A460
+Samsung;SPH-A400
+Samsung;SGH-A500
+Samsung;SGH-N625
+Samsung;SGH-R225
+Samsung;SPH-N300
+Samsung;SGH-Q105
+Samsung;SPH-I300
+Samsung;SCH-N150
+Samsung;SGH-N105
+Samsung;SCH-T300
+Samsung;SPH-N200
+LG;X Mach
+LG;X Power
+LG;K8V
+LG;G Pad X 8.0
+LG;Stylus 2 Plus
+LG;Wine 4
+LG;Phoenix 2
+LG;K4 LTE
+LG;Spree
+LG;B470
+LG;G5
+LG;X cam
+LG;K8
+LG;Stylus 2
+LG;X screen
+LG;Optimus Zone 3
+LG;Tribute 5
+LG;K10
+LG;G Vista 2
+LG;Lancet for Android
+LG;V10
+LG;Exalt II
+LG;Class
+LG;G Pad X 10.1
+LG;G Pad II 10.1
+LG;Terra
+LG;G Pad II 8.0
+LG;Bello II
+LG;G4 Beat
+LG;Volt 2
+LG;Tribute 2
+LG;Power
+LG;G4c
+LG;G Pad X 8.3
+LG;G Pad F 8.0
+LG;Escape 2
+LG;Lancet
+LG;Logos
+LG;Ultimate 2
+LG;G Stylo
+LG;Joy
+LG;Leon
+LG;Spirit
+LG;Magna
+LG;G4
+LG;G Flex 2
+LG;Transpyre
+LG;450
+LG;Envoy III
+LG;TRIBUTE
+LG;F60
+LG;TRUE
+LG;REALM
+LG;G3 Stylus
+LG;L Fino
+LG;L Bello
+LG;L60
+LG;FREEDOM II
+LG;Revere 3
+LG;L50
+LG;L30
+LG;L20
+LG;G3 Cat. 6
+LG;G3 s
+LG;Aspire
+LG;G Vista
+LG;G Pad 10.1
+LG;G Pad 8.0
+LG;G Pad 7.0
+LG;G3
+LG;L35
+LG;Volt
+LG;L80
+LG;Lucid 3
+LG;Extravert 2
+LG;Optimus Zone 2
+LG;Xpression 2
+LG;L65
+LG;Optimus Exceed 2
+LG;A380
+LG;Optimus Fuel
+LG;F70
+LG;G2 mini
+LG;L40
+LG;L70
+LG;L90
+LG;G Pro 2
+LG;Optimus L1 II TRI
+LG;Optimus F3Q
+LG;F4N
+LG;G Flex
+LG;Wine III
+LG;Fireweb
+LG;G Pro Lite Dual
+LG;G Pro Lite
+LG;G Pad 8.3
+LG;Exalt VN360
+LG;Optimus L1 II
+LG;Optimus F6
+LG;G2
+LG;Rumor Reflex S
+LG;Optimus GJ
+LG;Enact
+LG;840G
+LG;Optimus L4 II Dual
+LG;Envoy II
+LG;A341
+LG;Optimus L4 II
+LG;Optimus L9 II
+LG;Optimus F3
+LG;Optimus L1 II Dual
+LG;Optimus Zone
+LG;Cosmos 3
+LG;Revere 2
+LG;Lucid 2
+LG;Optimus F7
+LG;Optimus F5
+LG;Optimus L5 II
+LG;Optimus L7 II
+LG;Optimus L3 II
+LG;Optimus G Pro
+LG;Spirit 4G
+LG;Optimus Regard
+LG;Spectrum 2
+LG;Mach
+LG;Optimus L9 T-Mobile
+LG;Optimus G Sprint
+LG;Optimus G AT&T
+LG;Optimus Vu II
+LG;Optimus G
+LG;Splendor
+LG;Intuition
+LG;Optimus L9
+LG;235C
+LG;Escape
+LG;Motion 4G
+LG;Optimus LTE II
+LG;Optimus L3 Dual
+LG;C205
+LG;T375
+LG;Optimus Elite
+LG;221C
+LG;A340
+LG;Lucid
+LG;Optimus M+
+LG;Rumor Reflex
+LG;T385 Wi-Fi
+LG;Optimus 4X HD
+LG;Optimus 3D MAX
+LG;Optimus Vu
+LG;C195
+LG;A270
+LG;Optimus L3
+LG;Optimus L5
+LG;Optimus L7
+LG;530G
+LG;S367
+LG;Optimus Link
+LG;A290
+LG;T565
+LG;Optimus Pad LTE
+LG;Spectrum
+LG;Connect 4G
+LG;Viper 4G LTE
+LG;Prada 3.0
+LG;Optimus 2
+LG;Nitro HD
+LG;Eclypse
+LG;Extravert
+LG;Jil Sander Mobile
+LG;Optimus LTE
+LG;Beacon
+LG;Esteem
+LG;Enlighten
+LG;Optimus Hub
+LG;Marquee
+LG;Optimus Sol
+LG;Xpression C395
+LG;Revere
+LG;Envoy
+LG;430G
+LG;Optimus Net
+LG;Cosmos 2
+LG;Optimus Slider
+LG;Optimus Pro
+LG;EGO Wi-Fi
+LG;A225
+LG;C360
+LG;C365
+LG;E300
+LG;Genesis
+LG;X330
+LG;A200
+LG;Doubleplay
+LG;T500
+LG;102
+LG;C330
+LG;T510
+LG;A210
+LG;C375
+LG;Thrive
+LG;Phoenix
+LG;A230
+LG;A250
+LG;A190
+LG;T315i
+LG;Thrill 4G
+LG;Saber
+LG;Optimus Pad
+LG;Optimus 3D
+LG;A175
+LG;Optimus Me P350
+LG;Revolution
+LG;Optimus Black
+LG;Optimus Chat
+LG;Optimus 2X
+LG;Select
+LG;C305
+LG;C710
+LG;Optimus M
+LG;Apex
+LG;Cosmos Touch
+LG;Vortex
+LG;C320
+LG;P520
+LG;A310
+LG;Octane
+LG;Optimus 7Q
+LG;Quantum
+LG;Optimus 7
+LG;Optimus T
+LG;Optimus S
+LG;E900h
+LG;C100
+LG;GU200
+LG;GU200A
+LG;Neon II
+LG;GU297
+LG;Optimus One
+LG;Optimus Chic
+LG;Encore
+LG;enV Pro
+LG;Town C300
+LG;Cookie Lite
+LG;Cookie 3G
+LG;Cookie Style
+LG;GB125R
+LG;KS365
+LG;GU295
+LG;101
+LG;Prime
+LG;GU292
+LG;Sentio
+LG;dLite
+LG;GS170
+LG;Viewty Snap
+LG;GD550
+LG;GX300
+LG;Vu Plus
+LG;GS107A
+LG;GM600
+LG;420G
+LG;GT540G
+LG;Ally
+LG;GB280
+LG;KM570
+LG;Wine II
+LG;GS107
+LG;GS106
+LG;KP550 Rip Curl
+LG;GT400
+LG;GS155
+LG;GS155A
+LG;Remarq
+LG;GX500
+LG;Fathom
+LG;Cosmos
+LG;KP108
+LG;GD350
+LG;GB160A
+LG;Cookie Fresh
+LG;Viewty GT
+LG;KF305
+LG;IQ GW825
+LG;EVE
+LG;Cookie Plus
+LG;GX200
+LG;Town GT350
+LG;Clout
+LG;Accolade
+LG;KM555
+LG;GB270
+LG;231C
+LG;Mini
+LG;GW990
+LG;Optimus
+LG;Shine Touch
+LG;Rumor Touch
+LG;Lotus Elite
+LG;Lollipop GD580
+LG;GB190
+LG;GB255G
+LG;eXpo
+LG;GS190
+LG;Cookie KP501
+LG;GB170
+LG;GB160
+LG;GB115
+LG;GU280
+LG;GU230
+LG;KM555E
+LG;100C
+LG;KG376
+LG;290C
+LG;220C
+LG;Lyric MT375
+LG;Pop GD510
+LG;AX310
+LG;GB230
+LG;Bliss
+LG;410G
+LG;GW525
+LG;GM750
+LG;GT500
+LG;KF245
+LG;GD900F Crystal
+LG;KF311
+LG;New Chocolate BL40G
+LG;GB106
+LG;GB125
+LG;GW620
+LG;Chocolate Touch VX8575
+LG;GT505
+LG;GW520
+LG;New Chocolate BL20
+LG;GB210
+LG;GW550
+LG;New Chocolate BL40
+LG;GW300
+LG;LX290
+LG;GC990 Louvre
+LG;Scarlet
+LG;KP260
+LG;Tritan
+LG;GC900F
+LG;Shine II
+LG;HQ US
+LG;ARENA
+LG;GM205
+LG;GM730F
+LG;Glance
+LG;GB250G
+LG;enV Touch
+LG;enV3
+LG;GM200
+LG;Banter
+LG;Xenon
+LG;Rumor2
+LG;GD330
+LG;KM330
+LG;KC910i
+LG;Viewty Smart
+LG;HQ
+LG;KT770
+LG;GM310
+LG;GM310G
+LG;KB770
+LG;GM730
+LG;GB250
+LG;GB220
+LG;GD900 Crystal
+LG;GB130
+LG;GB102
+LG;KS660
+LG;Neon
+LG;GB110
+LG;CF360
+LG;UX280 Wine
+LG;GD910
+LG;KP275
+LG;KP330
+LG;KP270
+LG;KP233
+LG;CF750 Secret
+LG;LX370
+LG;KT615
+LG;VX8360
+LG;KS500
+LG;KC560
+LG;KP175
+LG;KP199
+LG;KP220
+LG;KP105
+LG;KP135
+LG;KP115
+LG;KP110
+LG;KF240
+LG;KP152
+LG;KF350
+LG;600g
+LG;CP150
+LG;KF757
+LG;PRADA II
+LG;INCITE
+LG;300G
+LG;KP265
+LG;Swift
+LG;VX5500
+LG;KG195
+LG;KG276
+LG;KP320
+LG;Rhythm
+LG;KC780
+LG;Cookie
+LG;AX155
+LG;Lotus
+LG;Versa
+LG;CP250
+LG;Renoir
+LG;Invision
+LG;KP215
+LG;KF300
+LG;AX300
+LG;KS360
+LG;KC550
+LG;KF390
+LG;Chocolate 3
+LG;Flare
+LG;Dare
+LG;Secret
+LG;Glimmer
+LG;KU380
+LG;LX400
+LG;enV2
+LG;Decoy
+LG;AX565
+LG;KM710
+LG;KF510
+LG;KT520
+LG;KM500
+LG;KT610
+LG;KM380
+LG;KB620
+LG;KF310
+LG;KP130A
+LG;KF600
+LG;KF700
+LG;KP235
+LG;MS25
+LG;CU515
+LG;VX5400
+LG;Shine CU720
+LG;Vu
+LG;CG180
+LG;Venus
+LG;Voyager
+LG;CE110
+LG;VX8350
+LG;RUMOR
+LG;Viewty
+LG;LX140
+LG;LX160
+LG;AX380
+LG;CU575
+LG;200C
+LG;AX140 / AX145
+LG;VX8550
+LG;LX360
+LG;CU500V
+LG;KE770 Shine
+LG;ME770 Shine
+LG;KP202
+LG;AX275
+LG;Muziq
+LG;VX8700
+LG;U830
+LG;KU580
+LG;L650V
+LG;KS20
+LG;KE500
+LG;KS10 JOY
+LG;KU250
+LG;KG270
+LG;KG290
+LG;KG130
+LG;KU970
+LG;KU950
+LG;PRADA
+LG;L600v
+LG;Shine
+LG;ME970d Shine
+LG;MG225D
+LG;KE600
+LG;VX9400
+LG;Chocolate KE800
+LG;U400
+LG;U300
+LG;KG330
+LG;KG200
+LG;KG300
+LG;U310
+LG;L343i
+LG;LX150
+LG;CU400 / CU405
+LG;KE820
+LG;KG920
+LG;ENV
+LG;VX8600
+LG;Chocolate KU800
+LG;MG100
+LG;KG320
+LG;MG810
+LG;Chocolate MX800 / AX800 / CX800
+LG;VX3450
+LG;AX490
+LG;AX355
+LG;AX390
+LG;Chocolate
+LG;Chocolate / KG800 / KG808 / MG800C
+LG;CU500
+LG;KG245
+LG;KG240
+LG;KG190
+LG;KU730
+LG;MG105 / B2100
+LG;U900
+LG;KG220
+LG;KG210
+LG;KG225
+LG;FUSIC
+LG;VX8300
+LG;VX5300
+LG;LX350
+LG;VX-3400
+LG;V9000
+LG;CG225
+LG;CG300
+LG;U890
+LG;U8550
+LG;S5000
+LG;S5200
+LG;M6100
+LG;C2500
+LG;CU320
+LG;F9200
+LG;P7200
+LG;Migo
+LG;AX4270
+LG;CE500
+LG;C1500
+LG;AX5000 / UX5000
+LG;VX-4650
+LG;VX-9800
+LG;UX-4750 / AX-4750
+LG;VI-125
+LG;VX-5200
+LG;U8200
+LG;VX-3300
+LG;PM-225
+LG;M4300
+LG;F7200
+LG;LX545
+LG;VX8100
+LG;BX-4170
+LG;U8380
+LG;MG200 / C2000 / MG200C
+LG;F9100
+LG;A7110
+LG;LX535 / MM-535
+LG;L1400
+LG;G4020 / G4050
+LG;LX325 / PM325
+LG;F7250
+LG;VX6190
+LG;L1200
+LG;VX-8000
+LG;5225 / VL5225
+LG;VX-4700
+LG;VX-6100
+LG;L1100 / L1150
+LG;G7200
+LG;C1300 / G4015
+LG;3200 / G3200 / VX3200
+LG;VX7000 / VX7000A
+LG;5400 / 5400A
+LG;G4050
+LG;G4010 / G4011
+LG;VX4600
+LG;LX5550 / VX5550
+LG;VX 4500
+LG;VX-6000
+LG;5450 / LX5450
+LG;VX 3100 / VX 3100A / VX 3100L
+LG;VX-10
+LG;5350
+LG;VX-4400 / VX4400B
+LG;VX-4100
+LG;VX-2000
+LG;1010
+LG;VX9000
+LG;TM510
+LG;LG 4NE1
+LG;VX-1 / TM520
+LG;TP5200
+LG;TM220
+LG;TP3000
+LG;TP 5250
+LG;Touchpoint 1100
+Motorola;Moto Z Force Droid Edition
+Motorola;Moto Z Force
+Motorola;Moto Z Droid Edition
+Motorola;Moto Z
+Motorola;Moto G4 Play
+Motorola;Moto G4
+Motorola;Moto G4 Plus
+Motorola;DROID MAXX 2
+Motorola;DROID Turbo 2
+Motorola;Moto X Style
+Motorola;Moto G (2015)
+Motorola;Moto X Play
+Motorola;Moto X Pure Edition (2015)
+Motorola;Moto E (2015)
+Motorola;Moto G LTE (2014)
+Motorola;DROID Turbo
+Motorola;Moto G (2014)
+Motorola;Moto X (2014)
+Motorola;Moto G LTE
+Motorola;Moto E
+Motorola;Moto G
+Motorola;Moto X
+Motorola;DROID MAXX
+Motorola;DROID Ultra
+Motorola;DROID Mini
+Motorola;RAZR D3
+Motorola;RAZR D1
+Motorola;RAZR V
+Motorola;i418
+Motorola;ELECTRIFY M
+Motorola;i485
+Motorola;RAZR i
+Motorola;MOTOGO!
+Motorola;RAZR HD
+Motorola;DROID RAZR HD
+Motorola;DROID RAZR MAXX HD
+Motorola;DROID RAZR M
+Motorola;RAZR M
+Motorola;DEFY XT
+Motorola;ELECTRIFY 2
+Motorola;PHOTON Q 4G LTE
+Motorola;DEFY PRO
+Motorola;ATRIX HD
+Motorola;MOTOSMART
+Motorola;RAZR MAXX
+Motorola;XT928
+Motorola;i867
+Motorola;GLEAM+
+Motorola;DROID RAZR MAXX
+Motorola;DROID 4
+Motorola;DEFY MINI
+Motorola;MOTOLUXE
+Motorola;DROID XYBOARD 8.2
+Motorola;DROID XYBOARD 10.1
+Motorola;XOOM 2 Media Edition
+Motorola;XOOM 2
+Motorola;XT319
+Motorola;Admiral
+Motorola;DROID RAZR
+Motorola;RAZR
+Motorola;ATRIX 2
+Motorola;EX124G
+Motorola;EX119
+Motorola;MOTOKEY XT
+Motorola;MOTOKEY SOCIAL
+Motorola;WX294
+Motorola;DROID BIONIC
+Motorola;PRO+
+Motorola;MILESTONE 3
+Motorola;i940
+Motorola;DEFY+
+Motorola;XT531
+Motorola;XT860 4G
+Motorola;FIRE
+Motorola;XT316
+Motorola;SPICE Key
+Motorola;DROID 3
+Motorola;A1260
+Motorola;A1680
+Motorola;GLAM
+Motorola;TRIUMPH
+Motorola;PHOTON 4G
+Motorola;XPRT
+Motorola;WILDER
+Motorola;i440
+Motorola;DROID X2
+Motorola;i412
+Motorola;Theory
+Motorola;Clutch + i475
+Motorola;TITANIUM
+Motorola;i420
+Motorola;MOTOKEY MINI
+Motorola;ATRIX 4G CDMA
+Motorola;WX345
+Motorola;QUENCH XT3
+Motorola;XT5
+Motorola;EX115
+Motorola;EX112
+Motorola;XOOM Wi-Fi
+Motorola;XOOM
+Motorola;PRO
+Motorola;GLEAM
+Motorola;Brute i686
+Motorola;i897 Ferrari Special Edition
+Motorola;i786
+Motorola;i706
+Motorola;XOOM CDMA
+Motorola;DROID BIONIC Etna
+Motorola;CLIQ 2
+Motorola;ATRIX 4G
+Motorola;SPICE
+Motorola;CITRUS
+Motorola;DROID PRO
+Motorola;FLIPSIDE
+Motorola;Bravo
+Motorola;FLIPOUT US
+Motorola;i886
+Motorola;DEFY
+Motorola;MILESTONE 2
+Motorola;DROID 2 Global
+Motorola;DROID 2
+Motorola;RAMBLER
+Motorola;BALI
+Motorola;GRASP
+Motorola;CHARM
+Motorola;ES400
+Motorola;i296
+Motorola;MILESTONE XT720
+Motorola;XT711
+Motorola;XT701
+Motorola;FLIPOUT
+Motorola;DROID X
+Motorola;WX295
+Motorola;WX290
+Motorola;WX295 US
+Motorola;WX290 US
+Motorola;WX265
+Motorola;WX260
+Motorola;WX260 US
+Motorola;WX265 US
+Motorola;WX181
+Motorola;WX181 US
+Motorola;WX161
+Motorola;WX161 US
+Motorola;i1
+Motorola;QUENCH
+Motorola;CLIQ XT
+Motorola;Brute i680
+Motorola;i890
+Motorola;i410
+Motorola;Crush
+Motorola;Quantico
+Motorola;DEVOUR
+Motorola;MILESTONE
+Motorola;MILESTONE US
+Motorola;VE440
+Motorola;Barrage
+Motorola;CLIQ
+Motorola;BACKFLIP
+Motorola;i856
+Motorola;A45 ECO
+Motorola;W403
+Motorola;Entice W766
+Motorola;DROID
+Motorola;MOTO W7 Active Edition
+Motorola;MOTOROKR W6
+Motorola;Karma QA1
+Motorola;Evoke QA4
+Motorola;Rival
+Motorola;MOTO ZN300
+Motorola;i365IS
+Motorola;Clutch i465
+Motorola;VE465
+Motorola;MOTOSURF A3100
+Motorola;MOTO W233 Renew
+Motorola;MOTOJEWEL
+Motorola;ROKR EM330
+Motorola;ROKR EM325
+Motorola;ROKR EM35
+Motorola;MOTO W209
+Motorola;ROKR W5
+Motorola;Hint QA30
+Motorola;MOTO VE240
+Motorola;MOTO VE66
+Motorola;r765is
+Motorola;AURA
+Motorola;MOTO i776
+Motorola;MOTO i776w
+Motorola;MOTO Q 11
+Motorola;VU204
+Motorola;MOTOACTV W450
+Motorola;MOTO VE538
+Motorola;Tundra VA76r
+Motorola;i576
+Motorola;i365
+Motorola;W388
+Motorola;W396
+Motorola;MOTO ZN200
+Motorola;ROKR EM28
+Motorola;MOTOROKR EM25
+Motorola;W376g
+Motorola;MOTO A810
+Motorola;RAZR VE20
+Motorola;MOTO A4500
+Motorola;RAZR2 V9x
+Motorola;Krave ZN4
+Motorola;MOTOZINE ZN5
+Motorola;Stature i9
+Motorola;ROKR EM30
+Motorola;i877
+Motorola;Adventure V750
+Motorola;Renegade V950
+Motorola;RAZR V3s
+Motorola;W260g
+Motorola;MOTO Z6cx
+Motorola;Rapture VU30
+Motorola;MOTO Z6w
+Motorola;W161
+Motorola;W181
+Motorola;i872
+Motorola;MOTO W755
+Motorola;W760r
+Motorola;W230
+Motorola;W270
+Motorola;MOTO Z10
+Motorola;ROKR E8
+Motorola;MOTO Z6c
+Motorola;i335
+Motorola;i290
+Motorola;i570
+Motorola;i876
+Motorola;i425
+Motorola;ic602 Buzz+
+Motorola;MOTO Z9
+Motorola;W156
+Motorola;W377
+Motorola;MOTO U9
+Motorola;W175
+Motorola;W206
+Motorola;W490
+Motorola;Q9m
+Motorola;RAZR V3a
+Motorola;RIZR Z6tv
+Motorola;RAZR2 V9m
+Motorola;RAZR2 V8
+Motorola;RAZR2 V9
+Motorola;C168
+Motorola;C168i
+Motorola;ROKR Z6m
+Motorola;W218
+Motorola;W395
+Motorola;W385
+Motorola;W360
+Motorola;W380
+Motorola;W355
+Motorola;ic902 Deluxe
+Motorola;W205
+Motorola;W510
+Motorola;Q9h
+Motorola;KRZR K3
+Motorola;SLVR L9
+Motorola;RIZR Z8
+Motorola;MOTOFONE F3
+Motorola;RAZR maxx Ve
+Motorola;RIZR Z6
+Motorola;ROKR E6
+Motorola;A910
+Motorola;ic402 Blend
+Motorola;ic502 Buzz
+Motorola;i880
+Motorola;SLVR L7e
+Motorola;V365
+Motorola;RAZR MAXX V6
+Motorola;i615
+Motorola;KRZR K1m
+Motorola;W315
+Motorola;RAZR V3xx
+Motorola;SLVR L7c
+Motorola;RIZR Z3
+Motorola;KRZR K1
+Motorola;W220
+Motorola;W375
+Motorola;W208 / W215
+Motorola;i670
+Motorola;i580
+Motorola;RAZR V3m
+Motorola;C290
+Motorola;C139
+Motorola;C257
+Motorola;V177
+Motorola;A1200 Ming
+Motorola;V195 / V197
+Motorola;ROKR E2
+Motorola;V190
+Motorola;E1070
+Motorola;V325 / V323 / V323i / V325i
+Motorola;E770
+Motorola;i870
+Motorola;RAZR V3c
+Motorola;RAZR V3i / V3t / V3r
+Motorola;C390
+Motorola;i930 / i920
+Motorola;i760
+Motorola;A732
+Motorola;i560
+Motorola;Q CDMA
+Motorola;Q GSM
+Motorola;ROKR E1 (E790)
+Motorola;i850
+Motorola;i275
+Motorola;i355
+Motorola;i605
+Motorola;v65p
+Motorola;T300p
+Motorola;PEBL U6 (V6)
+Motorola;V176
+Motorola;SLVR L6
+Motorola;SLVR L2
+Motorola;V557
+Motorola;RAZR V3x (V1150)
+Motorola;i285
+Motorola;SLVR L7
+Motorola;M1000
+Motorola;A1010
+Motorola;E1120
+Motorola;E1060
+Motorola;V360
+Motorola;V235 / V230
+Motorola;V560
+Motorola;V303
+Motorola;V501
+Motorola;A925
+Motorola;V872
+Motorola;A768i
+Motorola;E815 / E816 Hollywood
+Motorola;r750 / r750 plus
+Motorola;E375
+Motorola;V635
+Motorola;V980
+Motorola;C980
+Motorola;V535 / V550 / E550 / V545
+Motorola;C155
+Motorola;i325
+Motorola;i315
+Motorola;i265
+Motorola;V170 / V171
+Motorola;V620
+Motorola;A668
+Motorola;i860
+Motorola;E310
+Motorola;C115
+Motorola;i710
+Motorola;RAZR V3
+Motorola;A780
+Motorola;V551 / V547 / V555 / V330 / V540
+Motorola;C975
+Motorola;V975
+Motorola;CN620
+Motorola;A630
+Motorola;V265 / V276 / V266
+Motorola;V260 / V262
+Motorola;V180 / V186 / V188
+Motorola;i830 / i833 Pininfarina / i836
+Motorola;C380/C385
+Motorola;A845
+Motorola;V220
+Motorola;C650
+Motorola;A840
+Motorola;E398
+Motorola;E680 / E680i
+Motorola;MPx
+Motorola;MPx100
+Motorola;MPx220
+Motorola;V710
+Motorola;A1000 Communicator
+Motorola;V1000
+Motorola;E1000
+Motorola;V80
+Motorola;V878
+Motorola;V60v
+Motorola;T725
+Motorola;V690
+Motorola;V810
+Motorola;V750
+Motorola;E390
+Motorola;V400
+Motorola;V500 / V525 / V505
+Motorola;V300
+Motorola;C353 / C353t
+Motorola;MPx200
+Motorola;A835
+Motorola;V600
+Motorola;E380
+Motorola;C343 / C343a / C341
+Motorola;i530
+Motorola;i730 / i733 / i720
+Motorola;T730 / T731
+Motorola;388c
+Motorola;i305
+Motorola;i205
+Motorola;v60p / v60s
+Motorola;A920
+Motorola;V60t (color) / v60ti (color) / V60 (color)
+Motorola;C350
+Motorola;C333 (CDMA)
+Motorola;v60x
+Motorola;A830
+Motorola;T720 / T721 (GSM)
+Motorola;T720i / T722
+Motorola;C332 / C331g / C333g
+Motorola;T720 (CDMA)
+Motorola;C331t
+Motorola;i60c
+Motorola;T191
+Motorola;120t
+Motorola;i95cl
+Motorola;i30sx
+Motorola;v70
+Motorola;V120x
+Motorola;2260
+Motorola;A820
+Motorola;Startac 7868
+Motorola;v120e
+Motorola;i35s
+Motorola;TIMEPORT P7382i
+Motorola;i55sr / i58sr
+Motorola;i50sx
+Motorola;i85s / i88s
+Motorola;v60i (CDMA)
+Motorola;i90c
+Motorola;V200
+Motorola;i80s
+Motorola;V60i (GSM) / V60g
+Motorola;V66
+Motorola;T193 / T193m
+Motorola;v60t
+Motorola;Accompli 009
+Motorola;Timeport 280
+Motorola;P280
+Motorola;v60i (TDMA)
+Motorola;120C
+Motorola;V120c
+Motorola;A388
+Motorola;Timeport T250
+Motorola;i700plus
+Motorola;i1000plus
+Motorola;i2000plus
+Motorola;V100
+Motorola;270c
+Motorola;V2397
+Motorola;Timeport L7089
+Motorola;T2282
+Motorola;i550plus
+Motorola;Timeport P7389
+Motorola;StarTac 7897
+HTC;One M9 Prime Camera Edition
+HTC;One S9
+HTC;10
+HTC;Desire 825
+HTC;Desire 630
+HTC;Desire 530
+HTC;One X9
+HTC;One A9
+HTC;Desire 728
+HTC;Desire 626
+HTC;Desire 626s
+HTC;Desire 526
+HTC;Desire 520
+HTC;One ME
+HTC;One M8s
+HTC;One M9
+HTC;Desire 626 (International)
+HTC;One E9+
+HTC;One M9+
+HTC;Desire 826
+HTC;Desire 320
+HTC;Desire 620
+HTC;Desire EYE
+HTC;One (M8) max
+HTC;Desire 820
+HTC;Desire 510
+HTC;One (M8) for Windows
+HTC;Butterfly 2
+HTC;Desire 516
+HTC;Desire 210
+HTC;One (E8)
+HTC;One mini 2
+HTC;Desire 616
+HTC;One (M8)
+HTC;Desire 310
+HTC;Desire 816
+HTC;Desire 610
+HTC;Desire 400
+HTC;Desire 700
+HTC;Desire 501
+HTC;One max
+HTC;Desire 300
+HTC;Desire 601
+HTC;Desire 500
+HTC;One mini
+HTC;8XT
+HTC;Butterfly S
+HTC;Desire 200
+HTC;Desire 600
+HTC;Desire L
+HTC;Desire Q
+HTC;First
+HTC;Desire P
+HTC;One
+HTC;One SV LTE
+HTC;Butterfly
+HTC;DROID DNA
+HTC;One SV
+HTC;J
+HTC;One VX
+HTC;One X+ LTE
+HTC;One X+
+HTC;Windows Phone 8S
+HTC;Windows Phone 8X
+HTC;Desire X
+HTC;One V CDMA
+HTC;Desire V
+HTC;Desire C
+HTC;DROID Incredible 4G LTE
+HTC;EVO 4G LTE
+HTC;One S
+HTC;One X AT&T
+HTC;One V
+HTC;One X
+HTC;Titan II
+HTC;Radiant
+HTC;Rezound
+HTC;Vivid
+HTC;EVO Design 4G
+HTC;Sensation XL
+HTC;Hero S
+HTC;Flyer CDMA
+HTC;Explorer
+HTC;Amaze 4G
+HTC;Rhyme
+HTC;Sensation XE
+HTC;Titan
+HTC;Radar
+HTC;Jetstream
+HTC;EVO 3D GSM
+HTC;Status
+HTC;Wildfire S CDMA
+HTC;Trophy
+HTC;Wildfire S T-Mobile
+HTC;Sensation 4G
+HTC;Flyer Wi-Fi
+HTC;EVO View 4G
+HTC;HD7S
+HTC;ChaCha
+HTC;Salsa
+HTC;Flyer
+HTC;Desire S
+HTC;Incredible S
+HTC;Wildfire S
+HTC;EVO 3D
+HTC;DROID Incredible 2
+HTC;Arrive
+HTC;ThunderBolt
+HTC;Freestyle
+HTC;Inspire 4G
+HTC;EVO Shift 4G
+HTC;Paradise
+HTC;Desire Z American Version
+HTC;Gratia
+HTC;Wildfire CDMA
+HTC;7 Pro
+HTC;7 Pro CDMA
+HTC;7 Trophy
+HTC;7 Mozart
+HTC;Surround
+HTC;HD7
+HTC;Merge
+HTC;Desire HD
+HTC;Desire Z
+HTC;Legend American version
+HTC;Aria
+HTC;Wildfire
+HTC;Desire CDMA
+HTC;Droid Incredible
+HTC;EVO 4G
+HTC;Nexus One
+HTC;Desire US
+HTC;Smart
+HTC;HD2 US
+HTC;Legend
+HTC;HD mini
+HTC;Nexus One US
+HTC;Desire
+HTC;Nexus One CDMA
+HTC;Hero
+HTC;DROID ERIS
+HTC;Touch2
+HTC;Hero CDMA
+HTC;Snap S510
+HTC;Tattoo
+HTC;HD2
+HTC;Imagio
+HTC;Pure
+HTC;Lancaster
+HTC;Tilt 2
+HTC;Touch Pro2 CDMA
+HTC;Touch Pro2 US
+HTC;Ozone
+HTC;S522
+HTC;Snap
+HTC;Snap CDMA
+HTC;Touch Pro2
+HTC;Touch Diamond2
+HTC;Touch Cruise US
+HTC;Magic
+HTC;Touch Cruise
+HTC;S743
+HTC;MAX 4G
+HTC;Touch Viva
+HTC;Touch 3G
+HTC;Touch HD
+HTC;S740
+HTC;Touch Pro CDMA - Verizon
+HTC;Touch Diamond CDMA - Verizon
+HTC;Touch Diamond
+HTC;Touch Pro
+HTC;Touch Pro CDMA
+HTC;Touch Diamond CDMA
+HTC;Touch Dual US
+HTC;P3470
+HTC;X7510 Advantage
+HTC;S640
+HTC;Phoebus
+HTC;Touch Dual
+HTC;P6500
+HTC;S730
+HTC;Touch CDMA
+HTC;S630 Cavalier
+HTC;TyTN II
+HTC;P6300 Panda
+HTC;S720 Libra
+HTC;Touch
+HTC;P4000 Titan
+HTC;Shift
+HTC;S710 Vox
+HTC;P3400 Gene
+HTC;P3350 Love
+HTC;X7500 Advantage
+HTC;FOREseer
+HTC;P4350 Herald
+HTC;S310 Oxygen
+HTC;P3600 Trinity
+HTC;P3300 Artemis
+HTC;S620 Excalibur
+HTC;MTeoR
+HTC;Star Trek
+HTC;TyTN
+HTC;Prophet
+HTC;Faraday
+HTC;Wizard
+HTC;Apache
+HTC;Universal
+HTC;Tornado
+HTC;Hurricane
+HTC;Magician
+HTC;Feeler
+HTC;Blue Angel
+HTC;Vivida
+HTC;Harrier
+HTC;Typhoon
+HTC;Voyager
+HTC;Himalayas
+HTC;Tanager
+HTC;Canary
+HTC;9500
+Apple;iPad Pro 9.7-inch
+Apple;iPhone SE
+Apple;iPhone 6s
+Apple;iPhone 6s Plus
+Apple;iPad Pro
+Apple;iPad mini 4
+Apple;iPod touch 6th generation
+Apple;iPad mini 3
+Apple;iPad Air 2
+Apple;iPhone 6 Plus
+Apple;iPhone 6
+Apple;iPad mini 2
+Apple;iPad Air
+Apple;iPhone 5s
+Apple;iPhone 5c
+Apple;iPad mini
+Apple;iPad 4
+Apple;iPhone 5
+Apple;iPod touch 5th generation
+Apple;iPad 3
+Apple;iPad 3 Verizon
+Apple;iPad 3 AT&T
+Apple;iPhone 4s
+Apple;iPad 2 Verizon
+Apple;iPad 2
+Apple;iPad 2 Wi-Fi
+Apple;iPhone 4 Verizon
+Apple;iPod touch 4th generation
+Apple;iPhone 4
+Apple;iPad
+Apple;iPad Wi-Fi
+Apple;iPod touch 3rd generation
+Apple;iPhone 3GS
+Apple;iPod touch 2nd generation
+Apple;iPhone 3G
+Apple;iPod touch
+Apple;iPhone
+Microsoft;Lumia 650
+Microsoft;Lumia 950
+Microsoft;Lumia 950 XL
+Microsoft;Lumia 550
+Microsoft;Surface Pro 4
+Microsoft;Lumia 540 Dual
+Microsoft;Surface 3
+Microsoft;Lumia 430
+Microsoft;Lumia 640 XL
+Microsoft;Lumia 640
+Microsoft;Lumia 532
+Microsoft;Lumia 435
+Microsoft;Lumia 535
+Microsoft;Surface Pro 3
+Microsoft;Surface Pro 2
+Microsoft;Surface 2
+Microsoft;Surface Pro
+Microsoft;Surface RT
+Microsoft;KIN ONE
+Microsoft;KIN TWO
+Microsoft;KIN ONE GSM
+Microsoft;KIN TWO GSM
+Sony;Xperia E5
+Sony;Xperia XA Ultra
+Sony;Xperia XA
+Sony;Xperia X Performance
+Sony;Xperia X
+Sony;Xperia Z5 Premium
+Sony;Xperia Z5
+Sony;Xperia Z5 Compact
+Sony;Xperia M5
+Sony;Xperia C5 Ultra
+Sony;Xperia Z4v
+Sony;Xperia Z3+
+Sony;Xperia C4
+Sony;Xperia M4 Aqua
+Sony;Xperia Z4 Tablet
+Sony;Xperia E4g
+Sony;Xperia E4
+Sony;Xperia Z4 Compact
+Sony;Xperia Z4 Ultra
+Sony;Xperia Z3v
+Sony;Xperia Z3X
+Sony;Xperia Z3 Compact
+Sony;Xperia E3
+Sony;Xperia Z3 Tablet Compact
+Sony;Xperia M2 Aqua
+Sony;Xperia Z3
+Sony;Xperia C3
+Sony;Xperia Z2a
+Sony;Xperia T3
+Sony;Xperia Z2 Tablet
+Sony;Xperia Z2
+Sony;Xperia M2
+Sony;Xperia T2 Ultra
+Sony;Xperia E1
+Sony;Xperia Z1 Compact
+Sony;Vaio Tap 11
+Sony;Xperia Z1
+Sony;Xperia C
+Sony;Xperia Z Ultra
+Sony;Xperia M
+Sony;Xperia ZR
+Sony;Xperia L
+Sony;Xperia SP
+Sony;Xperia Tablet Z
+Sony;Xperia Z
+Sony;Xperia ZL
+Sony;Xperia E
+Sony;Xperia E dual
+Sony;Xperia TL
+Sony;Xperia J
+Sony;Xperia T
+Sony;Xperia TX
+Sony;Xperia V
+Sony;Xperia Tablet S
+Sony;Xperia SL
+Sony;Xperia miro
+Sony;Xperia tipo
+Sony;Xperia tipo dual
+Sony;Xperia acro S
+Sony;Xperia go
+Sony;Xperia advance
+Sony;Xperia GX
+Sony;Xperia SX
+Sony;Xperia neo L
+Sony;Xperia sola
+Sony;Xperia P
+Sony;Xperia U
+Sony;Xperia ion
+Sony;Xperia S
+Sony;Tablet S
+Sony;Tablet P
+BlackBerry;Priv
+BlackBerry;Leap
+BlackBerry;Z20
+BlackBerry;Porsche Design P'9983
+BlackBerry;Passport
+BlackBerry;Classic
+BlackBerry;Z3
+BlackBerry;Z30
+BlackBerry;9720
+BlackBerry;Q5
+BlackBerry;Q10
+BlackBerry;Z10
+BlackBerry;Curve 9315
+BlackBerry;Curve 9310
+BlackBerry;Curve 9320
+BlackBerry;Curve 9220
+BlackBerry;PlayBook 3G+
+BlackBerry;Curve 9380
+BlackBerry;Bold 9790
+BlackBerry;Porsche Design P'9981
+BlackBerry;Curve 9360
+BlackBerry;Curve 9350
+BlackBerry;Curve 9370
+BlackBerry;Torch 9860
+BlackBerry;Torch 9850
+BlackBerry;Torch 9810
+BlackBerry;Bold 9930
+BlackBerry;Bold 9900
+BlackBerry;4G PlayBook
+BlackBerry;Bold 9780 T-Mobile
+BlackBerry;Bold 9780
+BlackBerry;PlayBook
+BlackBerry;Style 9670
+BlackBerry;Curve 3G 9330
+BlackBerry;Curve 3G T-Mobile
+BlackBerry;Curve 3G
+BlackBerry;Torch 9800
+BlackBerry;Bold 9650
+BlackBerry;Pearl 9105
+BlackBerry;Pearl 3G
+BlackBerry;Bold 9700 T-Mobile
+BlackBerry;Storm2 9520
+BlackBerry;Curve 8530
+BlackBerry;Bold 9700
+BlackBerry;Storm2 9550
+BlackBerry;Curve 8520
+BlackBerry;Pearl Flip 8230
+BlackBerry;Storm 9500
+BlackBerry;Curve 8350i
+BlackBerry;Storm 9530
+BlackBerry;Tour 9630
+BlackBerry;Curve 8900
+BlackBerry;Kickstart 8210
+BlackBerry;Pearl Flip 8220
+BlackBerry;Bold 9000
+BlackBerry;Curve 8330
+BlackBerry;Pearl 8110
+BlackBerry;Pearl 8120
+BlackBerry;Curve 8320
+BlackBerry;Pearl 8130
+BlackBerry;Curve 8310
+BlackBerry;8820
+BlackBerry;Curve 8300
+BlackBerry;8830
+BlackBerry;8800
+BlackBerry;8703e
+BlackBerry;Pearl 8100
+BlackBerry;7130c / 7130g / 7130v / 7130
+BlackBerry;7130e
+BlackBerry;7100i
+BlackBerry;8700 / 8700c / 8700g
+BlackBerry;7100x
+BlackBerry;7100v
+BlackBerry;7100g
+BlackBerry;7250
+BlackBerry;7520
+BlackBerry;7290
+BlackBerry;7100t / 7105t
+BlackBerry;7750
+BlackBerry;7730 / 7780
+BlackBerry;7510
+BlackBerry;6280
+BlackBerry;7280
+BlackBerry;7230 / 7210
+BlackBerry;6210 / 6230
+BlackBerry;6750
+BlackBerry;6510
+BlackBerry;6710
+BlackBerry;5810
+Nokia;215
+Nokia;N1
+Nokia;Lumia 730
+Nokia;Lumia 735
+Nokia;Lumia 830
+Nokia;130
+Nokia;Lumia 530
+Nokia;X2
+Nokia;225
+Nokia;Lumia 630
+Nokia;Lumia 635
+Nokia;Lumia 930
+Nokia;220
+Nokia;Asha 230
+Nokia;XL
+Nokia;X+
+Nokia;X
+Nokia;Lumia Icon
+Nokia;Lumia 1525
+Nokia;Lumia 1820
+Nokia;Lumia 525
+Nokia;Lumia 2520
+Nokia;Lumia 1320
+Nokia;Lumia 1520
+Nokia;Asha 500
+Nokia;Asha 502
+Nokia;Asha 503
+Nokia;108
+Nokia;515
+Nokia;107
+Nokia;106
+Nokia;Lumia 625
+Nokia;Lumia 1020
+Nokia;207
+Nokia;208
+Nokia;Lumia 925
+Nokia;Lumia 928
+Nokia;Asha 501
+Nokia;Asha 210
+Nokia;Lumia 521
+Nokia;105
+Nokia;301
+Nokia;Lumia 520
+Nokia;Lumia 720
+Nokia;Asha 310
+Nokia;Lumia 505
+Nokia;Lumia 620
+Nokia;114
+Nokia;Asha 205 Dual SIM
+Nokia;Asha 205
+Nokia;206 Dual SIM
+Nokia;206
+Nokia;109
+Nokia;Lumia 822
+Nokia;Lumia 510
+Nokia;Lumia 810
+Nokia;Asha 309
+Nokia;Asha 308
+Nokia;Lumia 820
+Nokia;Lumia 920
+Nokia;Asha 311
+Nokia;Asha 306
+Nokia;Asha 305
+Nokia;110
+Nokia;111
+Nokia;112
+Nokia;113
+Nokia;Lumia 610 NFC
+Nokia;103
+Nokia;Lumia 610
+Nokia;808 PureView
+Nokia;Asha 203
+Nokia;Asha 202
+Nokia;Asha 302
+Nokia;Lumia 900
+Nokia;X2-02
+Nokia;Asha 201
+Nokia;Asha 200
+Nokia;Asha 300
+Nokia;Asha 303
+Nokia;Lumia 710
+Nokia;Lumia 800
+Nokia;X2-05
+Nokia;C2-05
+Nokia;C5-06
+Nokia;C5-05
+Nokia;603
+Nokia;101
+Nokia;100
+Nokia;600
+Nokia;701
+Nokia;700
+Nokia;500
+Nokia;C5 5MP
+Nokia;C2-02
+Nokia;C2-06
+Nokia;C2-03
+Nokia;N9
+Nokia;Oro
+Nokia;X1-01
+Nokia;E6
+Nokia;X7
+Nokia;X1-00
+Nokia;C2-01
+Nokia;X2-01
+Nokia;C5-03
+Nokia;N950
+Nokia;C3 Touch and Type
+Nokia;E7
+Nokia;C7
+Nokia;C6-01
+Nokia;5250
+Nokia;X3 Touch and Type
+Nokia;X6 8GB
+Nokia;X5-01 American version
+Nokia;X5-01
+Nokia;5228
+Nokia;C1-00
+Nokia;C2-00
+Nokia;C1-02 American version
+Nokia;C1-02
+Nokia;C1-01
+Nokia;C1-01 American version
+Nokia;E73 Mode
+Nokia;E5 American version
+Nokia;C6
+Nokia;E5
+Nokia;C3
+Nokia;N8
+Nokia;C5
+Nokia;5230 Nuron
+Nokia;6303i classic
+Nokia;X6 16GB
+Nokia;X6 16GB Latin America
+Nokia;5235 Comes With Music US
+Nokia;5235 Comes With Music Latin America
+Nokia;5235 Comes With Music
+Nokia;2710 Navigation Edition
+Nokia;7230
+Nokia;7230 US
+Nokia;6700 slide US
+Nokia;6700 slide
+Nokia;5330 Mobile TV Edition
+Nokia;1280
+Nokia;1616 US
+Nokia;1616
+Nokia;1800
+Nokia;2690
+Nokia;2220 slide
+Nokia;2220 slide US
+Nokia;6350
+Nokia;3711
+Nokia;X6
+Nokia;X6 Latin America
+Nokia;X3
+Nokia;N900
+Nokia;5230 US
+Nokia;5230
+Nokia;5800 Navigation Edition
+Nokia;N97 mini
+Nokia;N97 mini Latin America
+Nokia;2705 Shade
+Nokia;7705 Twist
+Nokia;6760 slide
+Nokia;3720 classic
+Nokia;3710 fold
+Nokia;3710 fold US
+Nokia;5530 XpressMusic
+Nokia;E72
+Nokia;E72 US
+Nokia;6730 classic
+Nokia;Tresher
+Nokia;6790 Surge
+Nokia;6600i slide
+Nokia;2730 classic
+Nokia;2730 classic US
+Nokia;2720 fold
+Nokia;2720 fold US
+Nokia;7020
+Nokia;Mural
+Nokia;E52
+Nokia;E52 US
+Nokia;N97 US
+Nokia;6216 classic
+Nokia;5030 XpressRadio
+Nokia;5330 XpressMusic
+Nokia;5330 XpressMusic US
+Nokia;N86 8MP
+Nokia;N86 8MP US
+Nokia;6710 Navigator Latin America
+Nokia;6710 Navigator
+Nokia;6720 classic
+Nokia;6720 classic US
+Nokia;E75 US
+Nokia;E55
+Nokia;E55 US
+Nokia;5630 XpressMusic
+Nokia;6700 classic
+Nokia;2700 classic
+Nokia;6303 classic
+Nokia;5730 XpressMusic
+Nokia;E75
+Nokia;E71x
+Nokia;7510
+Nokia;1006
+Nokia;6208 classic
+Nokia;8800 Gold Arte
+Nokia;N97
+Nokia;6260 slide
+Nokia;E63 US
+Nokia;E63
+Nokia;1202
+Nokia;2323 classic
+Nokia;2320 classic
+Nokia;5130 XpressMusic
+Nokia;1661 US
+Nokia;1661
+Nokia;2330 classic
+Nokia;7100 Supernova
+Nokia;2228
+Nokia;5800 XpressMusic
+Nokia;N79
+Nokia;N96 US
+Nokia;N85
+Nokia;8800 Carbon Arte
+Nokia;3610 fold
+Nokia;8208
+Nokia;3608
+Nokia;7210 Supernova
+Nokia;7310 Supernova
+Nokia;E71
+Nokia;E66
+Nokia;1508i
+Nokia;1508
+Nokia;7610 Supernova
+Nokia;7510 Supernova
+Nokia;6205
+Nokia;3600 slide
+Nokia;6600 fold
+Nokia;6600 slide
+Nokia;5220 XpressMusic
+Nokia;5320 XpressMusic
+Nokia;6212 classic
+Nokia;1680 classic
+Nokia;2680 slide
+Nokia;5000
+Nokia;2680 slide US
+Nokia;1606
+Nokia;3606
+Nokia;7070 Prism
+Nokia;6300i
+Nokia;6124 classic
+Nokia;6650
+Nokia;N96
+Nokia;6210 Navigator
+Nokia;N78
+Nokia;6220 classic
+Nokia;3120 classic
+Nokia;2600 classic
+Nokia;1209
+Nokia;2605 Mirage
+Nokia;7205 Intrigue
+Nokia;N95 8GB US
+Nokia;3110 Evolve
+Nokia;6263
+Nokia;N82
+Nokia;8800 Arte
+Nokia;3555
+Nokia;2135
+Nokia;6301
+Nokia;E51
+Nokia;5610 XpressMusic
+Nokia;N81
+Nokia;N81 8GB
+Nokia;5310 XpressMusic
+Nokia;6555
+Nokia;N95 US
+Nokia;N95 8GB
+Nokia;7900 Prism
+Nokia;7500 Prism
+Nokia;6267
+Nokia;3500 classic
+Nokia;8600 Luna
+Nokia;6500 slide
+Nokia;6500 classic
+Nokia;3109 classic
+Nokia;1200
+Nokia;1650
+Nokia;2760
+Nokia;2660
+Nokia;1208
+Nokia;2630
+Nokia;2505
+Nokia;6120 classic
+Nokia;5070
+Nokia;7088
+Nokia;5700 XpressMusic
+Nokia;E61i
+Nokia;E65
+Nokia;N77
+Nokia;E90 Communicator
+Nokia;6110 NAVIGATOR
+Nokia;3110 Classic
+Nokia;6080
+Nokia;2310
+Nokia;7600
+Nokia;6708
+Nokia;6131 NFC
+Nokia;N76
+Nokia;N93i
+Nokia;6300
+Nokia;6086
+Nokia;6290
+Nokia;6275 / 6275i
+Nokia;2365i / 2366i
+Nokia;5200
+Nokia;5300 XpressMusic
+Nokia;6288
+Nokia;6315i
+Nokia;7373
+Nokia;N75
+Nokia;N95
+Nokia;8800 Sirocco Edition
+Nokia;6085
+Nokia;7390
+Nokia;E62
+Nokia;6151
+Nokia;6175i
+Nokia;2865 / 2865i
+Nokia;6133
+Nokia;5500 Sport
+Nokia;E50
+Nokia;6126 / 6133b
+Nokia;6215i
+Nokia;N72
+Nokia;N93
+Nokia;N73
+Nokia;2610
+Nokia;6070
+Nokia;6131
+Nokia;6136
+Nokia;2855i
+Nokia;6125
+Nokia;6103 / 6102i
+Nokia;9300i
+Nokia;6165i / 6165
+Nokia;6233 / 6234
+Nokia;6282
+Nokia;6305i
+Nokia;6236i
+Nokia;N71
+Nokia;N80
+Nokia;N92
+Nokia;2125i / 2128i / 2126
+Nokia;7380
+Nokia;7370
+Nokia;7360
+Nokia;E70
+Nokia;E61
+Nokia;E60
+Nokia;3250
+Nokia;6265i
+Nokia;6111
+Nokia;6270
+Nokia;6280
+Nokia;6060 / 6061 / 6062
+Nokia;1600
+Nokia;1110 / 1112
+Nokia;N70
+Nokia;N90
+Nokia;N91
+Nokia;6638
+Nokia;8801 / 8800
+Nokia;6030
+Nokia;3155 / 3155i / 3152
+Nokia;2115 / 2115i / 2116
+Nokia;6155
+Nokia;6021
+Nokia;6230i
+Nokia;6680
+Nokia;6682 / 6681
+Nokia;6101 / 6102
+Nokia;6822
+Nokia;6235i
+Nokia;3128
+Nokia;7710
+Nokia;6020
+Nokia;3230
+Nokia;2651 / 2650
+Nokia;6670
+Nokia;7280
+Nokia;7270
+Nokia;9300
+Nokia;7260
+Nokia;2600
+Nokia;6170
+Nokia;6630
+Nokia;6260
+Nokia;6651
+Nokia;3220
+Nokia;3587i
+Nokia;N-Gage QD
+Nokia;6610i
+Nokia;6255i / 6256i
+Nokia;6015i / 6012 / 6011i / 6016i / 6019i
+Nokia;7610 / 7610B
+Nokia;6810
+Nokia;3205
+Nokia;9500 Communicator
+Nokia;7200
+Nokia;6620
+Nokia;6820 / 6820i
+Nokia;7700
+Nokia;5140
+Nokia;6010
+Nokia;3108
+Nokia;3620
+Nokia;1100b
+Nokia;6100
+Nokia;6230
+Nokia;3660
+Nokia;3100 / 3120
+Nokia;6225
+Nokia;6560
+Nokia;6600
+Nokia;6585
+Nokia;3200
+Nokia;3600
+Nokia;N-Gage
+Nokia;6220
+Nokia;3588i / 3586i
+Nokia;3300
+Nokia;6108
+Nokia;3589i
+Nokia;2275 / 2285
+Nokia;2270
+Nokia;3595
+Nokia;2260
+Nokia;3560
+Nokia;6200
+Nokia;3520
+Nokia;3650
+Nokia;6800
+Nokia;5100
+Nokia;8390
+Nokia;6340i
+Nokia;6610
+Nokia;7210
+Nokia;3570
+Nokia;3585i
+Nokia;3285
+Nokia;1260
+Nokia;6590
+Nokia;6385
+Nokia;3590
+Nokia;6370
+Nokia;6310i
+Nokia;6360
+Nokia;9290
+Nokia;8265 / 8265i
+Nokia;3395
+Nokia;8270
+Nokia;7250 / 7250i
+Nokia;3360
+Nokia;3390
+Nokia;8260
+Nokia;5185i
+Nokia;8890
+Nokia;8290
+Nokia;7190
+Nokia;7160
+Nokia;5165
+Huawei;Y3II
+Huawei;Y5II
+Huawei;P9 lite
+Huawei;P9 Plus
+Huawei;P9
+Huawei;MediaPad M2 10-inch
+Huawei;Mate 8
+Huawei;Y5
+Huawei;Union
+Huawei;Mate S
+Huawei;Y6
+Huawei;G8
+Huawei;MediaPad M2
+Huawei;MediaPad T1 10
+Huawei;Ascend G610
+Huawei;P8max
+Huawei;P8 lite
+Huawei;P8
+Huawei;SnapTo
+Huawei;Y635
+Huawei;MediaPad X2
+Huawei;Ascend Y540
+Huawei;Ascend Y520
+Huawei;Ascend Y221
+Huawei;MediaPad T1 8.0
+Huawei;Ascend G620
+Huawei;Ascend G620S
+Huawei;Ascend Y550
+Huawei;Ascend G7
+Huawei;Ascend Mate7
+Huawei;Ascend P7
+Huawei;Ascend P7 mini
+Huawei;Ascend Y330
+Huawei;Ascend G630
+Huawei;Ascend Y210
+Huawei;Ascend Y300II
+Huawei;MediaPad X1
+Huawei;MediaPad M1
+Huawei;Ascend G6
+Huawei;Ascend Y600
+Huawei;Ascend Y530
+Huawei;MediaPad 7 Youth2
+Huawei;Ascend Mate 2 4G
+Huawei;Ascend Y220
+Huawei;Ascend Y511
+Huawei;Ascend W2
+Huawei;Ascend G700
+Huawei;Ascend G525
+Huawei;Pal
+Huawei;Vitria
+Huawei;MediaPad 7 Vogue
+Huawei;Valiant
+Huawei;MediaPad 10 Link
+Huawei;Ascend G526
+Huawei;Ascend Y320
+Huawei;MediaPad 7 Youth
+Huawei;Ascend P6
+Huawei;Ascend G350
+Huawei;Ascend Y300
+Huawei;ASCEND G510
+Huawei;Ascend G615
+Huawei;Premia 4G
+Huawei;Ascend P2
+Huawei;4Afrika
+Huawei;Ascend W1
+Huawei;Ascend D2
+Huawei;Ascend Mate
+Huawei;Verge
+Huawei;Ascend Y
+Huawei;Summit
+Huawei;Ascend P1 LTE
+Huawei;Ascend G600
+Huawei;Pinnacle 2
+Huawei;MediaPad 7 Lite
+Huawei;Activa 4G
+Huawei;Ascend Y200
+Huawei;Ascend Q
+Huawei;Ascend G300
+Huawei;MediaPad 10 FHD
+Huawei;Ascend D1 quad
+Huawei;Ascend D1 quad XL
+Huawei;Ascend D1
+Huawei;Ascend P1
+Huawei;Ascend P1 S
+Huawei;DISCOVERY EXPEDITION
+Huawei;Pinnacle
+Huawei;Pillar
+Huawei;Honor
+Huawei;Vision
+Huawei;Ascend II
+Huawei;Boulder
+Huawei;Sonic
+Huawei;M835
+Huawei;U120
+Huawei;G6620
+Huawei;G7010
+Huawei;G6600
+Huawei;Mercury
+Huawei;MediaPad
+Huawei;U8230
+Huawei;U1280
+Huawei;U3200
+Huawei;U7520
+Huawei;IDEOS X1
+Huawei;IDEOS S7
+Huawei;IDEOS X3
+Huawei;IDEOS X6
+Huawei;M735
+Huawei;Ascend
+Huawei;U8150 IDEOS
+Huawei;M228
+Huawei;U8300
+Huawei;IDEOS X5
+Huawei;U8100
+Huawei;U8110
+Huawei;M750
+Huawei;M328
+Huawei;M318
+Alcatel;POP 7 LTE
+Alcatel;POP 4
+Alcatel;POP 4s
+Alcatel;POP 4+
+Alcatel;Idol 4s
+Alcatel;Idol 4
+Alcatel;PLUS 10
+Alcatel;Pixi 3 (8) 4G
+Alcatel;Pixi 4 (7)
+Alcatel;Pixi 4 (6)
+Alcatel;Pixi 4 (4)
+Alcatel;Pixi 4 (3.5)
+Alcatel;OneTouch Fierce XL
+Alcatel;Flash 2
+Alcatel;OneTouch PIXI First
+Alcatel;OneTouch IDOL 3C
+Alcatel;OneTouch PIXI 3 (10)
+Alcatel;OneTouch POP UP
+Alcatel;OneTouch GO PLAY
+Alcatel;OneTouch POP Star (3G)
+Alcatel;OneTouch POP Star (4G)
+Alcatel;OneTouch Elevate
+Alcatel;OneTouch Conquest
+Alcatel;OneTouch Flash Plus
+Alcatel;OneTouch POP Astro
+Alcatel;OneTouch Hero 2+
+Alcatel;OneTouch PIXI 3 (7")
+Alcatel;OneTouch PIXI 3 (5.5")
+Alcatel;OneTouch PIXI 3 (8")
+Alcatel;OneTouch IDOL 3 (5.5")
+Alcatel;OneTouch IDOL 3 (4.7")
+Alcatel;OneTouch POP Mega
+Alcatel;OneTouch POP 2 (5) Premium
+Alcatel;OneTouch Pop 2 (4)
+Alcatel;OneTouch PIXI 3 (4)
+Alcatel;OneTouch POP 2 (5)
+Alcatel;OneTouch PIXI 3 (4.5)
+Alcatel;OneTouch POP D5
+Alcatel;Pixi 8
+Alcatel;OneTouch POP Icon
+Alcatel;OneTouch Fling
+Alcatel;OneTouch Flash
+Alcatel;OneTouch POP D3
+Alcatel;OneTouch Pop 2 (4.5)
+Alcatel;OneTouch Hero 8
+Alcatel;OneTouch Hero 2
+Alcatel;OneTouch Evolve 2
+Alcatel;OneTouch Fierce 2
+Alcatel;OneTouch POP D1
+Alcatel;OneTouch 1040
+Alcatel;THE BIG EASY Flip
+Alcatel;OneTouch POP C2
+Alcatel;OneTouch Tribe 3041
+Alcatel;OneTouch PIXI 7
+Alcatel;OneTouch POP 7S
+Alcatel;OneTouch POP S3
+Alcatel;OneTouch POP S7
+Alcatel;OneTouch POP S9
+Alcatel;OneTouch Fire E
+Alcatel;OneTouch Fire C
+Alcatel;OneTouch Fire S
+Alcatel;OneTouch Idol 2 S
+Alcatel;OneTouch POP FIT
+Alcatel;OneTouch Idol 2
+Alcatel;OneTouch Idol 2 mini
+Alcatel;OneTouch Idol 2 mini S
+Alcatel;1030
+Alcatel;OneTouch 3020
+Alcatel;OneTouch POP C9
+Alcatel;OneTouch POP 7
+Alcatel;OneTouch POP 8
+Alcatel;OneTouch Idol X+
+Alcatel;OneTouch 3075
+Alcatel;OneTouch Evolve
+Alcatel;OneTouch Fierce
+Alcatel;OneTouch POP C5
+Alcatel;OneTouch POP C7
+Alcatel;OneTouch POP C1
+Alcatel;OneTouch EVO 8HD
+Alcatel;OneTouch Hero
+Alcatel;OneTouch Idol Alpha
+Alcatel;OneTouch Idol S
+Alcatel;OneTouch Tribe 3040
+Alcatel;2010
+Alcatel;2005
+Alcatel;OneTouch Pixi
+Alcatel;OneTouch POP C3
+Alcatel;OneTouch Idol Mini
+Alcatel;OneTouch 768T
+Alcatel;OneTouch 997
+Alcatel;871A
+Alcatel;TRIBE 3000G
+Alcatel;OneTouch T10 Tab
+Alcatel;A382G
+Alcatel;OneTouch Snap
+Alcatel;OneTouch Snap LTE
+Alcatel;OneTouch Scribe Easy
+Alcatel;OneTouch Idol X
+Alcatel;OneTouch Fire
+Alcatel;OneTouch Star
+Alcatel;OneTouch X'Pop
+Alcatel;OneTouch Mâ€™Pop
+Alcatel;OneTouch S'Pop
+Alcatel;OneTouch T'Pop
+Alcatel;OneTouch EVO 7 HD
+Alcatel;OneTouch Tab 7
+Alcatel;OneTouch Tab 8 HD
+Alcatel;OneTouch EVO 7
+Alcatel;OneTouch Tab 7 HD
+Alcatel;OneTouch Scribe X
+Alcatel;OneTouch Idol Ultra
+Alcatel;OneTouch Scribe HD
+Alcatel;OneTouch Idol
+Alcatel;OneTouch 960C Ultra
+Alcatel;OneTouch 988 Shockwave
+Alcatel;OT510A
+Alcatel;OneTouch T20
+Alcatel;OT-995
+Alcatel;OT-985
+Alcatel;OT-536
+Alcatel;OT-318D
+Alcatel;OT-310
+Alcatel;OT-308
+Alcatel;OT-292
+Alcatel;OT-907D
+Alcatel;OT-906
+Alcatel;Blaze Duo OT-918N
+Alcatel;Venture
+Alcatel;OT-915
+Alcatel;OT-819
+Alcatel;OT-517D
+Alcatel;OT-390
+Alcatel;OT-282
+Alcatel;OT-230D
+Alcatel;OT-203e
+Alcatel;OT-202A
+Alcatel;OT-S121A
+Alcatel;OT-111
+Alcatel;OT-106
+Alcatel;OT-T60
+Alcatel;OT-990
+Alcatel;OT-990A
+Alcatel;OT-910
+Alcatel;OT-908
+Alcatel;OT-905D
+Alcatel;OT-905
+Alcatel;OT-905A
+Alcatel;OT-901n
+Alcatel;OT-900A
+Alcatel;OT-900
+Alcatel;OT-890D
+Alcatel;OT-890
+Alcatel;OT-888D
+Alcatel;OT-888
+Alcatel;OT-828
+Alcatel;OT-818D
+Alcatel;OT-818
+Alcatel;OT-813D
+Alcatel;OT-813A
+Alcatel;OT-813
+Alcatel;OT-803
+Alcatel;OT-803A
+Alcatel;OT-690D
+Alcatel;OT-690
+Alcatel;OT-665A
+Alcatel;OT-665
+Alcatel;OT-602D
+Alcatel;OT-602A
+Alcatel;OT-602
+Alcatel;OT-585
+Alcatel;OT-585D
+Alcatel;OT-506D
+Alcatel;OT-506A
+Alcatel;OT-506
+Alcatel;OT-385D
+Alcatel;OT-385
+Alcatel;OT-361
+Alcatel;OT-306
+Alcatel;OT-217
+Alcatel;OT-213
+Alcatel;OT-117
+Alcatel;OT-113
+Alcatel;OT-112
+Alcatel;OT-880
+Alcatel;OT-880A
+Alcatel;OT-807A
+Alcatel;OT-807
+Alcatel;OT-806
+Alcatel;OT-806D
+Alcatel;OT-806A
+Alcatel;OT-802
+Alcatel;OT-802A
+Alcatel;OT-799
+Alcatel;OT-799A
+Alcatel;OT-710
+Alcatel;OT-710D
+Alcatel;OT-706A
+Alcatel;OT-706
+Alcatel;OT-606
+Alcatel;OT-565A
+Alcatel;OT-565
+Alcatel;OT-505
+Alcatel;OT-355A
+Alcatel;OT-355D
+Alcatel;OT-355
+Alcatel;OT-305A
+Alcatel;OT-305
+Alcatel;OT-300
+Alcatel;OT-255A
+Alcatel;OT-255D
+Alcatel;OT-255
+Alcatel;OT-223A
+Alcatel;OT-209
+Alcatel;OT-208A
+Alcatel;OT-208
+Alcatel;OT-109
+Alcatel;OT-108
+Alcatel;OT-105
+Alcatel;OT-105A
+Alcatel;OT-810
+Alcatel;OT-980
+Alcatel;OT-980A
+Alcatel;OT-380A
+Alcatel;OT-206
+Alcatel;OT-808
+Alcatel;OT-808a
+Alcatel;OT-508A
+Alcatel;Roadsign
+Alcatel;Lollipops
+Alcatel;Miss Sixty
+Alcatel;Crystal A
+Alcatel;OT-660A
+Alcatel;OT-360A
+Alcatel;OT-280
+Alcatel;OT-222A
+Alcatel;ELLE GlamPhone
+Alcatel;OT-216
+Alcatel;OT-C701a
+Alcatel;OT-600
+Alcatel;OT-600a
+Alcatel;OT-102a
+Alcatel;OT-102
+Alcatel;OT-I650
+Alcatel;OT-I650A
+Alcatel;OT-S521A
+Alcatel;OT-S321A
+Alcatel;OT-800a
+Alcatel;OT-800
+Alcatel;OT-708a
+Alcatel;OT-708
+Alcatel;OT-303A
+Alcatel;OT-203A
+Alcatel;OT-203
+Alcatel;OT-103A
+Alcatel;OT-E206A
+Alcatel;OT-383A
+Alcatel;OT-C820A
+Alcatel;OT-C700A
+Alcatel;OT-S320
+Alcatel;OT-V607A
+Alcatel;OT-V212
+Alcatel;OT-V770A
+Alcatel;OT-V570A
+Alcatel;OT-V670A
+Alcatel;OT-S107
+Alcatel;OT-V270A
+Alcatel;OT-S211A
+Alcatel;OT-S210
+Alcatel;OT-S218
+Alcatel;Mandarina
+Alcatel;OT-S626A
+Alcatel;OT-S621
+Alcatel;OT-S520
+Alcatel;OT-S319A
+Alcatel;OT-S120A
+Alcatel;OT-S920
+Alcatel;OT-C550c
+Alcatel;OT-E801c
+Alcatel;OT-E205c
+Alcatel;OT-E227A
+Alcatel;CT300
+Alcatel;OT-E206
+Alcatel;CT100
+Alcatel;OT-E105c
+Alcatel;OT-E207A
+Alcatel;OT-E221Ð
+Alcatel;OT-E101A
+Alcatel;OT-E201A
+Alcatel;OT-E230
+Alcatel;OT-E801
+Alcatel;OT-C630A
+Alcatel;OT-C635A
+Alcatel;OT-C825
+Alcatel;ELLE No 3
+Alcatel;OT-C717
+Alcatel;OT-C707
+Alcatel;OT-C701
+Alcatel;OT-C820
+Alcatel;OT-C550
+Alcatel;OT-C560
+Alcatel;OT C651
+Alcatel;OneTouch 355a
+Alcatel;OneTouch 156a
+Alcatel;OneTouch 155a
+Alcatel;OneTouch 565
+Alcatel;OneTouch 557a
+Alcatel;OneTouch 756
+Alcatel;OT 332a
+Lenovo;Phab 2
+Lenovo;Phab 2 Plus
+Lenovo;Phab 2 Pro
+Lenovo;Vibe K5 Plus
+Lenovo;Vibe K5
+Lenovo;TAB3 10
+Lenovo;TAB3 8
+Lenovo;TAB3 7
+Lenovo;K4 Note
+Lenovo;VIBE S1 Lite
+Lenovo;Vibe X3
+Lenovo;Vibe S1
+Lenovo;Vibe P1m
+Lenovo;PHAB Plus
+Lenovo;YOGA Tab 3 10-inch
+Lenovo;PHAB
+Lenovo;YOGA Tab 3 Pro
+Lenovo;YOGA Tab 3 8-inch
+Lenovo;Vibe P1
+Lenovo;A2010
+Lenovo;ZUK Z1
+Lenovo;K3 Note
+Lenovo;S60
+Lenovo;A5000
+Lenovo;A7000
+Lenovo;VIBE Shot
+Lenovo;TAB 2 A8
+Lenovo;TAB 2 A10-70
+Lenovo;IdeaPad MIIX 300
+Lenovo;A6000
+Lenovo;P70
+Lenovo;P90
+Lenovo;YOGA Tablet 2 8-inch (Windows) with AnyPen
+Lenovo;VIBE X2 Pro
+Lenovo;TAB 2 A7-30
+Lenovo;TAB 2 A7-10
+Lenovo;S90
+Lenovo;S856
+Lenovo;YOGA Tablet 2 10-inch (Windows)
+Lenovo;YOGA Tablet 2 8-inch (Windows)
+Lenovo;YOGA Tablet 2 10-inch (Android)
+Lenovo;YOGA Tablet 2 8-inch (Android)
+Lenovo;YOGA Tablet 2 Pro
+Lenovo;A606
+Lenovo;Vibe Z2
+Lenovo;Vibe X2
+Lenovo;Tab S8-50
+Lenovo;A7-30 A3300
+Lenovo;Vibe Z2 Pro
+Lenovo;ThinkPad 10
+Lenovo;Tab A7-50
+Lenovo;Tab A10
+Lenovo;Tab A8
+Lenovo;S850
+Lenovo;S860
+Lenovo;S660
+Lenovo;Yoga Tablet 10 HD+
+Lenovo;ThinkPad 8
+Lenovo;Miix 2 11
+Lenovo;Miix 2 10
+Lenovo;S650
+Lenovo;S930
+Lenovo;Vibe Z
+Lenovo;A859
+Lenovo;Yoga Tablet 10
+Lenovo;Yoga Tablet 8
+Lenovo;Miix2
+Lenovo;S5000
+Lenovo;Vibe X
+Lenovo;A850
+Lenovo;Miix
+Lenovo;IdeaTab S6000
+Lenovo;IdeaTab A3000
+Lenovo;IdeaTab A1000
+Lenovo;IdeaPhone K900
+Lenovo;IdeaTab Lynx K3011
+Lenovo;ThinkPad Tablet 2
+Lenovo;IdeaTab A2107
+Lenovo;IdeaTab A1107
+Lenovo;Ideatab S2107A
+Lenovo;Ideatab S2109A
+Lenovo;Ideatab S2110A
+Lenovo;IdeaTab A2109
+Lenovo;IdeaTab S2110
+Lenovo;IdeaTab S2109
+Lenovo;K800
+Lenovo;S2
+Lenovo;IdeaTab K2
+Lenovo;IdeaPad A1
+Lenovo;ThinkPad Tablet
+Lenovo;IdeaPad Tablet K1
+Xiaomi;Mi Max
+Xiaomi;Mi 4s
+Xiaomi;Mi 5
+Xiaomi;Redmi 3
+Xiaomi;Redmi Note Prime
+Xiaomi;Mi Pad 2
+Xiaomi;Redmi Note 3
+Xiaomi;Mi 4c
+Xiaomi;Redmi Note 2
+Xiaomi;Redmi 2 Prime
+Xiaomi;Mi 4i
+Xiaomi;Mi Note Pro
+Xiaomi;Mi Note
+Xiaomi;Redmi 2
+Xiaomi;Mi 4
+Xiaomi;Redmi 1S
+Xiaomi;MiPad
+Xiaomi;Redmi Note
+Xiaomi;MI-2a
+Xiaomi;Hongmi
+Xiaomi;Mi-3
+Xiaomi;Mi-2S
+Xiaomi;Mi-1s
+Xiaomi;Mi-Two
+ZTE;Axon 7
+ZTE;Grand X Max 2
+ZTE;Imperial Max
+ZTE;Z223
+ZTE;Blade V7
+ZTE;Grand X 3
+ZTE;Avid Plus
+ZTE;Axon Max
+ZTE;Prestige
+ZTE;ZMAX 2
+ZTE;Axon Elite
+ZTE;Warp Elite
+ZTE;Obsidian
+ZTE;Blade V6
+ZTE;Axon Lux
+ZTE;Axon Mini
+ZTE;Max+
+ZTE;Axon Pro
+ZTE;Axon
+ZTE;Maven
+ZTE;Sonata 2
+ZTE;Overture 2
+ZTE;Fanfare
+ZTE;Nubia Z9
+ZTE;Blade S6 Plus
+ZTE;Nubia Z9 Max
+ZTE;Nubia Z9 mini
+ZTE;Grand S3
+ZTE;Quartz
+ZTE;Blade S6
+ZTE;Imperial II
+ZTE;Speed
+ZTE;Grand X Max+
+ZTE;Star II
+ZTE;Prelude 2
+ZTE;Altair 2
+ZTE;Grand X Max
+ZTE;Zinger
+ZTE;Z667
+ZTE;ZMAX
+ZTE;Compel
+ZTE;Z432
+ZTE;Blade Vec 4G
+ZTE;Blade Vec 3G
+ZTE;Kis 3 Max
+ZTE;Grand X2 Premium Pack
+ZTE;Warp Sync
+ZTE;nubia Z7 Max
+ZTE;nubia Z7 mini
+ZTE;nubia Z7
+ZTE;Grand S Pro
+ZTE;Altair
+ZTE;Prelude
+ZTE;WeGo
+ZTE;Nubia X6
+ZTE;Grand Memo II LTE
+ZTE;Open C
+ZTE;Max
+ZTE;Optik 2
+ZTE;Valet
+ZTE;Solar
+ZTE;Radiant
+ZTE;Blade Q Mini
+ZTE;Sonata 4G
+ZTE;Nubia Z5S
+ZTE;nubia 5S mini
+ZTE;Grand S II
+ZTE;Savvy
+ZTE;Engage MT
+ZTE;Grand X Pro
+ZTE;Grand S Flex
+ZTE;N800
+ZTE;Warp 4G
+ZTE;Source
+ZTE;Supreme
+ZTE;Reef
+ZTE;Imperial
+ZTE;Grand X Quad
+ZTE;Vital
+ZTE;Grand X2 In
+ZTE;Engage LT
+ZTE;Grand Era
+ZTE;Director
+ZTE;Geek
+ZTE;V98
+ZTE;Grand Memo
+ZTE;Open
+ZTE;Z431
+ZTE;Overture
+ZTE;Blade C
+ZTE;V81
+ZTE;Grand S
+ZTE;Nubia 5
+ZTE;Avid 4G
+ZTE;Groove
+ZTE;Blade III
+ZTE;Render
+ZTE;Engage
+ZTE;Warp Sequent
+ZTE;Grand X IN
+ZTE;Anthem 4G
+ZTE;Flash
+ZTE;Grand X LTE
+ZTE;Score M
+ZTE;Blade II
+ZTE;Fury
+ZTE;Mimosa Mini
+ZTE;PF 100
+ZTE;T98
+ZTE;V96
+ZTE;V9S
+ZTE;Light Tab 300
+ZTE;Skate Acqua
+ZTE;Kis
+ZTE;N91
+ZTE;PF200
+ZTE;PF112
+ZTE;Orbit
+ZTE;Era
+ZTE;FTV Phone
+ZTE;Grand X
+ZTE;Optik
+ZTE;Adamant
+ZTE;Chorus
+ZTE;e760
+ZTE;A137
+ZTE;A261
+ZTE;e811
+ZTE;xiang
+ZTE;Coral200 Sollar
+ZTE;Raise
+ZTE;F101
+ZTE;F600
+ZTE;F870
+ZTE;F952
+ZTE;F100
+ZTE;F103
+ZTE;S202
+ZTE;S302
+ZTE;F160
+ZTE;F930
+ZTE;F950
+ZTE;F951
+ZTE;R352
+ZTE;N290
+ZTE;R235
+ZTE;R233
+ZTE;S213
+ZTE;S316
+ZTE;E550
+ZTE;R230
+ZTE;A661
+ZTE;R220
+ZTE;S315
+ZTE;S319
+ZTE;S308
+ZTE;S510
+ZTE;S309
+ZTE;S318
+ZTE;S512
+ZTE;S500
+ZTE;S215
+ZTE;X670
+ZTE;i799
+ZTE;R791
+ZTE;X990
+ZTE;X930
+ZTE;X630
+ZTE;X730
+ZTE;Mars Mini
+ZTE;V9
+ZTE;R222
+ZTE;R260
+ZTE;S217
+ZTE;T54
+ZTE;F116
+ZTE;V852
+ZTE;T203
+ZTE;F953
+ZTE;Roamer
+ZTE;Light Tab 2
+ZTE;Light Tab
+ZTE;E821
+ZTE;Memo
+ZTE;Warp
+ZTE;Libra
+ZTE;V871
+ZTE;Tania
+ZTE;Score
+ZTE;Skate
+ZTE;553
+ZTE;Zest
+ZTE;San Francisco
+ZTE;Miami
+ZTE;Rio II
+ZTE;Rio
+ZTE;Atlanta
+ZTE;Racer
+ZTE;351
+ZTE;R228
+ZTE;N285
+ZTE;N720
+ZTE;V880
+ZTE;E850
+ZTE;Blade
+ZTE;R221
+ZTE;Agent
+ZTE;Essenze
+ZTE;C78
+ZTE;C79
+ZTE;C88
+Asus;ZenPad Z8
+Asus;ZenFone 3 Deluxe
+Asus;ZenFone 3
+Asus;ZenFone 3 Ultra
+Asus;ZenFone 2 Laser (US)
+Asus;ZenFone 2 Laser
+Asus;ZenFone Max
+Asus;Zenfone 2 Laser 6-inch
+Asus;ZenFone 2 Laser 5.5-inch
+Asus;ZenFone 2E
+Asus;MeMO Pad 7 LTE
+Asus;ZenPad 7.0
+Asus;ZenFone Selfie
+Asus;ZenPad S 8.0
+Asus;ZenFone 2 (ZE500CL)
+Asus;Padfone S Plus
+Asus;Fonepad 7 FE375CL
+Asus;ZenFone C
+Asus;MeMO Pad 7 (ME572C)
+Asus;Transformer Book T90 Chi
+Asus;Transformer Book T100 Chi
+Asus;ZenFone Zoom
+Asus;Transformer Book T300 Chi
+Asus;ZenFone 2
+Asus;MeMO Pad 10
+Asus;PadFone X mini
+Asus;VivoTab 8
+Asus;Transformer Pad TF103C
+Asus;Transformer Pad TF303CL
+Asus;MeMO Pad 8
+Asus;MeMO Pad 7
+Asus;Fonepad 8
+Asus;FonePad 7 FE170CG
+Asus;PadFone E
+Asus;PadFone X
+Asus;ZenFone 5
+Asus;ZenFone 6
+Asus;ZenFone 4
+Asus;PadFone mini
+Asus;VivoTab Note 8
+Asus;Transformer Book T100TA
+Asus;PadFone Infinity 2
+Asus;Fonepad 7 ME372CG
+Asus;Transformer Book Trio
+Asus;Fonepad Note 6
+Asus;Transformer Pad Infinity TF701T
+Asus;MeMO Pad FHD 10
+Asus;MeMO Pad HD 7
+Asus;PadFone Infinity
+Asus;Fonepad
+Asus;MeMO Pad Smart 10
+Asus;MeMO Pad
+Asus;VivoTab Smart
+Asus;Padfone 2
+Asus;Transformer Pad Infinity TF700T
+Asus;VivoTab RT LTE
+Asus;VivoTab
+Asus;Transformer Pad 300
+Asus;PadFone
+Asus;MeMO 171
+Asus;MeMO 370T
+Asus;Transformer Prime
+Asus;Eee Pad Transformer 3G
+Asus;Eee Pad Slider
+Asus;Eee Pad Transformer
+Asus;Eee Pad MeMO
+Asus;E600
+Asus;P835
+Asus;P320
+Asus;P565
+Asus;M930
+Asus;M530w
+Asus;P750
+Asus;P527
+Asus;P526
+Asus;P535
+Asus;P735
+Acer;Liquid Zest Plus
+Acer;Iconia One 8
+Acer;Liquid Jade Primo
+Acer;Liquid Z330
+Acer;Liquid M330
+Acer;Liquid Z530S
+Acer;Liquid Z630S
+Acer;Liquid Z630
+Acer;Predator 8
+Acer;Liquid Z530
+Acer;Liquid Z410
+Acer;Liquid Jade S
+Acer;Liquid Z500
+Acer;Iconia Tab 8
+Acer;Liquid E700
+Acer;Liquid E600
+Acer;Liquid Jade
+Acer;Liquid X1
+Acer;Liquid Z200
+Acer;Iconia Tab 7 A1-713HD
+Acer;Iconia Tab 7 A1-713
+Acer;Liquid Z4
+Acer;Liquid E3
+Acer;Iconia A1-830-1479
+Acer;Iconia B1-720-L864
+Acer;Liquid Z5
+Acer;Iconia W4
+Acer;Iconia A3
+Acer;Liquid S2
+Acer;Liquid Z3
+Acer;Liquid S1
+Acer;Iconia W3
+Acer;Iconia A1
+Acer;Liquid E2
+Acer;Iconia W511
+Acer;Liquid Z2
+Acer;Liquid E1
+Acer;Iconia B1
+Acer;Iconia W700
+Acer;Liquid Gallant Duo
+Acer;Liquid Gallant
+Acer;ICONIA TAB A110
+Acer;Iconia Tab A210
+Acer;Iconia Tab A211
+Acer;Iconia W510
+Acer;Liquid Glow
+Acer;CloudMobile
+Acer;Iconia Tab A510
+Acer;Iconia Tab A700
+Acer;Liquid Express
+Acer;ICONIA TAB A200
+Acer;Allegro
+Acer;ICONIA TAB A100
+Acer;ICONIA TAB A501
+Acer;ICONIA TAB A500
+Acer;ICONIA SMART
+Acer;liquidmini
+Acer;beTouch E210
+Acer;beTouch E140
+Acer;Liquid Metal
+Acer;Liquid Metal American version
+Acer;beTouch E130
+Acer;beTouch E130 American version
+Acer;beTouch E120 American version
+Acer;beTouch E120
+Acer;Stream
+Acer;Liquid e
+Acer;neoTouch P400
+Acer;neoTouch P400 American version
+Acer;neoTouch P300
+Acer;beTouch E400
+Acer;beTouch E400 American version
+Acer;beTouch E110 American version
+Acer;beTouch E110
+Acer;Liquid
+Acer;beTouch E200
+Acer;beTouch E101
+Acer;beTouch E100
+Acer;neoTouch
+Acer;F900
+Acer;M900
+Acer;X960
+Amazon;Fire HD 8
+Amazon;Fire
+Amazon;Fire HD 10
+Amazon;Fire HD 6
+Amazon;Fire HD 7
+Amazon;Fire HDX 8.9
+Amazon;Fire Phone
+Amazon;Kindle Fire HD (2013)
+Amazon;Kindle Fire HDX 7
+Amazon;Kindle Fire HDX 8.9
+Amazon;Kindle Fire HD 8.9
+Amazon;Kindle Fire 2
+Amazon;Kindle Fire HD
+Amazon;Kindle Fire HD 8.9 4G LTE
+Amazon;Kindle Fire
+honor;5X
+honor;7i
+honor;7
+honor;4X
+honor;4C
+honor;6 Plus
+honor;Holly
+honor;6
+honor;3C
+Google;Pixel C
+Google;Nexus 6P
+Google;Nexus 5X
+Google;Nexus 9
+Google;Nexus 6
+Google;Nexus 8
+Google;Nexus 5
+Google;Nexus 7 (2013)
+Google;Nexus 10
+Google;Nexus 4
+Google;Nexus 7
+Google;Nexus S 4G
+Google;Nexus S
+OPPO;R9 Plus
+OPPO;R9
+OPPO;F1
+OPPO;Neo 7
+OPPO;R7s
+OPPO;R7 Lite
+OPPO;R5s
+OPPO;Mirror 5
+OPPO;Mirror 5s
+OPPO;Neo 5 (2015)
+OPPO;R7 Plus
+OPPO;R7
+OPPO;Neo 5s
+OPPO;A31
+OPPO;R1x
+OPPO;3000
+OPPO;R1C
+OPPO;U3
+OPPO;R5
+OPPO;N3
+OPPO;R1S
+OPPO;Neo 5
+OPPO;N1 mini
+OPPO;Find 7a
+OPPO;Find 7
+OPPO;Neo
+OPPO;N1
+OPPO;R819
+OPPO;Find 5
+Meizu;M3
+Meizu;Pro 6
+Meizu;M3 Note
+Meizu;Blue Charm Metal
+Meizu;PRO 5
+Meizu;m2
+Meizu;MX5
+Meizu;m2 note
+Meizu;Blue Charm
+Meizu;m1 note
+Meizu;MX4 Pro
+Meizu;MX4
+Meizu;MX3
+Meizu;MX2
+Meizu;MX
+GIGABYTE;GSmart Essence 4
+GIGABYTE;GSmart Classic Lite
+GIGABYTE;GSmart Classic
+GIGABYTE;GSmart Essence
+GIGABYTE;GSmart Mika M3
+GIGABYTE;GSmart GX2
+GIGABYTE;GSmart Guru (White Edition)
+GIGABYTE;GSmart T4 (Lite Edition)
+GIGABYTE;GSmart Arty A3
+GIGABYTE;GSmart Mika M2
+GIGABYTE;GSmart Saga S3
+GIGABYTE;GSmart T4
+GIGABYTE;GSmart Rey R3
+GIGABYTE;GSmart Simba SX1
+GIGABYTE;GSmart Sierra S1
+GIGABYTE;GSmart Roma R2
+GIGABYTE;GSmart Alto A2
+GIGABYTE;GSmart Guru
+GIGABYTE;GSmart Maya M1 v2
+GIGABYTE;GSmart Aku A1
+GIGABYTE;GSmart Maya M1
+GIGABYTE;GSmart Rio R1
+GIGABYTE;GSmart Tuku T2
+GIGABYTE;G1342
+GIGABYTE;GSmart M3447
+GIGABYTE;GSmart G1355
+GIGABYTE;G1345
+GIGABYTE;GSmart G1317D
+GIGABYTE;G1305
+GIGABYTE;GSmart S1205
+GIGABYTE;GSmart S1200
+GIGABYTE;GSmart MS820
+GIGABYTE;GSmart MS802
+GIGABYTE;GSmart MW702
+GIGABYTE;GSmart MS800
+GIGABYTE;GSmart i350
+GIGABYTE;GSmart MW700
+GIGABYTE;GSmart MW998
+GIGABYTE;GSmart i300
+GIGABYTE;GSmart t600
+GIGABYTE;GSmart i120
+GIGABYTE;GSmart i128
+GIGABYTE;GSmart i
+GIGABYTE;GSmart g-Smart
+Pantech;Vybe
+Pantech;Vega Iron 2
+Pantech;Breeze IV
+Pantech;Perception
+Pantech;Discover
+Pantech;Flex
+Pantech;Marauder
+Pantech;Renue
+Pantech;Swift
+Pantech;Burst
+Pantech;Element
+Pantech;Pocket
+Pantech;Hotshot
+Pantech;Link II
+Pantech;Jest 2
+Pantech;Breeze III
+Pantech;Pursuit II
+Pantech;Breakout
+Pantech;Crossover
+Pantech;Caper
+Pantech;Crux
+Pantech;Laser
+Pantech;Jest
+Pantech;Ease
+Pantech;Breeze II
+Pantech;Link
+Pantech;Pursuit P9020
+Pantech;Impact
+Pantech;Reveal
+Pantech;Matrix Pro
+Pantech;C630
+Pantech;Slate
+Pantech;Matrix
+Pantech;C610
+Pantech;Breeze
+Pantech;Duo
+Pantech;PG-C3b
+Pantech;C710
+Pantech;C150
+Pantech;C600
+Pantech;C510
+Pantech;PN-810
+Pantech;PN-820
+Pantech;S100
+Pantech;PN-320 / PN-3200 / CDM-8932
+Pantech;PN-300
+Pantech;PN-8300
+Pantech;PG-3810
+Pantech;PG-1610
+Pantech;PG-C120
+Pantech;PG-1810
+Pantech;PG-3310
+Pantech;PG-C300 / C3
+Pantech;PN-210
+Pantech;PN-215
+Fly;Thunder IQ4405 Quad
+Fly;Thunder 3 IQ4415
+Fly;Thunder 5 IQ4413
+Fly;Dune Pro IQ4517
+Fly;Epic Note IQ4551
+Fly;Dune 4 IQ4508
+Fly;Dune 3 IQ4507
+Fly;Posh DS131
+Fly;Epic IQ4602
+Fly;Blade IQ4516
+Fly;Eclipse 3 IQ4514
+Fly;Dune IQ4503Q
+Fly;Dune 2 IQ4505
+Fly;Intruder IQ4509
+Fly;Titan IQ4511
+Fly;Spark IQ4404
+Fly;Iris IQ4400
+Fly;Iris 2 IQ4490i
+Fly;Eclipse IQ4418
+Fly;Horizon 3 IQ434
+Fly;Horizon 1 IQ239
+Fly;Horizon 2 IQ436
+Fly;Chat TS111
+Fly;Ion DS104D
+Fly;Easy
+Fly;Eon DS107D
+Gionee;Pioneer P5L
+Gionee;Pioneer P5 Mini
+Gionee;S8
+Gionee;Pioneer P5W
+Gionee;Marathon M5 Plus
+Gionee;Marathon M5 lite
+Gionee;S Plus
+Gionee;S6
+Gionee;Marathon M3
+Gionee;F103
+Gionee;Pioneer P3S
+Gionee;Marathon M4
+Gionee;Pioneer P2M
+Gionee;Elife E8
+Gionee;Marathon M5
+Gionee;Pioneer P4S
+Gionee;Elife S7
+Gionee;Pioneer P6
+Gionee;Elife S5.1
+Gionee;Ctrl V6L
+Gionee;Ctrl V4S
+Gionee;GPad G5
+Gionee;Marathon M2
+Gionee;Elife E7
+Gionee;Pioneer P2S
+Gionee;Elife E7 Mini
+Gionee;Ctrl V5
+Gionee;Elife S5.5
+Gionee;Elife E6
+Gionee;CTRL V4
+Gionee;Dream D1
+Gionee;Elife E5
+Gionee;Gpad G3
+Gionee;P1
+Gionee;P2
+Gionee;Elife E3
+Gionee;Gpad G2
+Gionee;Gpad G1
+OnePlus;3
+OnePlus;X
+OnePlus;2
+OnePlus;One
+Toshiba;Encore mini WT7-C16
+Toshiba;Encore 2 10.1-inch
+Toshiba;Encore 2 8-inch
+Toshiba;Excite Go
+Toshiba;Excite 7
+Toshiba;Encore
+Toshiba;Excite Write
+Toshiba;Excite 10 SE
+Toshiba;AT300
+Toshiba;Excite 7.7
+Toshiba;Excite 13
+Toshiba;Excite 10
+Toshiba;Thrive 7 Tablet
+Toshiba;Excite 10 LE
+Toshiba;AT200-100
+Toshiba;FOLIO 100
+Toshiba;Thrive
+Toshiba;K01
+Toshiba;TG02
+Toshiba;TG01 CDMA
+Toshiba;TG01
+Toshiba;G450
+Toshiba;Portege G810
+Toshiba;PORTEGE G910
+Toshiba;PORTEGE G710
+Toshiba;PORTEGE G500
+Toshiba;PORTEGE G900
+Toshiba;TS 921
+ViewSonic;ViewPad E100
+ViewSonic;ViewPad G70
+ViewSonic;ViewPhone 4s
+ViewSonic;ViewPhone 4e
+ViewSonic;ViewPhone 5e
+ViewSonic;ViewPad E70
+ViewSonic;ViewPad 10pi
+ViewSonic;ViewPad 10e
+ViewSonic;ViewPhone 3
+ViewSonic;ViewPad 7e
+ViewSonic;ViewBook 730
+ViewSonic;ViewPad 7x
+ViewSonic;ViewPad 10Pro
+ViewSonic;ViewPad 7
+ViewSonic;gTablet
+ViewSonic;ViewPad 10
+ViewSonic;V350
+ViewSonic;ViewPad 4
+Barnes & Noble;NOOK HD+
+Barnes & Noble;NOOK HD
+Barnes & Noble;NOOK Tablet
+Panasonic;Lumix CM1
+Panasonic;Toughpad FZ-X1
+Panasonic;P31
+Panasonic;Toughpad JT-B1
+Panasonic;ELUGA power
+Panasonic;ELUGA
+Panasonic;Toughpad A1
+Panasonic;MX7
+Panasonic;SA7
+Panasonic;SA6
+Panasonic;VS7
+Panasonic;VS3
+Panasonic;P341
+Panasonic;X800
+Panasonic;Z800
+Panasonic;Toughbook CF-P1
+Panasonic;X300
+Panasonic;A100 / A101 / A102
+Panasonic;X700
+Panasonic;X11
+Panasonic;X88
+Panasonic;G70
+Panasonic;X70
+Panasonic;G50 / G51
+Panasonic;G60U / G60
+Panasonic;GD55
+Panasonic;GD87 (USA)
+Panasonic;Allure TX310
+Panasonic;Versio TX320
+Panasonic;DuraMax
+Nvidia;SHIELD
+HP;Elite x3
+HP;Slate 6 VoiceTab II
+HP;8
+HP;Slate 7 VoiceTab
+HP;Slate 6 VoiceTab
+HP;ElitePad 1000
+HP;ProPad 600
+HP;Slate 7 Extreme
+HP;Slate 8 Pro
+HP;SlateBook x2
+HP;Slate 7
+HP;TouchPad 4G
+HP;TouchPad
+HP;Pre3 GSM
+HP;Pre3
+HP;Veer 4G
+HP;iPAQ Glisten
+HP;iPAQ Voice Messenger
+HP;iPAQ Data Messenger
+HP;iPAQ 600
+HP;iPAQ 900
+HP;IPAQ 500
+HP;iPAQ hw6900
+HP;iPAQ rw6800
+HP;iPAQ hw6500
+HP;iPAQ h6300
+Sony Ericsson;Xperia PLAY 4G
+Sony Ericsson;Xperia arc S
+Sony Ericsson;Xperia neo V
+Sony Ericsson;Live with Walkman
+Sony Ericsson;txt
+Sony Ericsson;Xperia active
+Sony Ericsson;Xperia ray
+Sony Ericsson;Mix Walkman
+Sony Ericsson;txt pro
+Sony Ericsson;Xperia mini pro
+Sony Ericsson;Xperia mini
+Sony Ericsson;W8 Walkman
+Sony Ericsson;Xperia neo
+Sony Ericsson;Xperia PLAY CDMA
+Sony Ericsson;Xperia pro
+Sony Ericsson;Xperia PLAY
+Sony Ericsson;Xperia arc
+Sony Ericsson;Xperia X8
+Sony Ericsson;Xperia X8a
+Sony Ericsson;Yendo
+Sony Ericsson;Yendo a
+Sony Ericsson;Cedar
+Sony Ericsson;Cedar a
+Sony Ericsson;Spiro
+Sony Ericsson;Spiro a
+Sony Ericsson;Zylo
+Sony Ericsson;Vivaz pro
+Sony Ericsson;Xperia X10 mini
+Sony Ericsson;Xperia X10 mini pro
+Sony Ericsson;Xperia X10 mini pro a
+Sony Ericsson;Vivaz pro a
+Sony Ericsson;Aspen
+Sony Ericsson;Aspen a
+Sony Ericsson;Vivaz
+Sony Ericsson;Vivaz a
+Sony Ericsson;Xperia X10 mini a
+Sony Ericsson;Hazel
+Sony Ericsson;Elm
+Sony Ericsson;Xperia Pureness
+Sony Ericsson;Xperia X10
+Sony Ericsson;Xperia X10a
+Sony Ericsson;XPERIA X2a
+Sony Ericsson;Jalou
+Sony Ericsson;Jalou by Dolce&Gabbana
+Sony Ericsson;XPERIA X2
+Sony Ericsson;T715
+Sony Ericsson;T715a
+Sony Ericsson;Equinox
+Sony Ericsson;Naite
+Sony Ericsson;Naite a
+Sony Ericsson;C901 GreenHeart
+Sony Ericsson;C901 GreenHeart US
+Sony Ericsson;Yari a
+Sony Ericsson;Yari
+Sony Ericsson;Aino
+Sony Ericsson;Aino US
+Sony Ericsson;Satio a
+Sony Ericsson;C901a
+Sony Ericsson;W518a
+Sony Ericsson;S312
+Sony Ericsson;W205a
+Sony Ericsson;W205
+Sony Ericsson;T707a
+Sony Ericsson;T707
+Sony Ericsson;Satio
+Sony Ericsson;W995
+Sony Ericsson;W995a
+Sony Ericsson;C901
+Sony Ericsson;W395
+Sony Ericsson;C903
+Sony Ericsson;C903a
+Sony Ericsson;W715
+Sony Ericsson;C510a
+Sony Ericsson;C510
+Sony Ericsson;W508a
+Sony Ericsson;W508
+Sony Ericsson;W705
+Sony Ericsson;G705
+Sony Ericsson;T700
+Sony Ericsson;W902
+Sony Ericsson;W595
+Sony Ericsson;W302
+Sony Ericsson;TM506
+Sony Ericsson;C905a
+Sony Ericsson;C905
+Sony Ericsson;F305
+Sony Ericsson;K330
+Sony Ericsson;K330a
+Sony Ericsson;S302
+Sony Ericsson;J132a
+Sony Ericsson;G702
+Sony Ericsson;G502
+Sony Ericsson;Z780
+Sony Ericsson;T303
+Sony Ericsson;W980
+Sony Ericsson;C702
+Sony Ericsson;C902
+Sony Ericsson;Z770
+Sony Ericsson;G900
+Sony Ericsson;Xperia X1
+Sony Ericsson;G700
+Sony Ericsson;R300
+Sony Ericsson;R306
+Sony Ericsson;T280
+Sony Ericsson;T270
+Sony Ericsson;W350
+Sony Ericsson;W760
+Sony Ericsson;Z555
+Sony Ericsson;K205
+Sony Ericsson;W380
+Sony Ericsson;K660
+Sony Ericsson;K630
+Sony Ericsson;W890
+Sony Ericsson;V640
+Sony Ericsson;K770
+Sony Ericsson;Z320
+Sony Ericsson;K850
+Sony Ericsson;W910
+Sony Ericsson;W960
+Sony Ericsson;K530
+Sony Ericsson;Z250
+Sony Ericsson;T250
+Sony Ericsson;T650
+Sony Ericsson;P1
+Sony Ericsson;S500
+Sony Ericsson;W580
+Sony Ericsson;Z750
+Sony Ericsson;W660
+Sony Ericsson;J110
+Sony Ericsson;K220
+Sony Ericsson;K200
+Sony Ericsson;W880
+Sony Ericsson;K810
+Sony Ericsson;K550
+Sony Ericsson;W610
+Sony Ericsson;W200
+Sony Ericsson;Z310
+Sony Ericsson;K320
+Sony Ericsson;Z558
+Sony Ericsson;W850 / W830
+Sony Ericsson;Z610
+Sony Ericsson;K618
+Sony Ericsson;Z550a / Z550
+Sony Ericsson;W710
+Sony Ericsson;Z710
+Sony Ericsson;W700
+Sony Ericsson;Z525 / Z525a
+Sony Ericsson;K800
+Sony Ericsson;K790
+Sony Ericsson;K510
+Sony Ericsson;Z530
+Sony Ericsson;K310
+Sony Ericsson;W300
+Sony Ericsson;W950
+Sony Ericsson;K610
+Sony Ericsson;J100
+Sony Ericsson;M600
+Sony Ericsson;W810
+Sony Ericsson;Z300a / Z300
+Sony Ericsson;J220
+Sony Ericsson;J230
+Sony Ericsson;W900
+Sony Ericsson;P990
+Sony Ericsson;W550
+Sony Ericsson;J210
+Sony Ericsson;K608
+Sony Ericsson;S600
+Sony Ericsson;Z520
+Sony Ericsson;W600
+Sony Ericsson;D750
+Sony Ericsson;W800
+Sony Ericsson;K750
+Sony Ericsson;J300
+Sony Ericsson;K600i
+Sony Ericsson;Z800
+Sony Ericsson;K300
+Sony Ericsson;J200
+Sony Ericsson;V800
+Sony Ericsson;T290 / T292a
+Sony Ericsson;P910
+Sony Ericsson;K500
+Sony Ericsson;F500i
+Sony Ericsson;S700 / S710a
+Sony Ericsson;T637
+Sony Ericsson;Z500a / Z502a
+Sony Ericsson;K700
+Sony Ericsson;T237
+Sony Ericsson;Z200
+Sony Ericsson;T630
+Sony Ericsson;P900
+Sony Ericsson;Z600
+Sony Ericsson;T226
+Sony Ericsson;T616
+Sony Ericsson;T610
+Sony Ericsson;T310
+Sony Ericsson;T106
+Sony Ericsson;T606
+Sony Ericsson;T316
+Sony Ericsson;T300 / T306
+Sony Ericsson;T608
+Sony Ericsson;P800
+Sony Ericsson;T600
+Sony Ericsson;T62u
+Sony Ericsson;T200
+Sony Ericsson;T206
+Sony Ericsson;t68i
+Sony Ericsson;t61z
+Maxwest;TAB PHONE 72DC
+Maxwest;MX-210TV
+Maxwest;Orbit 3000
+Maxwest;Android 320
+Maxwest;Orbit 4400
+Maxwest;Orbit 6200
+Maxwest;Orbit X50
+Maxwest;Orbit 5400T
+Maxwest;ORBIT 10QC
+Maxwest;ORBIT 78DC
+Maxwest;TAB 7360
+Maxwest;ORBIT 8QC
+Maxwest;TAB 7160DC
+Maxwest;TAB 7155DC
+Maxwest;TAB 7155
+Maxwest;ORBIT TAB PHONE 9
+Maxwest;ORBIT TAB PHONE 7DC
+Maxwest;Orbit 5700T
+Maxwest;Android 4000
+Maxwest;Orbit 4600
+Maxwest;Orbit Z50
+Maxwest;Orbit 5400
+Maxwest;Orbit 6100
+Maxwest;MX12
+PCD;Chaser
+PCD;Wrangler
+PCD;CDM8635
+PCD;TXTM8
+PCD;TXT8020
+PCD;Shuttle
+PCD;Arc
+PCD;SMT5700
+PCD;CDM-7126
+PCD;CDM-8960
+PCD;CDM7026
+PCD;Mini
+PCD;CDM-8630
+PCD;CDM-8905
+PCD;Casio G'zOne Type-S
+PCD;PCS-1450
+PCD;PCS-1400
+PCD;G'zOne Type-V / Casio Hitachi G-Shock NX9200
+PCD;CDM-7075
+PCD;CDM-7025
+PCD;CDM-8945
+PCD;CDM-9200
+PCD;8915
+PCD;CDM-180 / PN-218
+PCD;CDM-105 / CDM-7000
+PCD;9900
+PCD;CDM-8940
+PCD;TX-170SA / TX-170S
+PCD;CDM-8920 / PM-8920
+PCD;PPC 4100 / SP230
+PCD;CDM-8930
+PCD;CDM-8910 / Flasher V7
+PCD;CDM-8615 / 8610
+PCD;Audiovox CDM-9950 / Toshiba VM4050
+PCD;CDM-8900
+PCD;CDM-8400 / 8410
+PCD;CDM-8450 / CDM-8455 / VI600
+PCD;CDM-8425PPT
+PCD;CDM-8600
+PCD;PPC 5050
+PCD;CDM-8500
+PCD;GDX-2002
+PCD;CDM-9500 / Toshiba CDM-9500
+PCD;CDM-8300
+PCD;Thera / Toshiba 2032
+PCD;CDM-9155 / 9155GPX / 9155SP
+PCD;RTV-737
+PCD;CDM-9150X
+PCD;CDM-8150x
+PCD;CDM-9100
+PCD;CDM-8100
+Jolla;Smartphone
+CAT;S60
+CAT;S40
+CAT;S50
+CAT;B15Q
+CAT;B15
+Verizon Wireless;Ellipsis 10
+Verizon Wireless;Ellipsis 8
+Verizon Wireless;Ellipsis 7
+Verizon Wireless;Casio Gâ€™zOne Ravine
+Verizon Wireless;Salute
+Verizon Wireless;CASIO G'zOne Brigade
+Verizon Wireless;Casio G'zOne Rock C731
+Verizon Wireless;Escapade
+Verizon Wireless;Razzle
+Verizon Wireless;CDM8975
+Verizon Wireless;CDM7076
+Verizon Wireless;Casio Exilim
+Verizon Wireless;CDM8950
+Verizon Wireless;Blitz
+Verizon Wireless;G'zOne Boulder
+Yota;YotaPhone 2
+Yota;YotaPhone
+T-Mobile;Concord II
+T-Mobile;Prism II
+T-Mobile;Sparq II
+T-Mobile;Aspect
+T-Mobile;Concord
+T-Mobile;myTouch Q 2
+T-Mobile;myTouch 2
+T-Mobile;Prism
+T-Mobile;Vivacity
+T-Mobile;SpringBoard
+T-Mobile;myTouch Q
+T-Mobile;myTouch
+T-Mobile;myTouch 4G Slide
+T-Mobile;Move
+T-Mobile;Sparq
+T-Mobile;G2x
+T-Mobile;G-Slate
+T-Mobile;Sidekick 4G
+T-Mobile;myTouch 4G
+T-Mobile;G2
+T-Mobile;myTouch 3G
+T-Mobile;myTouch 3G Slide
+T-Mobile;Tap
+T-Mobile;myTouch 3G Fender
+T-Mobile;Pulse
+T-Mobile;Dash 3G
+T-Mobile;Sidekick LX
+T-Mobile;G1
+T-Mobile;Sidekick
+T-Mobile;Shadow
+T-Mobile;Sidekick Slide
+Sprint;Force
+Sprint;Express
+Kyocera;Hydro Reach
+Kyocera;DuraXTP
+Kyocera;DuraForce XD
+Kyocera;DuraXE
+Kyocera;Hydro View
+Kyocera;Hydro AIR
+Kyocera;Hydro Wave
+Kyocera;Rally
+Kyocera;DuraXA
+Kyocera;DuraForce
+Kyocera;Torque XT
+Kyocera;Brigadier
+Kyocera;Hydro Life
+Kyocera;Hydro Icon
+Kyocera;Contact
+Kyocera;Hydro VIBE
+Kyocera;DuraShock
+Kyocera;Verve
+Kyocera;Hydro Plus
+Kyocera;Hydro Elite
+Kyocera;Hydro EDGE
+Kyocera;Hydro XTRM
+Kyocera;DuraPro
+Kyocera;Event
+Kyocera;Torque
+Kyocera;Coast S2151
+Kyocera;DuraXT
+Kyocera;Rise
+Kyocera;Hydro
+Kyocera;DuraPlus
+Kyocera;Presto
+Kyocera;Brio
+Kyocera;Milano
+Kyocera;DuraCore
+Kyocera;DuraMax
+Kyocera;Echo
+Kyocera;S2100
+Kyocera;Rio E3100
+Kyocera;Zio M6000
+Kyocera;S2300 Torino
+Kyocera;Domino S1310
+Kyocera;Laylo M1400
+Kyocera;G2GO M2000
+Kyocera;Melo S1300
+Kyocera;Tomo S2410
+Kyocera;Solo E4000
+Kyocera;K352
+Kyocera;Neo E1100
+Kyocera;Mako S4000
+Kyocera;E4600
+Kyocera;TNT
+Kyocera;S1600
+Kyocera;E2500
+Kyocera;E3500
+Kyocera;E5000
+Kyocera;Lingo M1000
+Kyocera;Tempo E2000
+Kyocera;Deco E1000
+Kyocera;S1000
+Kyocera;K132
+Kyocera;K122
+Kyocera;Oystr KX9d
+Kyocera;KX9e
+Kyocera;K822
+Kyocera;K342
+Kyocera;K312 / K320 / K322 / K323 / K325 Cyclops
+Kyocera;Strobe / Switch_Back
+Kyocera;KX12
+Kyocera;KX160 Xcursion
+Kyocera;KX18 / Jet / Angel
+Kyocera;KX16 Candid
+Kyocera;KX13 Dorado
+Kyocera;K10 Royale
+Kyocera;KX9B / KX9C / Milan
+Kyocera;Slider Remix KX5
+Kyocera;K404
+Kyocera;K9
+Kyocera;SoHo / KX1 / KX1i
+Kyocera;Energi K490 / K493
+Kyocera;Pulse
+Kyocera;Aktiv
+Kyocera;KX440 / KX444
+Kyocera;Kyocera KOI (KX2)
+Kyocera;3250
+Kyocera;SE47 / SE44 / V5 SLIDER
+Kyocera;KE413 / KX413 / KE413c (Phantom)
+Kyocera;KE 414 / KX414 / KE414C (Phantom)
+Kyocera;KX424 / KE424C (Blade)
+Kyocera;K7 / KE433 (Rave)
+Kyocera;Opal ( S14 ) 5135
+Kyocera;KX433 / KX434 (Rave)
+Kyocera;3225
+Kyocera;SCP-1135
+Kyocera;5135
+Kyocera;3245
+Kyocera;2325
+Kyocera;7135
+Kyocera;2345
+Kyocera;KWC 2235
+Kyocera;2119
+Kyocera;QCP-2255
+Kyocera;KWC 2135
+Kyocera;QCP-3035
+Kyocera;QCP-6035
+Kyocera;QCP 2035a
+Palm;Pre 2 GSM
+Palm;Pre 2
+Palm;Pixi Plus GSM
+Palm;Pre Plus GSM
+Palm;Pixi Plus
+Palm;Pre Plus
+Palm;Pixi
+Palm;Pre GSM
+Palm;Pre
+Palm;Treo Pro CDMA
+Palm;Treo Pro
+Palm;Treo 800w
+Palm;Centro
+Palm;Centro CDMA
+Palm;Treo 500v
+Palm;Treo 755p
+Palm;Treo 750 / 750v
+Palm;Treo 680
+Palm;Treo 700p
+Palm;Treo 700w / 700wx
+Palm;Treo 650 (CDMA)
+Palm;Treo 650 (GSM)
+Palm;Tungsten W
+Sanyo;Taho
+Sanyo;Vero
+Sanyo;Innuendo
+Sanyo;Incognito SCP-6760
+Sanyo;SCP-3810
+Sanyo;SCP-2700
+Sanyo;Katana Eclipse X
+Sanyo;PRO-700
+Sanyo;Katana LX
+Sanyo;PRO-200
+Sanyo;S1
+Sanyo;Katana DLX
+Sanyo;Katana II
+Sanyo;SCP-3200
+Sanyo;SCP-7050
+Sanyo;M1
+Sanyo;SCP-7000
+Sanyo;SCP-8400
+Sanyo;Katana
+Sanyo;SCP-2400
+Sanyo;SCP-3100
+Sanyo;MM-7500
+Sanyo;SCP-4930 / RL-4930
+Sanyo;SCP-9000 / MM-9000
+Sanyo;MM-8300
+Sanyo;VI-2300
+Sanyo;SCP-200
+Sanyo;MM-5600
+Sanyo;SCP-7400 / MM-7400
+Sanyo;S750
+Sanyo;SCP-4920 / RL4920
+Sanyo;A5505SA
+Sanyo;SCP-8200 / PM-8200
+Sanyo;SCP-7300 / RL7300
+Sanyo;SCP-5500 / VM-4500
+Sanyo;SCP-5400 / RL2500
+Sanyo;SCP-7200 / RL2000
+Sanyo;SCP-8100
+Sanyo;SCP-5300
+Sanyo;SCP-4900
+Sanyo;SCP-6200
+Sanyo;SCP-6400
+Sanyo;SCP-5150
+Sanyo;SCP-4700
+Sanyo;SCP-6000
+Casio;G'zOne Commando 4G LTE
+Casio;G'zOne Ravine 2
+Casio;G'zOne Commando
+vivo;X5Pro
+vivo;X5 Max
+vivo;Xplay 3S
+VERZO;KINZO
+TAG Heuer;Meridiist Infinite
+TAG Heuer;LINK
+TAG Heuer;MERIDIIST
+Xolo;Era HD
+Xolo;Era 4K
+Xolo;One HD
+Xolo;Black 1X
+Xolo;Era
+Xolo;Black
+Xolo;Q520s
+Xolo;Q1001
+Xolo;LT2000
+Xolo;Win Q1000
+Xolo;A1010
+Xolo;Cube 5.0
+Xolo;Prime
+Xolo;Q2100
+Xolo;Opus 3
+Xolo;Q710s
+Xolo;Q700 Club
+Xolo;Omega 5.5
+Xolo;Opus HD
+Xolo;Omega 5.0
+Xolo;One
+Xolo;Q900s Plus
+Xolo;Q700s plus
+Xolo;Q510s
+Xolo;Play 8X-1100
+Xolo;Q1020
+Xolo;A550S IPS
+Xolo;Q610s
+Xolo;Q1000s plus
+Xolo;Hive 8X-1000
+Xolo;Play 8X-1200
+Xolo;A1000s
+Xolo;Win Q900s
+Xolo;A700s
+Xolo;Q500s IPS
+Xolo;Q900s
+Xolo;A500S Lite
+Xolo;Q1011
+Xolo;Q1000 Opus2
+Xolo;Play 6X-1000
+Xolo;Q900T
+Xolo;Q600s
+Xolo;Q2000L
+Xolo;Q2500
+Xolo;Q1200
+Xolo;Q2000
+Xolo;Q500
+Xolo;A510s
+Xolo;Q3000
+Xolo;Q1100
+Xolo;Q700s
+Xolo;A500 Club
+Xolo;Q1010i
+Xolo;Q1000 Opus
+Xolo;LT900
+Xolo;X1000
+Xolo;X910
+Xolo;A500
+Xolo;B700
+Xolo;Q600
+Xolo;Q700
+Xolo;Q1000
+Xolo;PLAY
+Xolo;Q1000s
+Xolo;Q700i
+Xolo;A500L
+Xolo;A600
+Xolo;Q900
+Xolo;Q800 X-Edition
+Xolo;A500s IPS
+Xolo;Q800
+VIZIO;Tablet
+VIZIO;VIA Phone
+Fujitsu;STYLISTIC Q702
+Fujitsu;STYLISTIC M532
+UMX;U680
+UMX;MXC-628
+UMX;MXC-570
+Garmin-Asus;nuvifone A10
+Garmin-Asus;nuvifone A50
+Garmin-Asus;nuvifone M10
+Garmin-Asus;nuvifone G60
+Garmin-Asus;nuvifone M20
+Garmin-Asus;nuvifone M20 US
+Airo Wireless;A25is
+TerreStar;Genus
+Lumigon;T2
+BLU;Studio X5
+BLU;Studio Touch
+BLU;Grand 5.5 HD
+BLU;Studio Selfie 2
+BLU;Energy JR
+BLU;Advance 4.0 L2
+BLU;Studio X Mini
+BLU;Studio One Plus
+BLU;Vivo XL
+BLU;Vivo 5
+BLU;Advance 5.0
+BLU;Dash J
+BLU;Life One X (2016)
+BLU;Studio C HD
+BLU;Studio G Plus
+BLU;Dash X LTE
+BLU;Studio 7.0 LTE
+BLU;Dash M
+BLU;Dash X Plus
+BLU;Dash X
+BLU;Studio G LTE
+BLU;Studio Selfie
+BLU;Studio Energy 2
+BLU;Energy X
+BLU;Vivo Air LTE
+BLU;Pure XL
+BLU;Dash L
+BLU;Touchbook G7
+BLU;Studio 7.0 II
+BLU;Studio XL
+BLU;Studio C Super Camera
+BLU;Studio C 5+5 LTE
+BLU;Studio C 5+5
+BLU;Energy X Plus
+BLU;Vivo Selfie
+BLU;Life X8
+BLU;Life 8 XL
+BLU;Studio C
+BLU;Advance 4.0 L
+BLU;Studio 5.5C
+BLU;Selfie
+BLU;Win JR LTE
+BLU;Win HD LTE
+BLU;Life One XL
+BLU;Studio G
+BLU;Studio X Plus
+BLU;Studio X
+BLU;Studio Energy
+BLU;Vivo Air
+BLU;Studio 6.0 LTE
+BLU;Studio 5.0 HD LTE
+BLU;Studio 5.5 K
+BLU;Studio 7.0
+BLU;Life Play Mini
+BLU;Sport 4.5
+BLU;Win Jr
+BLU;Dash 5.0+
+BLU;Dash Music JR
+BLU;Dash C Music
+BLU;Life Play 2
+BLU;Star 4.5 Design Edition
+BLU;Star 4.5
+BLU;Studio mini LTE
+BLU;Win HD
+BLU;Dash 5.5
+BLU;Studio 5.0 K
+BLU;Vivo IV
+BLU;Studio 5.0 CE
+BLU;Studio 5.0 C
+BLU;Studio C mini
+BLU;Studio 5.0 S II
+BLU;Studio 5.0 C HD
+BLU;Life 8
+BLU;Janet
+BLU;Neo 4.5
+BLU;Neo 3.5
+BLU;Life Pure XL
+BLU;Studio 5.0 LTE
+BLU;Life Pure mini
+BLU;Studio 6.0 HD
+BLU;Advance 4.5
+BLU;Vivo 4.8 HD
+BLU;Life One X
+BLU;Life One M
+BLU;Life Play S
+BLU;Studio 5.5 S
+BLU;Life Play
+BLU;Life Play X
+BLU;Life One
+BLU;Life View
+BLU;Life Pro
+BLU;Life Pure
+BLU;Studio 5.0II
+BLU;Studio 5.5
+BLU;Studio 5.3S
+BLU;Studio 5.0S
+BLU;Studio 5.0
+BLU;Dash Music 4.0
+BLU;Dash 5.0
+BLU;Dash 4.5
+BLU;Dash 4.0
+BLU;Dash 3.5
+BLU;Dash JR
+BLU;Advance 4.0
+BLU;Samba W
+BLU;Samba TV
+BLU;Jenny TV 2.8
+BLU;Zoey
+BLU;Tank
+BLU;Diva x
+BLU;Amour
+BLU;Tattoo S
+BLU;Tank 4.5
+BLU;Quattro 5.7 HD
+BLU;Quattro 4.5
+BLU;Quattro 4.5 HD
+BLU;VIVO 4.3
+BLU;TOUCH
+BLU;ULTRA
+BLU;ULTRA American version
+BLU;SAMBA Q
+BLU;SAMBA Q Q110
+BLU;MAGIC
+BLU;DIESEL
+BLU;DEEJAY II
+BLU;DEEJAY Q Q160
+BLU;Tango
+BLU;Speed
+BLU;Samba Mini Q210
+BLU;Samba Mini
+BLU;Flash
+BLU;Deejay
+BLU;CUBO
+BLU;CLICK
+NIU;Tek 5D
+NIU;Tek 4D2
+NIU;Tek 3.5D2
+NIU;GO 20
+NIU;Niutek 4.5D
+NIU;Niutek 4.0D
+NIU;Niutek 3.5D
+NIU;LIV 70
+NIU;Niutek 3G 3.5B
+NIU;LIV 10
+NIU;GO 50
+NIU;TEK
+NIU;TEK Q
+NIU;DOMO 2
+NIU;DOMO
+NIU;PANA TV
+NIU;PANA
+NIU;LOTTO
+NIU;BINGO
+Yezz;Andy 4.7M LTE
+Yezz;Andy 5T LTE
+Yezz;Andy 5M VR
+Yezz;Andy 5.5T LTE VR
+Yezz;Andy 4EL2 LTE
+Yezz;Andy 5EI3
+Yezz;Andy 6EL LTE
+Yezz;Andy 4EI2
+Yezz;Andy C5V
+Yezz;Andy 4.5EL LTE
+Yezz;Billy 4
+Yezz;Andy 5EI
+Yezz;Andy 5EL LTE
+Yezz;Andy 6Q
+Yezz;Andy 5S LTE
+Yezz;Andy 4E LTE
+Yezz;Andy 4.5E LTE
+Yezz;Andy 4E2I
+Yezz;Billy 5S LTE
+Yezz;Andy 5M LTE
+Yezz;Andy C5QL
+Yezz;Andy 4E
+Yezz;Andy C5ML
+Yezz;Andy 5.5EI
+Yezz;Andy 4.5M
+Yezz;Andy C5VP
+Yezz;Andy 4EI
+Yezz;Andy 5T
+Yezz;ANDY A6Q
+Yezz;Billy 4.7
+Yezz;ANDY AZ4.5
+Yezz;ANDY A5QP
+Yezz;ANDY A4M
+Yezz;ANDY A6M
+Yezz;Fashion F10
+Yezz;Epic T7
+Yezz;Classic CC10
+Yezz;Classic C20
+Yezz;Classic C30
+Yezz;Andy A4
+Yezz;Andy A4.5
+Yezz;Andy A5
+Yezz;Andy 3G
+Yezz;Andy
+Yezz;Bono 3G
+Yezz;Zenior
+Yezz;Moda
+Yezz;Bonito
+Yezz;Ritmo 3TV
+Yezz;Ritmo 2
+Yezz;Ritmo
+Yezz;Clasico
+Yezz;Chico 2C
+Yezz;Chico 2
+Plum;Coach Pro
+Plum;Gator Plus
+Plum;Sync 5.0
+Plum;Might Plus
+Plum;Pilot Plus
+Plum;Sync 3.5
+Plum;Might LTE
+Plum;Sync 4.0
+Plum;Coach Plus II
+Plum;Trigger Plus
+Plum;Check Plus
+Plum;Trigger Pro
+Plum;Gator
+Plum;Coach Plus
+Plum;Axe Plus
+Plum;Might Pro
+Plum;Trigger
+Plum;Might II 3G
+Plum;Axe II
+Plum;Velocity II
+Plum;Hammer
+Plum;Flipper
+Plum;Bubby
+Plum;Dazzle
+Plum;Ram
+Plum;Panther
+Plum;Mouse
+Plum;Caliber II
+Plum;Signal
+Plum;Might
+Plum;Debut
+Plum;axe
+Plum;capacity
+Plum;wicked
+Plum;Velocity
+Plum;Caliber 3g
+Plum;galactic
+Plum;tracer II
+Plum;tracer
+Plum;genius
+Plum;blast
+Plum;strike
+Plum;stubby II
+Plum;stubby
+Plum;whiz
+Plum;profile
+Plum;tingle
+Plum;boom
+Plum;spare
+Plum;trip
+Plum;Tweek
+Plum;trion
+Plum;kazzom
+altek;Leo
+Celkon;A418
+Celkon;CT711
+Celkon;Diamond 4G Plus
+Celkon;Q5K Transformer
+Celkon;CT722
+Celkon;A333
+Celkon;2GB Star
+Celkon;Millennia Everest
+Celkon;Millennia Spark
+Celkon;Millennia Q450
+Celkon;Campus A359
+Celkon;Campus A355
+Celkon;Millennia Q519
+Celkon;Campus A403
+Celkon;Campus Prime
+Celkon;Millennia Q455L
+Celkon;Millennia Hero
+Celkon;A409
+Celkon;Campus A407
+Celkon;Campus Q405
+Celkon;Campus A402
+Celkon;Millennia Q3k Power
+Celkon;Millennia 2GB Xpress
+Celkon;A35K Remote
+Celkon;Millennia Q58 Xplore
+Celkon;Millennia Q5k Power
+Celkon;Campus A518
+Celkon;Xion s CT695
+Celkon;Q54
+Celkon;Q44
+Celkon;Millennia OCTA510
+Celkon;Q500 Millennium Ultra
+Celkon;Campus Nova A352E
+Celkon;Q470
+Celkon;Q40+
+Celkon;Q455
+Celkon;Campus One A354C
+Celkon;Q3000
+Celkon;A115
+Celkon;Campus Crown Q40
+Celkon;Campus Colt A401
+Celkon;A21
+Celkon;Campus Whizz Q42
+Celkon;Millennia EPIC Q550
+Celkon;Win 400
+Celkon;A500
+Celkon;A42
+Celkon;A43
+Celkon;Campus A35K
+Celkon;C7030
+Celkon;C7045
+Celkon;C4040
+Celkon;ARR 35
+Celkon;C7010
+Celkon;C5055
+Celkon;AR 45
+Celkon;A15
+Celkon;A64
+Celkon;A66
+Celkon;AR 40
+Celkon;AR 50
+Celkon;A40
+Celkon;S1
+Celkon;A125
+Celkon;A107
+Celkon;A9+
+Celkon;A8+
+Celkon;A105
+Celkon;A63
+Celkon;A60
+Celkon;A107+
+Celkon;A20
+Celkon;A101
+Celkon;A119
+Celkon;A58
+Celkon;A62
+Celkon;A119Q
+Celkon;C7060
+Celkon;C7040
+Celkon;Glory Q5
+Celkon;C607
+Celkon;C669
+Celkon;C444
+Celkon;C999
+Celkon;C770
+Celkon;C88
+Celkon;C20
+Celkon;C770M
+Celkon;C10+
+Celkon;C339
+Celkon;C66
+Celkon;C309
+Celkon;C550
+Celkon;C33
+Celkon;C101
+Celkon;C44
+Celkon;C205
+Celkon;C555
+Celkon;C100
+Celkon;C77
+Celkon;C102
+Celkon;C609
+Celkon;A1
+Celkon;C207
+Celkon;C2010
+Celkon;C202
+Celkon;i9
+Celkon;C227
+Celkon;C5050
+Celkon;C404
+Celkon;C201
+Celkon;C303
+Celkon;C220
+Celkon;C305
+Celkon;C3030
+Celkon;C70
+Celkon;C360
+Celkon;C350
+Celkon;C262
+Celkon;C 50 3D
+Celkon;C60
+Celkon;C909
+Celkon;C90
+Celkon;C55
+Celkon;A9
+Celkon;C337
+Celkon;A7
+Celkon;C349
+Celkon;C769
+Celkon;C570
+Celkon;C203
+Celkon;C17
+Celkon;i4
+Celkon;C504
+Celkon;C705
+Celkon;C606
+Celkon;C206
+Celkon;A99+
+Celkon;A95
+Celkon;A90
+Celkon;A97
+Celkon;C359
+Celkon;A88
+ARCHOS;Diamond 2 Plus
+ARCHOS;Diamond 2 Note
+ARCHOS;Diamond Plus
+ARCHOS;Diamond S
+ARCHOS;50 Cesium
+ARCHOS;55 Helium Plus
+ARCHOS;50 Helium Plus
+ARCHOS;101 Helium 4G
+ARCHOS;80b Helium 4G
+ARCHOS;70 Helium 4G
+ARCHOS;50c Helium 4G
+ARCHOS;50b Helium 4G
+ARCHOS;45b Helium 4G
+ARCHOS;50 Diamond
+ARCHOS;50e Helium 4G
+ARCHOS;101 Oxygen
+ARCHOS;45c Platinum
+ARCHOS;50b Platinum
+ARCHOS;80 Cesium
+ARCHOS;40 Cesium
+ARCHOS;80 Helium 4G
+ARCHOS;50c Oxygen
+ARCHOS;64 Xenon
+ARCHOS;40b Titanium
+ARCHOS;97 neon
+ARCHOS;101 neon
+ARCHOS;90 Neon
+ARCHOS;101 XS 2
+ARCHOS;53 Titanium
+ARCHOS;50 Titanium
+ARCHOS;45 Titanium
+ARCHOS;40 Titanium
+ARCHOS;80 Cobalt
+ARCHOS;97 Xenon
+ARCHOS;97 Titanium HD
+ARCHOS;70 Titanium
+ARCHOS;80 Titanium
+ARCHOS;101 Titanium
+ARCHOS;GamePad
+ARCHOS;101 XS
+ARCHOS;97 Carbon
+ARCHOS;ChildPad
+ARCHOS;101 G9
+ARCHOS;80 G9
+ARCHOS;70b Internet Tablet
+ARCHOS;ARNOVA 7
+ARCHOS;7 Home Tablet
+ARCHOS;8 Home Tablet
+ARCHOS;32 Internet Tablet
+ARCHOS;28 Internet Tablet
+ARCHOS;43 Internet Tablet
+ARCHOS;5 Internet Tablet
+ARCHOS;70 Internet Tablet
+ARCHOS;101 Internet Tablet
+Lemon Mobiles;Ocean 4G Power
+Lemon Mobiles;Ocean 7
+Lemon Mobiles;Ocean 5
+Lemon Mobiles;Ocean 102
+Lemon Mobiles;Ocean 2 Pro
+Lemon Mobiles;Ocean 16
+Lemon Mobiles;Ocean 6
+Lemon Mobiles;Ocean 101
+Lemon Mobiles;Ocean 2
+Lemon Mobiles;Ocean 1
+Lemon Mobiles;Ocean 11
+Lemon Mobiles;P3
+Lemon Mobiles;B229
+Lemon Mobiles;T79
+Lemon Mobiles;B429
+Lemon Mobiles;T39
+Lemon Mobiles;B129
+Lemon Mobiles;B329
+Lemon Mobiles;P1 Smart
+Lemon Mobiles;B639
+Lemon Mobiles;Duo 409
+Lemon Mobiles;Duo 419
+Lemon Mobiles;MB1
+Lemon Mobiles;iT828
+Lemon Mobiles;Duo 226
+Lemon Mobiles;Duo 335
+Lemon Mobiles;T359
+Lemon Mobiles;Duo 212
+Lemon Mobiles;Duo 216
+Lemon Mobiles;Duo 309
+Lemon Mobiles;Duo 402
+Lemon Mobiles;Duo 321
+Lemon Mobiles;Duo 325
+Lemon Mobiles;Duo 329
+Lemon Mobiles;Duo 339
+Lemon Mobiles;Duo 349
+Lemon Mobiles;Trio 320
+Lemon Mobiles;Duo 405
+Lemon Mobiles;Duo 525
+Lemon Mobiles;Duo 818
+Lemon Mobiles;iT 515
+Lemon Mobiles;iT 717
+Lemon Mobiles;iQ 303
+Lemon Mobiles;iQ 505
+Lemon Mobiles;iQ 707
+Lemon Mobiles;F101
+Lemon Mobiles;W100
+Lemon Mobiles;Duo 302
+Lemon Mobiles;Duo 305
+Lemon Mobiles;Duo 306
+Lemon Mobiles;Duo 339 Super
+Lemon Mobiles;Duo 216 Plus
+Lemon Mobiles;MU 1
+Lemon Mobiles;Duo 222
+Lemon Mobiles;iT414
+Lemon Mobiles;Duo 319
+Best Buy;Insignia Flex
+Zen Mobile;WOW
+Zen Mobile;Admire Curve
+Zen Mobile;303 Elite 2
+Zen Mobile;Cinemax 2
+Zen Mobile;Admire Sxy
+Zen Mobile;Admire Fab Q
+Zen Mobile;Admire Fab
+Zen Mobile;105 Max
+Zen Mobile;Ultrafone 303 Quad
+Zen Mobile;Ultrafone 105 pro
+Zen Mobile;Ultrafone 402 Pro
+Zen Mobile;Ultrafone Megashot 1
+Zen Mobile;Ultrafone 402 style
+Zen Mobile;Ultrafone Powermax 1
+Zen Mobile;111
+Zen Mobile;Ultrafone 402 Play
+Zen Mobile;Ultrafone 105 3G
+Zen Mobile;Ultrafone 108
+Zen Mobile;Ultrafone 402
+Zen Mobile;Ultrafone 402 Sport
+Zen Mobile;Ultrafone 109
+Zen Mobile;Ultrafone 306 Play
+Zen Mobile;Ultrafone 303 Power +
+Zen Mobile;Ultrafone 303 Elite
+Zen Mobile;Ultrafone 104
+Zen Mobile;Ultrafone 105 Fire
+Zen Mobile;Ultrafone 506
+Zen Mobile;Ultrafone 105 Sport
+Zen Mobile;M9
+Zen Mobile;B52
+Zen Mobile;ultrafone 101
+Zen Mobile;X5
+Zen Mobile;T1
+Zen Mobile;X6
+Zen Mobile;M14
+Zen Mobile;M7
+Zen Mobile;ultrafone 502
+Zen Mobile;M12
+Zen Mobile;M72 Star
+Zen Mobile;P37
+Zen Mobile;ultrafone AMAZE 701FHD
+Zen Mobile;P36
+Zen Mobile;X1 Plus
+Zen Mobile;X2
+Zen Mobile;ultrafone 303 Power
+Zen Mobile;Ultrafone 102
+Zen Mobile;ultrafone 308
+Zen Mobile;ultrafone 504
+Zen Mobile;X7
+Zen Mobile;M18
+Zen Mobile;X11
+Zen Mobile;ultrafone 302
+Zen Mobile;M72t
+Zen Mobile;M72i
+Zen Mobile;M72 Plus
+Zen Mobile;M75
+Zen Mobile;M32
+Zen Mobile;M28
+Zen Mobile;Shine M72
+Zen Mobile;M8
+Zen Mobile;P8
+Zen Mobile;M6
+Zen Mobile;M4
+Zen Mobile;P8i
+Zen Mobile;M2
+Zen Mobile;M10
+Zen Mobile;M4S
+Zen Mobile;P40
+Zen Mobile;P35
+Zen Mobile;U1
+Zen Mobile;U4
+Zen Mobile;U5
+Zen Mobile;M2s
+Zen Mobile;M4i
+Zen Mobile;X1
+Zen Mobile;X3
+Zen Mobile;X4
+Zen Mobile;P32
+Zen Mobile;Flipper M6i
+Zen Mobile;M3
+Zen Mobile;P42
+Zen Mobile;Ultrafone 501
+Zen Mobile;ultrafone 701 HD
+Zen Mobile;ultrafone 304
+Zen Mobile;P34
+Zen Mobile;Ultrafone 402 style pro
+Zen Mobile;A60
+Zen Mobile;Z82
+Zen Mobile;X409
+Zen Mobile;Z90
+Zen Mobile;Z80
+Zen Mobile;Z77
+Zen Mobile;Z66
+Zen Mobile;X414
+Zen Mobile;X410i
+Zen Mobile;X402
+Zen Mobile;X400i
+Zen Mobile;X381
+Zen Mobile;S30
+Zen Mobile;S20
+Zen Mobile;S15
+Zen Mobile;S1
+Zen Mobile;M111
+Zen Mobile;M72
+Zen Mobile;M45
+Zen Mobile;M42
+Zen Mobile;M40
+Zen Mobile;M30
+Zen Mobile;M27
+Zen Mobile;M26
+Zen Mobile;M25
+Zen Mobile;M23
+Zen Mobile;M22
+Zen Mobile;M20
+Zen Mobile;M16
+Verykool;Lynx III s3502
+Verykool;Leo Jr. s4005
+Verykool;Dorado s5017Q
+Verykool;Jet SL5009
+Verykool;Helix s5025
+Verykool;Fusion II SL4502
+Verykool;Giant s5020
+Verykool;Cyprus LTE SL6010
+Verykool;Maverick LTE SL5550
+Verykool;Lotus s5001
+Verykool;Leo II s4003
+Verykool;Maverick s5518Q
+Verykool;Leo III s4006Q
+Verykool;Maverick Jr. s5516
+Verykool;Lynx II s3503
+Verykool;Juno Quatro s5511
+Verykool;Quantum SL5000
+Verykool;Atlas s5014
+Verykool;Spark II s5015
+Verykool;Rock RX2
+Verykool;Juno S5510
+Verykool;Sol Jr s5002
+Verykool;Sol Quatro s5016
+Verykool;Cyprus s6001
+Verykool;Fusion SL4500
+Verykool;Luna Jr s4509
+Verykool;Orbit s5012
+Verykool;Gazelle s4010
+Verykool;Leo s4002
+Verykool;Lynx s3501
+Verykool;Luna s4510
+Verykool;Mystic s354
+Verykool;s505 Spark
+Verykool;s352 JASPER II
+Verykool;s401 AURA
+Verykool;s351 BERYL 3G
+Verykool;s400 Ruby
+Verykool;s470 Black Pearl
+Verykool;i128 Garnet II
+Verykool;i240
+Verykool;R80L Granite II
+Verykool;s353 Jasper
+Verykool;i130
+Verykool;i320
+Verykool;i625
+Verykool;i674
+Verykool;s135
+Verykool;s635
+Verykool;s735
+Verykool;i123
+Verykool;R25
+Verykool;R623
+Verykool;s758
+Verykool;RS90 Vortex
+Verykool;RS75 Flint
+Verykool;i601
+Verykool;s350
+Verykool;i126
+Verykool;s732
+Verykool;i607
+Verykool;i133
+Verykool;Maverick s5518
+Verykool;s450 Onyx
+Verykool;i672
+Verykool;i675
+Verykool;s700
+Verykool;R16
+Verykool;i605
+Verykool;i604
+Verykool;i125
+Verykool;S815
+Verykool;R23
+Verykool;R620
+Verykool;i115
+Verykool;i410
+Verykool;i305
+Verykool;i800
+Verykool;i280
+Verykool;i270
+Verykool;i600
+Verykool;s810
+Verykool;i720
+Verykool;i705
+Verykool;i119
+Verykool;i117
+Verykool;R80
+Verykool;i650
+Verykool;i277
+Verykool;i315
+Verykool;R13
+Verykool;i310
+Verykool;i610
+Verykool;i122
+Verykool;i285
+Verykool;i725
+Notion Inc;Adam
+Videocon;Krypton V50FG
+Videocon;Infinium Z55 Krypton
+Videocon;Infinium Z51Q Star
+Videocon;Infinium Z51 Nova+
+Videocon;Infinium Z51 Punch
+Videocon;Octa Core Z55 Delite
+Videocon;Infinium Z45 Amaze
+Videocon;Infinium Z45Q Star
+Videocon;Infinium Zest Flame
+Videocon;Infinium Z30 Pace
+Videocon;Infinium Z50Q Lite
+Videocon;Infinium Z40 Pro
+Videocon;Infinium X30 Pro
+Videocon;Infinium Z40 Lite
+Videocon;Infinium X40 Pro
+Videocon;Infinium Z40Q Star
+Videocon;Infinium Z45 Nova
+Videocon;Infinium Z45 Quad
+Videocon;Infinium Z40 Quad
+Videocon;Infinium Z50Q Star
+Videocon;Infinium Z50 Nova
+Videocon;Infinium Z30 Lite
+Videocon;Infinium Z30
+Videocon;Infinium Zest Pro
+Videocon;Infinium Z40 Pro Lite
+Videocon;Infinium Graphite
+Videocon;Infinium X30
+Videocon;Vstyle Smart
+Videocon;A23
+Videocon;A29
+Videocon;A31
+Videocon;A42
+Videocon;A48
+Videocon;A55HD
+Videocon;A47
+Videocon;A52
+Videocon;A55qHD
+Videocon;A53
+Videocon;A54
+Videocon;A10F
+Videocon;V7400
+Videocon;V1535
+Videocon;V1506
+Videocon;V1413
+Videocon;V1415
+Videocon;V1531+
+Videocon;V1507
+Videocon;V1516
+Videocon;V1542
+Videocon;V1509
+Videocon;V1537
+Videocon;V1570
+Videocon;V1415+
+Videocon;V1311
+Videocon;V1541
+Videocon;V1521
+Videocon;V1580
+Videocon;V1539
+Videocon;V1550
+Videocon;A30
+Videocon;A27
+Videocon;V1548
+Videocon;A20
+Videocon;A22
+Videocon;A51
+Videocon;A27i
+Videocon;A15
+Videocon;A45
+Videocon;Infinium Z45 Dazzle
+Videocon;Infinium Z45 Nova+
+Videocon;V1528
+Videocon;V1510
+Videocon;V1544
+Videocon;V1411
+Videocon;V1545
+Videocon;V1666
+Videocon;V1477
+Videocon;V1676
+Videocon;V1546
+Videocon;V1543
+Videocon;V1456
+Videocon;V1531
+Videocon;V1431
+Videocon;V204
+Videocon;V1300
+Videocon;V1424
+Videocon;V1422
+Videocon;V1451
+Videocon;V1307
+Videocon;V1635
+Videocon;V1533
+Videocon;V1414
+Videocon;V1430
+Videocon;V1525
+Videocon;V1604
+Videocon;V200
+Videocon;V1402
+Videocon;V1420
+Videocon;V1655
+Videocon;V1306
+Videocon;V1290
+Videocon;V1606
+Videocon;V1428
+Videocon;V202
+Videocon;V1602
+Videocon;V1405
+Videocon;V7500
+Videocon;V1475
+Videocon;V1425
+Videocon;V1410
+Videocon;V1603
+Videocon;V1310
+Videocon;V6200
+Videocon;V1435
+Videocon;V1305
+Videocon;V1608
+Videocon;V1280
+Videocon;V203
+Videocon;V1441
+Videocon;V1400
+Videocon;V1308
+Videocon;V1688
+Videocon;V1442
+Videocon;V1755
+Videocon;V1612
+Videocon;V1616
+Videocon;V1760
+Videocon;V1611
+Videocon;V1476
+Videocon;V1654
+Videocon;V1406
+Videocon;V1440
+Videocon;V1665
+Videocon;V1670
+Videocon;V1855
+Videocon;V1293
+Videocon;V1450
+Videocon;V4500
+Videocon;V1530
+Videocon;V1436
+Videocon;V1412
+Dell;Venue 8 7840
+Dell;Venue 8 (2014)
+Dell;Venue 8 Pro
+Dell;XPS 10
+Dell;Latitude 10
+Dell;Venue
+Dell;Streak 7
+Dell;Streak
+Dell;Venue Pro
+Dell;Aero
+Eten;X610
+Eten;X900
+Eten;DX900
+Eten;M750
+Eten;V900
+Eten;M810
+Eten;X650
+Eten;X600
+Eten;M800
+Eten;X500+
+Eten;X800
+Eten;M700
+Eten;X500
+Eten;G500+
+Eten;M600+
+Eten;G500
+Eten;M600
+Eten;M500
+mobiado;GRAND TOUCH ASTON MARTIN
+mobiado;350PRL
+mobiado;105GMT
+mobiado;105CLB
+mobiado;LUCIDO
+mobiado;105EM
+mobiado;105GCB
+mobiado;PRO CAMO
+mobiado;105ZAF
+mobiado;STEALTH
+mobiado;LUMINOSO
+mobiado;PRO
+i-mate;810-F
+i-mate;Ultimate 8502
+i-mate;Ultimate 9502
+i-mate;JAMA 201
+i-mate;JAMA 101
+i-mate;JAMA
+i-mate;Ultimate 7150
+i-mate;Ultimate 9150
+i-mate;Ultimate 5150
+i-mate;Ultimate 6150
+i-mate;Ultimate 8150
+i-mate;JAQ4
+i-mate;K-JAR
+i-mate;SPL
+i-mate;PDAL
+i-mate;JAQ3
+i-mate;JAQ
+General Mobile;4G
+General Mobile;GM 5 Plus
+General Mobile;Discovery Air
+General Mobile;Discovery II
+General Mobile;Discovery Elite
+General Mobile;Discovery II Mini
+General Mobile;Discovery
+General Mobile;Planet
+General Mobile;e-tab 32GB
+General Mobile;Ultimate Slim
+General Mobile;Fox
+General Mobile;Q4
+General Mobile;Q3
+General Mobile;S3
+General Mobile;T3
+General Mobile;Diamond Limited Edition
+General Mobile;Diamond Bar
+General Mobile;Diamond Touch
+General Mobile;Diamond Qwerty
+General Mobile;COSMOS
+General Mobile;FB1907
+General Mobile;G333
+General Mobile;G777
+General Mobile;GF2F
+General Mobile;DST22
+General Mobile;DST33
+General Mobile;DSTW1
+General Mobile;DST Picco
+General Mobile;DST10
+General Mobile;DST250
+General Mobile;DSTS1
+General Mobile;DST700
+General Mobile;DSTS3 Visual
+General Mobile;DST3G Cool
+General Mobile;DSTM1
+General Mobile;DST350
+General Mobile;DSTL1 Imaginary
+Fusion Garage;Grid10
+Fusion Garage;Grid4
+INQ;Cloud Touch
+INQ;Chat 3G
+INQ;Mini 3G
+INQ;INQ1
+Coolpad;Catalyst
+Coolpad;Rogue
+Coolpad;Quattro 4G
+LAVA;X3
+LAVA;A48
+LAVA;Flair S1
+LAVA;A72
+LAVA;A67
+LAVA;A76
+LAVA;A89
+LAVA;A59
+LAVA;A79
+LAVA;A71
+LAVA;V2s
+LAVA;X11
+LAVA;V5
+LAVA;P7
+LAVA;A88
+LAVA;A52
+LAVA;Flair P1i
+LAVA;Iris Atom 3
+LAVA;X10
+LAVA;Pixel V2
+LAVA;Iris Fuel F1
+LAVA;Flair E2
+LAVA;Iris X1 Atom S
+LAVA;Iris Fuel F1 Mini
+LAVA;Iris Atom 2
+LAVA;Iris X1 Selfie
+LAVA;Iris X5 4G
+LAVA;Flair Z1
+LAVA;Pixel V1
+LAVA;Iris 370
+LAVA;Iris X1 atom
+LAVA;alfa L
+LAVA;Icon
+LAVA;Iris 450 Colour
+LAVA;Iris Fuel 25
+LAVA;Iris Fuel 10
+LAVA;Iris X1 Beats
+LAVA;Iris 465
+LAVA;Iris Fuel 20
+LAVA;Iris X1 mini
+LAVA;Iris X8
+LAVA;Iris X1 Grand
+LAVA;Iris 401
+LAVA;Iris 350
+LAVA;Iris 470
+LAVA;Iris alfa
+LAVA;Iris 410
+LAVA;Iris Fuel 60
+LAVA;Iris win 1
+LAVA;Iris 450 Colour+
+LAVA;Iris 500
+LAVA;Iris Selfie 50
+LAVA;Iris 400Q
+LAVA;Iris 400 Colour
+LAVA;Iris 349i
+LAVA;Iris X5
+LAVA;Iris Fuel 50
+LAVA;Iris 360 Music
+LAVA;Iris 250
+LAVA;Iris Pro 30+
+LAVA;Iris 460
+LAVA;Iris 404 Flair
+LAVA;Iris 400s
+LAVA;Iris 300 Style
+LAVA;Iris X1
+LAVA;Iris 402e
+LAVA;3G 412
+LAVA;3G 415
+LAVA;Iris 350M
+LAVA;Iris 550Q
+LAVA;Iris Pro 20
+LAVA;Iris 406Q
+LAVA;Iris 504Q+
+LAVA;KKT 35+
+LAVA;Spark 266
+LAVA;Spark 285
+LAVA;Iris 506Q
+LAVA;Iris 354e
+LAVA;3G 356
+LAVA;Iris 404e
+LAVA;Iris 503
+LAVA;3G 402+
+LAVA;Iris 405+
+LAVA;Iris Pro 30
+LAVA;Discover 124
+LAVA;Discover 137
+LAVA;Discover 136
+LAVA;ARC 11+
+LAVA;ARC 9
+LAVA;ARC 4
+LAVA;Discover 132
+LAVA;ARC 12
+LAVA;ARC 1+
+LAVA;Discover 128
+LAVA;ARC 3
+LAVA;Discover 135
+LAVA;Iris 405
+LAVA;Iris 455
+LAVA;Iris 458
+LAVA;Iris 504 Q
+LAVA;Iris 502
+LAVA;Iris 501
+LAVA;Iris 454
+LAVA;Iris 430
+LAVA;Iris N400
+LAVA;Iris 355
+LAVA;Iris 351
+LAVA;Iris N350
+LAVA;Iris 349
+LAVA;Iris N320
+LAVA;XOLO X900
+LAVA;A 16
+LAVA;M 70
+LAVA;KKT 16
+LAVA;S12
+LAVA;KKT 50
+LAVA;KKT39
+LAVA;M20
+LAVA;ARC21
+LAVA;ARC03+
+LAVA;KKT 28
+LAVA;KKT 34+
+LAVA;ARC05
+LAVA;B6
+LAVA;C 30
+LAVA;KKT15+
+LAVA;M30
+LAVA;KKT70
+LAVA;ARC04
+LAVA;ARC01
+LAVA;KKT35
+LAVA;B8
+LAVA;A10
+LAVA;KKT 22+
+LAVA;ARC03N
+LAVA;KKT15
+LAVA;B2
+LAVA;KKT 11
+LAVA;KKT 22
+LAVA;KKT 24
+LAVA;KKT 25
+LAVA;A9
+LAVA;KKT 26
+LAVA;M23
+LAVA;KKT 34
+LAVA;ARC 02
+LAVA;KKT 24+
+LAVA;ARC03
+LAVA;KKT32
+LAVA;B5
+Sonim;XP5
+Sonim;XP6
+Sonim;XP7
+Sonim;XP3405 SHIELD
+Sonim;XP3340 SENTINEL Z1
+Sonim;XP5560 BOLT 2
+Sonim;ENDURO
+Sonim;XP1520 BOLT SL
+Sonim;XP5560 Bolt
+Sonim;XP STRIKE
+Sonim;XP5520 Bolt
+Sonim;XP1301 CORE
+Sonim;XP3340 Sentinel
+Sonim;Land Rover S1
+Sonim;XP5300 Force 3G
+Sonim;XP3400 Armor
+Sonim;XP3300 Force
+Sonim;XP1300 CORE
+Sonim;XP2 Spirit
+Sonim;XP3 Quest
+Sonim;XP3 Enduro
+Sonim;XP1
+Saygus;V2
+Saygus;Vphone
+i-mobile;Hitz201
+i-mobile;TV628
+i-mobile;TV 658 Touch&Move
+i-mobile;TV 640 Qwerty
+i-mobile;PANO DC 5210
+i-mobile;3G 8500
+i-mobile;3210
+i-mobile;3250
+i-mobile;3G 5511
+i-mobile;3G 6530
+i-mobile;3201
+i-mobile;3G 5512
+i-mobile;3200
+i-mobile;6010
+i-mobile;3G 5520
+i-mobile;GM 5220
+i-mobile;5230
+i-mobile;Hitz101
+i-mobile;Hitz200
+i-mobile;Hitz100
+i-mobile;Hitz103
+i-mobile;Hitz202
+i-mobile;Hitz222
+i-mobile;Hitz105
+i-mobile;Hitz 226
+i-mobile;Hitz108
+i-mobile;Hitz223
+i-mobile;Hitz210
+i-mobile;Hitz 204
+i-mobile;Hitz 2205
+i-mobile;Hitz 1011
+i-mobile;Hitz 2207
+i-mobile;Hitz1012
+i-mobile;Hitz 1010
+i-mobile;Hitz212
+i-mobile;Hitz 213
+i-mobile;Hitz 2210
+i-mobile;Hitz 2206
+i-mobile;Hitz300
+i-mobile;Hitz240
+i-mobile;Hitz317
+i-mobile;Hitz111
+i-mobile;Hitz2211
+i-mobile;S381
+i-mobile;S382
+i-mobile;S321
+i-mobile;S383
+i-mobile;S326
+i-mobile;S350
+i-mobile;S387
+i-mobile;S531
+i-mobile;S528
+i-mobile;S282
+i-mobile;S283
+i-mobile;S384
+i-mobile;S390
+i-mobile;S209
+i-mobile;S385
+i-mobile;S351
+i-mobile;S388
+i-mobile;S580
+i-mobile;S656
+i-mobile;S392
+i-mobile;S551
+i-mobile;S250
+i-mobile;S288
+i-mobile;S389
+i-mobile;S323
+i-mobile;i858
+i-mobile;i692
+i-mobile;i691
+i-mobile;S221
+i-mobile;S386
+i-mobile;S524
+i-mobile;S286
+i-mobile;S285
+i-mobile;i810
+i-mobile;i651
+i-mobile;i680
+i-mobile;i693
+i-mobile;TV360
+i-mobile;322
+i-mobile;320
+i-mobile;319
+i-mobile;318i
+i-mobile;315i
+i-mobile;318
+i-mobile;315
+i-mobile;313
+i-mobile;310
+i-mobile;309
+i-mobile;TV550 Touch
+i-mobile;TV536
+i-mobile;TV535
+i-mobile;TV533
+i-mobile;522
+i-mobile;TV530
+i-mobile;TV523
+i-mobile;520
+i-mobile;519
+i-mobile;518
+i-mobile;516
+i-mobile;513
+i-mobile;512
+i-mobile;510
+i-mobile;TV630
+i-mobile;638CG
+i-mobile;TV650 Touch&Move
+i-mobile;TV620
+i-mobile;627
+i-mobile;TV626
+i-mobile;625
+i-mobile;613
+i-mobile;612
+i-mobile;611
+i-mobile;610
+Spice Mobile;X-Life 425
+Spice Mobile;X-Life 515Q
+Spice Mobile;XLife 46Q
+Spice Mobile;XLife 435Q
+Spice Mobile;Stellar 519
+Spice Mobile;X-Life 410
+Spice Mobile;X-Life 406
+Spice Mobile;X-Life 403E
+Spice Mobile;X-Life 404
+Spice Mobile;X-Life 431 Q Lite
+Spice Mobile;X-Life 511 Pro
+Spice Mobile;X-Life 480Q
+Spice Mobile;X-Life 364
+Spice Mobile;X-Life 512
+Spice Mobile;Stellar 516
+Spice Mobile;Stellar 517
+Spice Mobile;Stellar 362
+Spice Mobile;Stellar 518
+Spice Mobile;Stellar 520n
+Spice Mobile;Stellar 440
+Spice Mobile;Stellar 524
+Spice Mobile;Stellar 451 3G
+Spice Mobile;Stellar 449 3G
+Spice Mobile;Stellar 508
+Spice Mobile;Stellar 430
+Spice Mobile;Smart Flo 358
+Spice Mobile;N-300
+Spice Mobile;Stellar 360
+Spice Mobile;Stellar 470
+Spice Mobile;Stellar 445
+Spice Mobile;Stellar 497
+Spice Mobile;Smart Flo 359
+Spice Mobile;Smart Flo 503
+Spice Mobile;Dream UNO 498H
+Spice Mobile;Stellar 439
+Spice Mobile;Stellar 361
+Spice Mobile;Stellar 507
+Spice Mobile;Stellar 600
+Spice Mobile;Stellar 526
+Spice Mobile;Stellar 509
+Spice Mobile;Smart Flo Mettle 5X
+Spice Mobile;Smart Flo Mettle 4x
+Spice Mobile;Smart Flo Mettle 3.5X Mi-356
+Spice Mobile;Smart Flo Poise Mi-451
+Spice Mobile;Stellar Mettle Icon Mi-506
+Spice Mobile;Stellar Glide Mi-438
+Spice Mobile;Coolpad 2
+Spice Mobile;Pinnacle Stylus
+Spice Mobile;Smart Flo Edge
+Spice Mobile;Smart Flo Ivory 2
+Spice Mobile;Stellar Virtuoso Pro+
+Spice Mobile;Smart FLO Pace3
+Spice Mobile;Stellar Nhance 2
+Spice Mobile;Stellar Glamour
+Spice Mobile;Smart Flo Space
+Spice Mobile;Pinnacle FHD
+Spice Mobile;M-5005
+Spice Mobile;Mi-280
+Spice Mobile;M-5456
+Spice Mobile;M-5220
+Spice Mobile;M-5460
+Spice Mobile;Mi-350n
+Spice Mobile;QT-62 BLADE
+Spice Mobile;M-5335 WOW
+Spice Mobile;M-5455 FLO
+Spice Mobile;M-6450 Metal
+Spice Mobile;M-6900 Knight
+Spice Mobile;Mi-720
+Spice Mobile;M-4262
+Spice Mobile;Mi-350
+Spice Mobile;S-9090
+Spice Mobile;Blueberry Aura
+Spice Mobile;Samba
+Spice Mobile;M-5225
+Spice Mobile;M-5370
+Spice Mobile;M-5115
+Spice Mobile;M-5360
+Spice Mobile;Carnival
+Spice Mobile;M-4242
+Spice Mobile;S-1200
+Spice Mobile;M-6262
+Spice Mobile;QT-50
+Spice Mobile;QT-60
+Spice Mobile;G-6565
+Spice Mobile;M-6 Sports
+Spice Mobile;Mi-300
+Spice Mobile;M-4580n
+Spice Mobile;QT-68
+Spice Mobile;M-67 3D
+Spice Mobile;QT-95
+Spice Mobile;M-5161n
+Spice Mobile;M-5454
+Spice Mobile;M-5262
+Spice Mobile;QT-65
+Spice Mobile;M-5170
+Spice Mobile;M-4250
+Spice Mobile;M-4580 DV
+Spice Mobile;M-6350
+Spice Mobile;M-5700
+Spice Mobile;M-5570
+Spice Mobile;M-6460
+Spice Mobile;M-5056
+Spice Mobile;M-5445
+Spice Mobile;M-5500
+Spice Mobile;Mi-410
+Spice Mobile;M-5750
+Spice Mobile;M-5350
+Spice Mobile;Blueberry Express
+Spice Mobile;Blueberry Mini
+Spice Mobile;M-6868
+Spice Mobile;M-6700
+Spice Mobile;Mi-310
+Spice Mobile;M-5180
+Spice Mobile;M-9000
+Spice Mobile;G-6550
+Spice Mobile;M-5100
+Spice Mobile;C-3300
+Spice Mobile;M-6200
+Spice Mobile;M-6800 FLO
+Spice Mobile;Mi-270
+Spice Mobile;M-6400
+Spice Mobile;S-6005
+Spice Mobile;M-5252
+Spice Mobile;S-5420
+Emporia;SMART
+Emporia;Pure
+Emporia;eco
+Emporia;FLIP basic
+Emporia;Glam
+Emporia;SOLIDplus
+Emporia;TALKbasic
+Emporia;CAREplus
+Emporia;CONNECT
+Emporia;SAFETYpremium
+Emporia;TALKcomfort
+Emporia;CLICK
+Emporia;TIME
+Emporia;TALK
+Emporia;SOLID
+Emporia;ELEGANCE plus
+Emporia;ELEGANCE
+Emporia;LIFEplus
+Emporia;TALKpremium
+Emporia;RL1
+Emporia;SAFETYplus
+ICEMOBILE;Prime 4.0 Plus
+ICEMOBILE;Gravity 4.0
+ICEMOBILE;Prime 5.0
+ICEMOBILE;Prime 3.5
+ICEMOBILE;Prime 5.0 Plus
+ICEMOBILE;Prime 5.5
+ICEMOBILE;Prime 4.0
+ICEMOBILE;G2
+ICEMOBILE;Rock Bold
+ICEMOBILE;Hydro
+ICEMOBILE;Sol III
+ICEMOBILE;Gravity Pro
+ICEMOBILE;Charm II
+ICEMOBILE;G10
+ICEMOBILE;G3
+ICEMOBILE;G7 Pro
+ICEMOBILE;Prime 4.5
+ICEMOBILE;Splash
+ICEMOBILE;Cenior
+ICEMOBILE;Charm
+ICEMOBILE;Sol II
+ICEMOBILE;Rock Mini
+ICEMOBILE;Twilight II
+ICEMOBILE;Quattro
+ICEMOBILE;Submarine
+ICEMOBILE;Apollo
+ICEMOBILE;Apollo Touch
+ICEMOBILE;G5
+ICEMOBILE;Galaxy Prime Plus
+ICEMOBILE;G7
+ICEMOBILE;Galaxy Prime Extreme
+ICEMOBILE;Blizzard III
+ICEMOBILE;Acqua
+ICEMOBILE;Diamond Dust
+ICEMOBILE;Galaxy Prime
+ICEMOBILE;Fuego
+ICEMOBILE;Hurricane II
+ICEMOBILE;Wave
+ICEMOBILE;Twister
+ICEMOBILE;Tornado II
+ICEMOBILE;Thunder
+ICEMOBILE;Sol
+ICEMOBILE;Clima II
+ICEMOBILE;Flurry II
+ICEMOBILE;Waterproof
+ICEMOBILE;Viento II
+ICEMOBILE;Viento
+ICEMOBILE;Twilight Touch
+ICEMOBILE;Twilight
+ICEMOBILE;Tropical II
+ICEMOBILE;Tropical
+ICEMOBILE;Tornado
+ICEMOBILE;Tunder
+ICEMOBILE;Storm
+ICEMOBILE;Shine
+ICEMOBILE;Rock
+ICEMOBILE;Rainbow II
+ICEMOBILE;Rainbow
+ICEMOBILE;Hurricane
+ICEMOBILE;Comet II
+ICEMOBILE;Mist
+ICEMOBILE;Lightning
+ICEMOBILE;Flurry
+ICEMOBILE;Crystal
+ICEMOBILE;Comet
+ICEMOBILE;Clima
+ICEMOBILE;Blizzard II
+ICEMOBILE;Blizzard
+Velocity;111
+Velocity;103
+COWON;D3
+Kogan;Agora Pro
+Kogan;Agora
+Vertu;Signature Touch for Bentley
+Vertu;Signature Touch (2015)
+Vertu;Signature Touch
+Vertu;Ti
+Vertu;Constellation Smile
+Vertu;CONSTELLATION
+Vertu;Signature Precious
+Vertu;Constellation Quest
+Vertu;Constellation Ayxta
+Vertu;Constellation Diamonds
+Vertu;Constellation Rococo
+Vertu;Constellation Monogram
+Vertu;Constellation Vivre
+Vertu;Constellation Exotic
+Vertu;Constellation Pure
+Vertu;Ascent Ti ICM Special Edition
+Vertu;Ascent Ti Carbon Fibre
+Vertu;Ascent Ti Neon
+Vertu;Ascent Ti Ferrari
+Vertu;Ascent Ferrari GT
+Vertu;Ascent 2010
+Vertu;Signature S
+Vertu;Ascent Ti
+Vertu;Constellation
+Vertu;Ascent
+Vertu;Signature
+AT&T;Cingular Flip M3620
+AT&T;Z222
+AT&T;Avail 2
+AT&T;Z998
+AT&T;Fusion 2
+AT&T;Z331
+AT&T;Avail
+AT&T;Z221
+AT&T;U2800A
+AT&T;Impulse 4G
+AT&T;Fusion
+AT&T;R225
+AT&T;F160
+AT&T;Quickfire
+VKMobile;Kickflip
+Benq-Siemens;Q-fi EF71
+Benq-Siemens;SL91
+Benq-Siemens;E81
+Benq-Siemens;E71
+Benq-Siemens;A38
+Benq-Siemens;P51
+Benq-Siemens;EL71
+Benq-Siemens;CL71
+Benq-Siemens;CF61
+Benq-Siemens;C81
+Benq-Siemens;E61
+Benq-Siemens;EF91
+Benq-Siemens;S81
+Benq-Siemens;EF51
+Benq-Siemens;EF81
+Benq-Siemens;S88
+Benq-Siemens;S68
+Helio;Ocean 2
+Haier;W716
+Haier;Double Z702
+Haier;Twinn
+Haier;WOW S210
+Haier;V200
+Haier;HG-Z1000
+Haier;A62
+Haier;M2000
+Haier;HG-Z2000
+Haier;M60
+Haier;HG-Z1700
+Haier;V60
+Haier;HG-M101
+Haier;HG-M201
+Haier;M180
+Haier;U50
+Haier;U52
+Haier;U69
+Haier;G3I
+Haier;M306
+Haier;X76
+Haier;M307
+Haier;A70
+Haier;M350
+Haier;V70
+Haier;V700
+Haier;U56
+Haier;A67
+Haier;M66
+Haier;A7
+Haier;Z1600
+Haier;M500
+Haier;E30
+Haier;M300
+Haier;T60
+Haier;Z1700D
+Haier;HG-A7
+Haier;V20
+Haier;A600
+Haier;M260
+Haier;M80
+Haier;N70
+Haier;N90
+Haier;M600
+Haier;M1000
+Haier;M230
+Haier;N60
+Haier;V280
+Haier;P7
+Handspring;Treo 600 (GSM edition)
+Handspring;Treo 600 (CDMA edition)
+Handspring;Treo 300
+Handspring;Treo 270
+Handspring;Treo 180
+Bird;S570
+Danger;Sidekick iD
+Danger;Sidekick 3
+Danger;Hiptop II / T-Mobile Sidekick II
+Danger;Hiptop Color / Sidekick Color
+Danger;HipTop / T-Mobile SideKick
+WND;Wind DUO 2200
+WND;Wind VG 2100
+WND;Wind DUO 2100
+O2;XDA Flame
+Latte;Chrome 401
+Latte;Chrome 301
+Latte;neon 7
+Latte;Slim 41f
+Latte;Chrome 202
+Latte;Boom
+Latte;Slim11b
+Siemens;AF51
+Siemens;AL21
+Siemens;A31
+Siemens;CF110
+Siemens;CC75
+Siemens;SL75
+Siemens;S75
+Siemens;SP65
+Siemens;CL75
+Siemens;CX75
+Siemens;M75
+Siemens;CF76 / CF75
+Siemens;SXG75
+Siemens;A70
+Siemens;AX75
+Siemens;A75
+Siemens;CX70 Emoty
+Siemens;A65 / A62
+Siemens;CX70
+Siemens;SK65
+Siemens;SL65
+Siemens;C66 / CT66 / CV66 / C65
+Siemens;C70 / CT70 / CV70 / C71 / CT71 / CV71
+Siemens;S65 / S66
+Siemens;M65
+Siemens;CX66 / CX65
+Siemens;CF63 / CF62 / CF62T
+Siemens;C61
+Siemens;C62
+Siemens;C60
+Siemens;U15
+Siemens;MC60
+Siemens;SX1
+Siemens;M56
+Siemens;A60
+Siemens;SL56
+Siemens;M55
+Siemens;SL55
+Siemens;S56
+Siemens;A56 / A56i
+Siemens;CT56
+Siemens;C56
+Siemens;U10
+Siemens;S55
+Siemens;SX56
+Siemens;M46
+Siemens;S46
+Siemens;S40
+Siemens;S35i
+Firefly Mobile;Firefly Phone
+Cricket;TXTM8 3G
+Cricket;MSGM8 II
+Cricket;MSGM8
+Cricket;CAPTR II
+Cricket;CAPTR
+Cricket;A100
+Cricket;EZ
+Orange;San Diego
+Orange;San Francisco II
+Mitsubishi;M760
+Mitsubishi;M430i / M900
+MiTAC;Mio 8390
+Amoi;A726W
+Amoi;N828P
+Amoi;A900W
+Amoi;A920W
+Amoi;A955W
+Amoi;A928W
+Amoi;N807
+Amoi;N808
+Amoi;N700
+Amoi;N89
+Amoi;F203
+Amoi;F210
+Amoi;N310
+Amoi;F106
+Amoi;F205
+Amoi;S500
+Amoi;S600
+Amoi;F208
+Amoi;F209
+Amoi;A10
+Amoi;S660
+Amoi;N79
+Amoi;A100
+Amoi;WMA8512
+Amoi;WMA8710
+Amoi;WMA8709
+Amoi;M300
+Amoi;M3
+Amoi;A208
+Amoi;A102
+Amoi;A200
+Amoi;A203
+Amoi;WMA8515
+Amoi;WMA8701A
+Amoi;WMA8703
+Amoi;WMA9110
+Amoi;WMA9109
+Amoi;WMA8508
+Amoi;WMA8507
+Amoi;WMA8517
+Amoi;E72
+Amoi;E78
+Amoi;GSM6711A
+Amoi;N8i
+Amoi;N810
+Amoi;N800
+Amoi;S58
+Amoi;F36
+Amoi;N60
+Amoi;F30
+Amoi;F60
+Amoi;F56
+Amoi;F16
+Amoi;F200E
+Amoi;S520
+Amoi;S532
+Amoi;F100
+Amoi;S525
+Amoi;S501
+Amoi;F320
+Amoi;WMA8505
+Sierra Wireless;Voq A10
+Neonode;N2
+Neonode;N1
+Karbonn;Quattro L45 IPS
+Karbonn;Quattro L50
+Karbonn;Titanium Moghul
+Karbonn;Titanium Delight
+Karbonn;A1 Plus Champ
+Karbonn;Alfa A120
+Karbonn;Alfa A93 POP
+Karbonn;Titanium S21
+Karbonn;Titanium Dazzle 2 S202
+Karbonn;Titanium S320
+Karbonn;Titanium Desire S30
+Karbonn;Titanium Pop S315
+Karbonn;Titanium Dazzle3 S204
+Karbonn;Titanium Mach One Plus
+Karbonn;A202
+Karbonn;Titanium High 2 S203
+Karbonn;Titanium MachFive
+Karbonn;Titanium S109
+Karbonn;Aura 9
+Karbonn;Titanium S200HD
+Karbonn;Titanium S15
+Karbonn;Titanium S15 Ultra
+Karbonn;Alfa A110
+Karbonn;Titanium High
+Karbonn;Alfa A112
+Karbonn;Titanium MachTwo S360
+Karbonn;A108
+Karbonn;Alfa A104
+Karbonn;Machone
+Karbonn;Titanium Octane
+Karbonn;Sparkle V
+Karbonn;Titanium S19
+Karbonn;Titanium Wind W4
+Karbonn;Smart A12 Star
+Karbonn;A1+ Duple
+Karbonn;Titanium S1 Plus
+Karbonn;Titanium S99
+Karbonn;A91
+Karbonn;Titanium Octane Plus
+Karbonn;A52
+Karbonn;Titanium Hexa
+Karbonn;A19
+Karbonn;A5i
+Karbonn;A2+
+Karbonn;A90
+Karbonn;A4+
+Karbonn;A6
+Karbonn;A15+
+Karbonn;A16
+Karbonn;A10
+Karbonn;A12+
+Karbonn;A99
+Karbonn;A8
+Karbonn;A25
+Karbonn;A35
+Karbonn;A27+
+Karbonn;A21+
+Karbonn;A26
+Karbonn;A18+
+Karbonn;A29
+Karbonn;Titanium X
+Karbonn;S9 Titanium
+Karbonn;S7 Titanium
+Karbonn;S5 Plus Titanium
+Karbonn;S2 Titanium
+Karbonn;A11
+Karbonn;A30 TA-FONE
+Karbonn;S1 Titanium
+Karbonn;A11+
+Karbonn;A9+
+Karbonn;K9 Smart
+Karbonn;K440
+Karbonn;K101+ Media Champ
+Karbonn;K36+ Jumbo Mini
+Karbonn;A21
+Karbonn;A1+
+Karbonn;K21+ Radio Jockey
+Karbonn;KC540 Blaze
+Karbonn;K102+ Flair
+Karbonn;K451+ Sound Wave
+Karbonn;K707
+Karbonn;K4+ Titan
+Karbonn;K309 Boombastic
+Karbonn;K52 Groovster
+Karbonn;KT62
+Karbonn;A9
+Karbonn;K65 Buzz
+Karbonn;Smart Tab1
+Karbonn;KT7
+Karbonn;K3000 Gamester
+Karbonn;KT21 Express
+Karbonn;KT16 Iconik
+Karbonn;KT81 Cosmos
+Karbonn;K 222
+Karbonn;Symphony
+Karbonn;K 99
+Karbonn;K 91
+Karbonn;K 604
+Karbonn;K 622
+Karbonn;KT 51
+Karbonn;Kurve
+Karbonn;K 595
+Karbonn;K 15
+Karbonn;K 333
+Karbonn;K 21
+Karbonn;K 444 Plus
+Karbonn;K 55
+Karbonn;K 4
+Karbonn;K 600
+Karbonn;K 44
+Karbonn;KC 555
+Karbonn;K 1
+Karbonn;K 551
+Karbonn;K 455
+Karbonn;K451M
+Karbonn;K 460
+Karbonn;K 550
+Karbonn;K 444
+Karbonn;K 424
+Karbonn;K 325
+Karbonn;K 550i
+Karbonn;K 111
+Karbonn;K 1000
+Karbonn;K 19
+Karbonn;K 1414
+Karbonn;K 505
+Karbonn;K 444 Star
+Karbonn;K 25i
+Karbonn;K 487
+Karbonn;K 406
+Karbonn;K 244
+Karbonn;K 451i
+Karbonn;K 6
+Karbonn;K 580
+Karbonn;K 46
+Karbonn;K1212
+Karbonn;K30
+Karbonn;K25
+Karbonn;K 770i
+Karbonn;K 777
+Karbonn;K 20
+Karbonn;K 570
+Karbonn;K 334
+Karbonn;K 202
+Karbonn;K 22
+Karbonn;K W
+Karbonn;K 9
+Karbonn;K 8
+Karbonn;K 7
+Karbonn;K 390
+Karbonn;K 110
+Karbonn;K 210
+Karbonn;K 220
+Karbonn;Multiplex
+Karbonn;K 1515
+Karbonn;KD 100
+Karbonn;K 486
+Karbonn;K 2
+Karbonn;K 33
+Karbonn;K 5
+Karbonn;K 1818
+Karbonn;K 409
+Karbonn;K 444x
+Karbonn;K 280
+Karbonn;K 101
+Karbonn;K 201
+Karbonn;K 404
+Karbonn;K 1616
+Karbonn;A 1
+Karbonn;K 1010
+Sendo;S601
+Sendo;X
+Sendo;S331 / S330
+Sendo;M550 / M551
+Sendo;Z100
+Sendo;S251
+Micromax;Canvas Spark 3
+Micromax;Canvas Evok
+Micromax;Canvas Amaze 2
+Micromax;BOLT Selfie
+Micromax;Bolt Q381
+Micromax;Canvas Spark 2 Plus
+Micromax;Bolt Supreme
+Micromax;Canvas Mega 2
+Micromax;Bolt Supreme 2
+Micromax;Canvas 6
+Micromax;Canvas 6 Pro
+Micromax;Canvas Juice 4G
+Micromax;Canvas Fire 4G+
+Micromax;Canvas Mega 4G
+Micromax;Canvas Juice 4
+Micromax;Canvas Pulse 4G
+Micromax;Bolt Q331
+Micromax;Canvas Amaze
+Micromax;Canvas Mega
+Micromax;Canvas Pace 4G
+Micromax;Canvas Nitro 3
+Micromax;Canvas Blaze 4G+
+Micromax;Canvas Xpress 4G
+Micromax;Canvas 5
+Micromax;Bolt Q332
+Micromax;Canvas Juice 3+
+Micromax;Canvas Play 4G
+Micromax;Bolt S302
+Micromax;Bolt Q339
+Micromax;Canvas Blaze 4G
+Micromax;Bolt Q338
+Micromax;Canvas Juice 3
+Micromax;Canvas Fire 4G
+Micromax;Canvas Nitro 4G
+Micromax;Canvas Selfie 2
+Micromax;Canvas Selfie 3
+Micromax;Bolt S301
+Micromax;Canvas Xpress 2
+Micromax;Canvas Spark 2
+Micromax;Bolt D303
+Micromax;Canvas HUE 2
+Micromax;Canvas Selfie Lens
+Micromax;Canvas Sliver 5
+Micromax;Canvas Knight 2
+Micromax;Canvas Nitro 2
+Micromax;Unite 3
+Micromax;Canvas Fire 3
+Micromax;Canvas Doodle 4
+Micromax;Bolt D200
+Micromax;Canvas Spark
+Micromax;Canvas Play
+Micromax;Bolt D320
+Micromax;Bolt S300
+Micromax;Canvas Juice 2
+Micromax;Bolt Q324
+Micromax;Canvas Fire 4
+Micromax;Canvas Pep
+Micromax;Canvas Hue
+Micromax;Bolt D321
+Micromax;Bolt A82
+Micromax;Canvas Selfie
+Micromax;Yureka
+Micromax;Canvas Xpress
+Micromax;Bolt AD3520
+Micromax;Bolt AD4500
+Micromax;Unite
+Micromax;Bolt A067
+Micromax;Canvas Duet
+Micromax;Canvas Nitro
+Micromax;Canvas A1 AQ4501
+Micromax;Canvas Duet II
+Micromax;Canvas 4 plus
+Micromax;Bolt A064
+Micromax;Canvas Entice
+Micromax;Bolt A065
+Micromax;Canvas Gold
+Micromax;Canvas Knight Cameo
+Micromax;Canvas L
+Micromax;Canvas XL2
+Micromax;X287
+Micromax;Canvas Win
+Micromax;Bolt A082
+Micromax;Bolt A066
+Micromax;X090
+Micromax;X245
+Micromax;X252
+Micromax;Bolt A069
+Micromax;Canvas HD Plus
+Micromax;Canvas Fire
+Micromax;X086
+Micromax;X458
+Micromax;X253
+Micromax;Unite 2
+Micromax;Canvas Engage
+Micromax;Canvas Power
+Micromax;Bolt A075
+Micromax;Bolt A69
+Micromax;Canvas Elanza 2
+Micromax;Canvas Knight
+Micromax;Canvas Doodle 3
+Micromax;Canvas 2 Colours
+Micromax;X096
+Micromax;X089
+Micromax;X329
+Micromax;X337
+Micromax;Canvas Elanza
+Micromax;X088
+Micromax;Bolt A068
+Micromax;Canvas Turbo Mini
+Micromax;X254
+Micromax;Canvas Blaze HD
+Micromax;X281
+Micromax;X324i
+Micromax;X328
+Micromax;X098
+Micromax;X258
+Micromax;MAd A94
+Micromax;Canvas XL
+Micromax;X097
+Micromax;X085
+Micromax;X352
+Micromax;X251
+Micromax;A30 Smarty 3.0
+Micromax;A57 Ninja 3
+Micromax;A65 Smarty 4.3
+Micromax;A68 Smarty 4.0
+Micromax;A89 Ninja
+Micromax;A87 NINJA 4.0
+Micromax;A54 Smarty 3.5
+Micromax;A51 Bolt
+Micromax;A26 Bolt
+Micromax;A115 Canvas 3D
+Micromax;A110Q Canvas 2 plus
+Micromax;A111 Canvas Doodle
+Micromax;A72 Canvas VIVA
+Micromax;A88 Canvas Music
+Micromax;A90S Superfone Pixel
+Micromax;A110 Canvas 2
+Micromax;A25 Smarty
+Micromax;A27 Ninja
+Micromax;A35 Bolt
+Micromax;A116 Canvas HD
+Micromax;X101
+Micromax;X283
+Micromax;X294
+Micromax;X454
+Micromax;A100
+Micromax;Q34
+Micromax;X660
+Micromax;X640
+Micromax;X335
+Micromax;X312
+Micromax;X445
+Micromax;X246
+Micromax;X1i Xtra
+Micromax;X278
+Micromax;X259
+Micromax;A85
+Micromax;A75
+Micromax;A78
+Micromax;A73
+Micromax;A50
+Micromax;A52
+Micromax;A45 Superfone Punk
+Micromax;A56 Superfone Ninja 2
+Micromax;A80 Superfone Infinity
+Micromax;A44 Superfone Punk
+Micromax;X276
+Micromax;X1i Reloaded
+Micromax;X275
+Micromax;X271
+Micromax;X288
+Micromax;X233
+Micromax;X274
+Micromax;X231
+Micromax;X333
+Micromax;X55
+Micromax;X261
+Micromax;X78
+Micromax;X270
+Micromax;X229
+Micromax;X40
+Micromax;X222
+Micromax;Q7
+Micromax;X210
+Micromax;X230
+Micromax;X365
+Micromax;X100
+Micromax;X360
+Micromax;X220
+Micromax;X215
+Micromax;X111
+Micromax;X330
+Micromax;X290
+Micromax;X226
+Micromax;X265
+Micromax;X395
+Micromax;X266
+Micromax;M2
+Micromax;X228+
+Micromax;X226+
+Micromax;X285
+Micromax;Q2+
+Micromax;Q6
+Micromax;Q3+
+Micromax;Q5FB
+Micromax;Q50
+Micromax;Q80
+Micromax;W900
+Micromax;X550 QUBE
+Micromax;X370
+Micromax;X228
+Micromax;Q66
+Micromax;X505 PSYCH
+Micromax;X500
+Micromax;X510 PIKE
+Micromax;X560
+Micromax;A60
+Micromax;A55
+Micromax;A70
+Micromax;X250
+Micromax;X260
+Micromax;X2i+
+Micromax;X11i
+Micromax;X1i+
+Micromax;X263
+Micromax;X450
+Micromax;Modu T
+Micromax;X118
+Micromax;Q75
+Micromax;G4
+Micromax;X600
+Micromax;X235
+Micromax;Q55
+Maxon;MX-C110
+Maxon;MX-E10
+Maxon;MX-C60
+Maxon;MX-5010
+Maxon;MX-2100
+Maxon;MX-7600
+Hitachi;G1000
+Hitachi;SH-P300
+Sharp;AQUOS Crystal
+Sharp;FX Plus
+Sharp;Galapagos
+Sharp;FX
+Sharp;802SH
+Sharp;TM200
+Sharp;GX25 / GX200
+Sharp;v902sh
+Sharp;TM150
+Sharp;GX15 / GZ100
+Sharp;V801SH
+Sharp;TM100
+Sharp;GX30
+Sharp;GX20 / GX22
+Sharp;GX10i (Audiovox GS-200)
+Sharp;Z-800
+NEC;Terrain
+NEC;E949
+NEC;N331i
+NEC;N342i
+NEC;N410i
+NEC;N840
+NEC;N830
+NEC;E338
+NEC;E101
+NEC;n401i
+NEC;N900iG
+NEC;535
+NEC;232 / e232
+NEC;N400i
+NEC;N820
+NEC;N700
+NEC;525
+NEC;515
+NEC;MP6J1E1-1F
+Sagem;PUMA Phone
+Sagem;my220X
+Sagem;my210X
+Sagem;my511X
+Sagem;my401Z
+Sagem;my411X
+Sagem;my401C
+Sagem;my300C
+Sagem;my901C
+Sagem;my200C
+Sagem;my600X
+Sagem;my501C
+Sagem;my400X
+Sagem;my401X
+Sagem;my202X
+Sagem;my850C
+Sagem;my405X
+Sagem;my800x
+Sagem;my201X
+Sagem;my200X
+Sagem;my501X
+Sagem;my700X
+Sagem;my302X
+Sagem;my300X
+Sagem;my301X
+Sagem;MyX-6
+Sagem;MyX-8
+Sagem;MY C5-2
+Sagem;MyX-4
+Sagem;MY S-7
+Sagem;MYX-5-2
+Sagem;MY V-55
+Sagem;MyX-1
+Sagem;MY X-7
+Sagem;MY V-65
+Sagem;MYX-5
+Sagem;MYX-3
+Sagem;PW 3020
+Sagem;MyX-2a
+BenQ;E72
+BenQ;M315
+BenQ;M350
+BenQ;P31
+BenQ;A520
+BenQ;Z2
+BenQ;A500
+BenQ;P30
+BenQ;U700
+BenQ;P50
+BenQ;S700
+BenQ;M305
+BenQ;S680C / S668C
+BenQ;M100
+BenQ;M300
+BenQ;S660C / S670C
+BenQ;C220
+BenQ;C900
+Philips;V377
+Philips;Xenium V787
+Philips;S616
+Philips;S337
+Philips;Xenium S307
+Philips;I928
+Philips;Xenium V526
+Philips;Xenium I908
+Philips;S309
+Philips;S396
+Philips;W3509
+Philips;S398
+Philips;Xenium V387
+Philips;S388
+Philips;S308
+Philips;Xenium W6610
+Philips;Xenium W8510
+Philips;W3500
+Philips;W920
+Philips;Xenium X216
+Philips;Xenium X710
+Philips;Xenium X806
+Philips;Xenium X100
+Philips;Xenium X510
+Philips;Xenium X503
+Philips;W725
+Philips;Xenium X525
+Philips;Xenium X128
+Philips;Xenium X325
+Philips;Xenium X513
+Philips;Xenium X523
+Philips;X526
+Philips;Xenium F515
+Philips;Xenium X713
+Philips;X518
+Philips;Xenium X810
+Philips;Xenium 9@9q
+Philips;Xenium X800
+Philips;198
+Philips;M600
+Philips;Xenium 9@9v
+Philips;Xenium 9@9u
+Philips;192
+Philips;392
+Philips;692
+Philips;Xenium 9@9k
+Philips;699
+Philips;Xenium 9@9w
+Philips;Xenium 9@9z
+Philips;892
+Philips;292
+Philips;Xenium 9@9r
+Philips;Xenium 9@9h
+Philips;Xenium 9@9g
+Philips;S660
+Philips;550
+Philips;759
+Philips;855
+Philips;655
+Philips;568
+Philips;755
+Philips;859
+Philips;650
+Philips;C8000
+Philips;Fisio 820
+Ericsson;R300LX / R300D
+Ericsson;R520m
+Ericsson;T61d
+Ericsson;T66
+Ericsson;T68
+Ericsson;T61LX / T61d
+Ericsson;T60d
+Ericsson;A2218z / R300z
+Ericsson;T39
+Ericsson;R380
+Ericsson;R289LX
+Ericsson;T28 World
+Ericsson;R278d
+Ericsson;I 888
